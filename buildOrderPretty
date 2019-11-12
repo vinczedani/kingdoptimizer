@@ -1,5 +1,7 @@
 mainbuilding lvl1: You gain 2cp for 190 res. Res/cp: 95
 
+embassy lvl1: You gain 5cp for 540 res. Res/cp: 108
+
 cranny lvl1: You gain 1cp for 130 res. Res/cp: 130
 
 granary lvl1: You gain 1cp for 270 res. Res/cp: 270
@@ -12,12 +14,6 @@ Combined cost: 1030 adding 6 cp overall (avg: 171.66666666666666)
 
 mainbuilding lvl2: You gain 1cp for 255 res. Res/cp: 255
 
-mainbuilding lvl3: You gain 0cp for 335 res. Res/cp: 9999999999999
-
-embassy lvl1: You gain 5cp for 540 res. Res/cp: 108
-It has 2 required building levels (listed above).
-Combined cost: 1130 adding 6 cp overall (avg: 188.33333333333334)
-
 treasury lvl1: You gain 7cp for 2300 res. Res/cp: 328.57142857142856
 
 cranny lvl2: You gain 0cp for 170 res. Res/cp: 9999999999999
@@ -28,7 +24,7 @@ Combined cost: 380 adding 1 cp overall (avg: 380)
 
 rallypoint lvl1: You gain 1cp for 430 res. Res/cp: 430
 
-mainbuilding lvl4: You gain 1cp for 445 res. Res/cp: 445
+mainbuilding lvl3: You gain 0cp for 335 res. Res/cp: 9999999999999
 
 barracks lvl1: You gain 1cp for 730 res. Res/cp: 730
 
@@ -42,23 +38,15 @@ Combined cost: 4520 adding 9 cp overall (avg: 502.22222222222223)
 
 smithy lvl1: You gain 2cp for 1090 res. Res/cp: 545
 
+mainbuilding lvl4: You gain 1cp for 445 res. Res/cp: 445
+It has 1 required building levels (listed above).
+Combined cost: 780 adding 1 cp overall (avg: 780)
+
 mainbuilding lvl5: You gain 1cp for 600 res. Res/cp: 600
+It has 1 required building levels (listed above).
+Combined cost: 1045 adding 2 cp overall (avg: 522.5)
 
 academy lvl2: You gain 1cp for 685 res. Res/cp: 685
-
-academy lvl3: You gain 1cp for 905 res. Res/cp: 905
-
-academy lvl4: You gain 1cp for 1200 res. Res/cp: 1200
-
-academy lvl5: You gain 2cp for 1595 res. Res/cp: 797.5
-
-smithy lvl2: You gain 1cp for 1395 res. Res/cp: 1395
-
-smithy lvl3: You gain 0cp for 1785 res. Res/cp: 9999999999999
-
-stable lvl1: You gain 2cp for 720 res. Res/cp: 360
-It has 12 required building levels (listed above).
-Combined cost: 13305 adding 18 cp overall (avg: 739.1666666666666)
 
 marketplace lvl2: You gain 0cp for 435 res. Res/cp: 9999999999999
 
@@ -79,6 +67,20 @@ Combined cost: 3780 adding 5 cp overall (avg: 756)
 marketplace lvl7: You gain 2cp for 1500 res. Res/cp: 750
 It has 5 required building levels (listed above).
 Combined cost: 5280 adding 7 cp overall (avg: 754.2857142857143)
+
+academy lvl3: You gain 1cp for 905 res. Res/cp: 905
+
+academy lvl4: You gain 1cp for 1200 res. Res/cp: 1200
+
+academy lvl5: You gain 2cp for 1595 res. Res/cp: 797.5
+
+smithy lvl2: You gain 1cp for 1395 res. Res/cp: 1395
+
+smithy lvl3: You gain 0cp for 1785 res. Res/cp: 9999999999999
+
+stable lvl1: You gain 2cp for 720 res. Res/cp: 360
+It has 13 required building levels (listed above).
+Combined cost: 13640 adding 18 cp overall (avg: 757.7777777777778)
 
 residence lvl1: You gain 2cp for 1570 res. Res/cp: 785
 
@@ -127,8 +129,8 @@ academy lvl9: You gain 4cp for 4990 res. Res/cp: 1247.5
 academy lvl10: You gain 4cp for 6640 res. Res/cp: 1660
 
 workshop lvl1: You gain 4cp for 1890 res. Res/cp: 472.5
-It has 14 required building levels (listed above).
-Combined cost: 30710 adding 32 cp overall (avg: 959.6875)
+It has 16 required building levels (listed above).
+Combined cost: 31490 adding 33 cp overall (avg: 954.2424242424242)
 
 stable lvl2: You gain 1cp for 960 res. Res/cp: 960
 

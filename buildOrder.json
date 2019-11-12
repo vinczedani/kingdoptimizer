@@ -7,6 +7,13 @@
     "level": 1
   },
   {
+    "cpGain": 5,
+    "levelCost": 540,
+    "costPerCpGain": 108,
+    "name": "embassy",
+    "level": 1
+  },
+  {
     "cpGain": 1,
     "levelCost": 130,
     "costPerCpGain": 130,
@@ -47,25 +54,6 @@
     "level": 2
   },
   {
-    "cpGain": 0,
-    "levelCost": 335,
-    "costPerCpGain": 9999999999999,
-    "name": "mainbuilding",
-    "level": 3
-  },
-  {
-    "cpGain": 5,
-    "levelCost": 540,
-    "costPerCpGain": 108,
-    "name": "embassy",
-    "level": 1,
-    "levelCostWithRequirements": 1130,
-    "cpGainWithRequirements": 6,
-    "costPerCpGainWithRequirements": 188.33333333333334,
-    "requirementCount": 2,
-    "requirementsAdded": true
-  },
-  {
     "cpGain": 7,
     "levelCost": 2300,
     "costPerCpGain": 328.57142857142856,
@@ -99,11 +87,11 @@
     "level": 1
   },
   {
-    "cpGain": 1,
-    "levelCost": 445,
-    "costPerCpGain": 445,
+    "cpGain": 0,
+    "levelCost": 335,
+    "costPerCpGain": 9999999999999,
     "name": "mainbuilding",
-    "level": 4
+    "level": 3
   },
   {
     "cpGain": 1,
@@ -147,10 +135,27 @@
   },
   {
     "cpGain": 1,
+    "levelCost": 445,
+    "costPerCpGain": 445,
+    "name": "mainbuilding",
+    "level": 4,
+    "levelCostWithRequirements": 780,
+    "cpGainWithRequirements": 1,
+    "costPerCpGainWithRequirements": 780,
+    "requirementCount": 1,
+    "requirementsAdded": true
+  },
+  {
+    "cpGain": 1,
     "levelCost": 600,
     "costPerCpGain": 600,
     "name": "mainbuilding",
-    "level": 5
+    "level": 5,
+    "levelCostWithRequirements": 1045,
+    "cpGainWithRequirements": 2,
+    "costPerCpGainWithRequirements": 522.5,
+    "requirementCount": 1,
+    "requirementsAdded": true
   },
   {
     "cpGain": 1,
@@ -158,53 +163,6 @@
     "costPerCpGain": 685,
     "name": "academy",
     "level": 2
-  },
-  {
-    "cpGain": 1,
-    "levelCost": 905,
-    "costPerCpGain": 905,
-    "name": "academy",
-    "level": 3
-  },
-  {
-    "cpGain": 1,
-    "levelCost": 1200,
-    "costPerCpGain": 1200,
-    "name": "academy",
-    "level": 4
-  },
-  {
-    "cpGain": 2,
-    "levelCost": 1595,
-    "costPerCpGain": 797.5,
-    "name": "academy",
-    "level": 5
-  },
-  {
-    "cpGain": 1,
-    "levelCost": 1395,
-    "costPerCpGain": 1395,
-    "name": "smithy",
-    "level": 2
-  },
-  {
-    "cpGain": 0,
-    "levelCost": 1785,
-    "costPerCpGain": 9999999999999,
-    "name": "smithy",
-    "level": 3
-  },
-  {
-    "cpGain": 2,
-    "levelCost": 720,
-    "costPerCpGain": 360,
-    "name": "stable",
-    "level": 1,
-    "levelCostWithRequirements": 13305,
-    "cpGainWithRequirements": 18,
-    "costPerCpGainWithRequirements": 739.1666666666666,
-    "requirementCount": 12,
-    "requirementsAdded": true
   },
   {
     "cpGain": 0,
@@ -266,6 +224,53 @@
     "cpGainWithRequirements": 7,
     "costPerCpGainWithRequirements": 754.2857142857143,
     "requirementCount": 5,
+    "requirementsAdded": true
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 905,
+    "costPerCpGain": 905,
+    "name": "academy",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1200,
+    "costPerCpGain": 1200,
+    "name": "academy",
+    "level": 4
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1595,
+    "costPerCpGain": 797.5,
+    "name": "academy",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1395,
+    "costPerCpGain": 1395,
+    "name": "smithy",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1785,
+    "costPerCpGain": 9999999999999,
+    "name": "smithy",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 720,
+    "costPerCpGain": 360,
+    "name": "stable",
+    "level": 1,
+    "levelCostWithRequirements": 13640,
+    "cpGainWithRequirements": 18,
+    "costPerCpGainWithRequirements": 757.7777777777778,
+    "requirementCount": 13,
     "requirementsAdded": true
   },
   {
@@ -425,10 +430,10 @@
     "costPerCpGain": 472.5,
     "name": "workshop",
     "level": 1,
-    "levelCostWithRequirements": 30710,
-    "cpGainWithRequirements": 32,
-    "costPerCpGainWithRequirements": 959.6875,
-    "requirementCount": 14,
+    "levelCostWithRequirements": 31490,
+    "cpGainWithRequirements": 33,
+    "costPerCpGainWithRequirements": 954.2424242424242,
+    "requirementCount": 16,
     "requirementsAdded": true
   },
   {
