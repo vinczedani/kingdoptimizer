@@ -1,0 +1,3047 @@
+[
+  {
+    "cpGain": 4,
+    "levelCost": 340,
+    "costPerCpGain": 85,
+    "name": "marketplace",
+    "level": 1
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 190,
+    "costPerCpGain": 95,
+    "name": "mainbuilding",
+    "level": 1
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 510,
+    "costPerCpGain": 102,
+    "name": "academy",
+    "level": 1
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 540,
+    "costPerCpGain": 108,
+    "name": "embassy",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 130,
+    "costPerCpGain": 130,
+    "name": "cranny",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 210,
+    "costPerCpGain": 210,
+    "name": "cranny",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 255,
+    "costPerCpGain": 255,
+    "name": "mainbuilding",
+    "level": 2
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 270,
+    "costPerCpGain": 270,
+    "name": "granary",
+    "level": 1
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 2300,
+    "costPerCpGain": 328.57142857142856,
+    "name": "treasury",
+    "level": 1
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 720,
+    "costPerCpGain": 360,
+    "name": "stable",
+    "level": 1
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 2350,
+    "costPerCpGain": 391.6666666666667,
+    "name": "palace",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 420,
+    "costPerCpGain": 420,
+    "name": "warehouse",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 430,
+    "costPerCpGain": 430,
+    "name": "rallypoint",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 445,
+    "costPerCpGain": 445,
+    "name": "cranny",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 445,
+    "costPerCpGain": 445,
+    "name": "mainbuilding",
+    "level": 4
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 1890,
+    "costPerCpGain": 472.5,
+    "name": "workshop",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 475,
+    "costPerCpGain": 475,
+    "name": "granary",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 480,
+    "costPerCpGain": 480,
+    "name": "stonemason",
+    "level": 1
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1090,
+    "costPerCpGain": 545,
+    "name": "smithy",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 555,
+    "costPerCpGain": 555,
+    "name": "marketplace",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 570,
+    "costPerCpGain": 570,
+    "name": "cranny",
+    "level": 7
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1165,
+    "costPerCpGain": 582.5,
+    "name": "marketplace",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 600,
+    "costPerCpGain": 600,
+    "name": "mainbuilding",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 685,
+    "costPerCpGain": 685,
+    "name": "academy",
+    "level": 2
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1395,
+    "costPerCpGain": 697.5,
+    "name": "mainbuilding",
+    "level": 8
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 4220,
+    "costPerCpGain": 703.3333333333334,
+    "name": "townhall",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 710,
+    "costPerCpGain": 710,
+    "name": "marketplace",
+    "level": 4
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 730,
+    "costPerCpGain": 730,
+    "name": "barracks",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 745,
+    "costPerCpGain": 745,
+    "name": "warehouse",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1500,
+    "costPerCpGain": 750,
+    "name": "marketplace",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 765,
+    "costPerCpGain": 765,
+    "name": "rallypoint",
+    "level": 3
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 3135,
+    "costPerCpGain": 783.75,
+    "name": "marketplace",
+    "level": 10
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1570,
+    "costPerCpGain": 785,
+    "name": "residence",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 790,
+    "costPerCpGain": 790,
+    "name": "mainbuilding",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 790,
+    "costPerCpGain": 790,
+    "name": "stonemason",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1595,
+    "costPerCpGain": 797.5,
+    "name": "academy",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 905,
+    "costPerCpGain": 905,
+    "name": "academy",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 915,
+    "costPerCpGain": 915,
+    "name": "marketplace",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 935,
+    "costPerCpGain": 935,
+    "name": "cranny",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 1915,
+    "costPerCpGain": 957.5,
+    "name": "marketplace",
+    "level": 8
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 960,
+    "costPerCpGain": 960,
+    "name": "stable",
+    "level": 2
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 5145,
+    "costPerCpGain": 1029,
+    "name": "marketplace",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1045,
+    "costPerCpGain": 1045,
+    "name": "mainbuilding",
+    "level": 7
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 2120,
+    "costPerCpGain": 1060,
+    "name": "academy",
+    "level": 6
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 2160,
+    "costPerCpGain": 1080,
+    "name": "greatstable",
+    "level": 1
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 4330,
+    "costPerCpGain": 1082.5,
+    "name": "tradeoffice",
+    "level": 1
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 3290,
+    "costPerCpGain": 1096.6666666666667,
+    "name": "mainbuilding",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1125,
+    "costPerCpGain": 1125,
+    "name": "granary",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1195,
+    "costPerCpGain": 1195,
+    "name": "cranny",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1200,
+    "costPerCpGain": 1200,
+    "name": "academy",
+    "level": 4
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 8420,
+    "costPerCpGain": 1202.857142857143,
+    "name": "marketplace",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 2450,
+    "costPerCpGain": 1225,
+    "name": "marketplace",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 2470,
+    "costPerCpGain": 1235,
+    "name": "mainbuilding",
+    "level": 10
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 4990,
+    "costPerCpGain": 1247.5,
+    "name": "academy",
+    "level": 9
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 3760,
+    "costPerCpGain": 1253.3333333333333,
+    "name": "academy",
+    "level": 8
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1280,
+    "costPerCpGain": 1280,
+    "name": "ironfoundry",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1280,
+    "costPerCpGain": 1280,
+    "name": "sawmill",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1290,
+    "costPerCpGain": 1290,
+    "name": "barracks",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1290,
+    "costPerCpGain": 1290,
+    "name": "brickyard",
+    "level": 1
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 6575,
+    "costPerCpGain": 1315,
+    "name": "marketplace",
+    "level": 13
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 4010,
+    "costPerCpGain": 1336.6666666666667,
+    "name": "marketplace",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1395,
+    "costPerCpGain": 1395,
+    "name": "smithy",
+    "level": 2
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 2825,
+    "costPerCpGain": 1412.5,
+    "name": "academy",
+    "level": 7
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 4370,
+    "costPerCpGain": 1456.6666666666667,
+    "name": "mainbuilding",
+    "level": 12
+  },
+  {
+    "cpGain": 12,
+    "levelCost": 17655,
+    "costPerCpGain": 1471.25,
+    "name": "marketplace",
+    "level": 17
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1495,
+    "costPerCpGain": 1495,
+    "name": "granary",
+    "level": 7
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 13795,
+    "costPerCpGain": 1532.7777777777778,
+    "name": "marketplace",
+    "level": 16
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 10780,
+    "costPerCpGain": 1540,
+    "name": "marketplace",
+    "level": 15
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 7740,
+    "costPerCpGain": 1548,
+    "name": "mainbuilding",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1650,
+    "costPerCpGain": 1650,
+    "name": "stonemason",
+    "level": 6
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 6640,
+    "costPerCpGain": 1660,
+    "name": "academy",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1695,
+    "costPerCpGain": 1695,
+    "name": "stable",
+    "level": 4
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 22590,
+    "costPerCpGain": 1737.6923076923076,
+    "name": "marketplace",
+    "level": 18
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1750,
+    "costPerCpGain": 1750,
+    "name": "warehouse",
+    "level": 6
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 8835,
+    "costPerCpGain": 1767,
+    "name": "academy",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1790,
+    "costPerCpGain": 1790,
+    "name": "rallypoint",
+    "level": 6
+  },
+  {
+    "cpGain": 16,
+    "levelCost": 28925,
+    "costPerCpGain": 1807.8125,
+    "name": "marketplace",
+    "level": 19
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 1855,
+    "costPerCpGain": 1855,
+    "name": "mainbuilding",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 3850,
+    "costPerCpGain": 1925,
+    "name": "palace",
+    "level": 3
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 5825,
+    "costPerCpGain": 1941.6666666666667,
+    "name": "mainbuilding",
+    "level": 13
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 37015,
+    "costPerCpGain": 1948.157894736842,
+    "name": "marketplace",
+    "level": 20
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 11745,
+    "costPerCpGain": 1957.5,
+    "name": "academy",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2010,
+    "costPerCpGain": 2010,
+    "name": "residence",
+    "level": 2
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 10300,
+    "costPerCpGain": 2060,
+    "name": "mainbuilding",
+    "level": 15
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2110,
+    "costPerCpGain": 2110,
+    "name": "stonemason",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2190,
+    "costPerCpGain": 2190,
+    "name": "greatbarracks",
+    "level": 1
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 15620,
+    "costPerCpGain": 2231.4285714285716,
+    "name": "academy",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2260,
+    "costPerCpGain": 2260,
+    "name": "stable",
+    "level": 5
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 13695,
+    "costPerCpGain": 2282.5,
+    "name": "mainbuilding",
+    "level": 16
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2285,
+    "costPerCpGain": 2285,
+    "name": "smithy",
+    "level": 4
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2325,
+    "costPerCpGain": 2325,
+    "name": "warehouse",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2380,
+    "costPerCpGain": 2380,
+    "name": "rallypoint",
+    "level": 7
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 27635,
+    "costPerCpGain": 2512.2727272727275,
+    "name": "academy",
+    "level": 15
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2560,
+    "costPerCpGain": 2560,
+    "name": "grainmill",
+    "level": 1
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 20780,
+    "costPerCpGain": 2597.5,
+    "name": "academy",
+    "level": 14
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 18210,
+    "costPerCpGain": 2601.4285714285716,
+    "name": "mainbuilding",
+    "level": 17
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2645,
+    "costPerCpGain": 2645,
+    "name": "granary",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 5300,
+    "costPerCpGain": 2650,
+    "name": "stable",
+    "level": 8
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 24225,
+    "costPerCpGain": 2691.6666666666665,
+    "name": "mainbuilding",
+    "level": 18
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 8075,
+    "costPerCpGain": 2691.6666666666665,
+    "name": "palace",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2770,
+    "costPerCpGain": 2770,
+    "name": "greatstable",
+    "level": 2
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 5790,
+    "costPerCpGain": 2895,
+    "name": "treasury",
+    "level": 2
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2925,
+    "costPerCpGain": 2925,
+    "name": "smithy",
+    "level": 5
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 32215,
+    "costPerCpGain": 2928.6363636363635,
+    "name": "mainbuilding",
+    "level": 19
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 2995,
+    "costPerCpGain": 2995,
+    "name": "stable",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3010,
+    "costPerCpGain": 3010,
+    "name": "palace",
+    "level": 2
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3040,
+    "costPerCpGain": 3040,
+    "name": "barracks",
+    "level": 6
+  },
+  {
+    "cpGain": 12,
+    "levelCost": 36755,
+    "costPerCpGain": 3062.9166666666665,
+    "name": "academy",
+    "level": 16
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 6135,
+    "costPerCpGain": 3067.5,
+    "name": "smithy",
+    "level": 8
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3070,
+    "costPerCpGain": 3070,
+    "name": "embassy",
+    "level": 2
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3100,
+    "costPerCpGain": 3100,
+    "name": "workshop",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 6220,
+    "costPerCpGain": 3110,
+    "name": "granary",
+    "level": 12
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 6305,
+    "costPerCpGain": 3152.5,
+    "name": "palace",
+    "level": 5
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 6490,
+    "costPerCpGain": 3245,
+    "name": "workshop",
+    "level": 6
+  },
+  {
+    "cpGain": 15,
+    "levelCost": 48885,
+    "costPerCpGain": 3259,
+    "name": "academy",
+    "level": 17
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3290,
+    "costPerCpGain": 3290,
+    "name": "residence",
+    "level": 4
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 42845,
+    "costPerCpGain": 3295.769230769231,
+    "name": "mainbuilding",
+    "level": 20
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 16935,
+    "costPerCpGain": 3387,
+    "name": "palace",
+    "level": 9
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 10340,
+    "costPerCpGain": 3446.6666666666665,
+    "name": "palace",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3455,
+    "costPerCpGain": 3455,
+    "name": "stonemason",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 6920,
+    "costPerCpGain": 3460,
+    "name": "townhall",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3510,
+    "costPerCpGain": 3510,
+    "name": "granary",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3590,
+    "costPerCpGain": 3590,
+    "name": "greatbarracks",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 7225,
+    "costPerCpGain": 3612.5,
+    "name": "embassy",
+    "level": 5
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 7255,
+    "costPerCpGain": 3627.5,
+    "name": "stonemason",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3750,
+    "costPerCpGain": 3750,
+    "name": "smithy",
+    "level": 6
+  },
+  {
+    "cpGain": 17,
+    "levelCost": 65025,
+    "costPerCpGain": 3825,
+    "name": "academy",
+    "level": 18
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 11585,
+    "costPerCpGain": 3861.6666666666665,
+    "name": "treasury",
+    "level": 5
+  },
+  {
+    "cpGain": 22,
+    "levelCost": 86475,
+    "costPerCpGain": 3930.681818181818,
+    "name": "academy",
+    "level": 19
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3965,
+    "costPerCpGain": 3965,
+    "name": "workshop",
+    "level": 4
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 3990,
+    "costPerCpGain": 3990,
+    "name": "stable",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4040,
+    "costPerCpGain": 4040,
+    "name": "barracks",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4090,
+    "costPerCpGain": 4090,
+    "name": "embassy",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4110,
+    "costPerCpGain": 4110,
+    "name": "warehouse",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 8275,
+    "costPerCpGain": 4137.5,
+    "name": "granary",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4145,
+    "costPerCpGain": 4145,
+    "name": "sawmill",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4150,
+    "costPerCpGain": 4150,
+    "name": "ironfoundry",
+    "level": 3
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 12470,
+    "costPerCpGain": 4156.666666666667,
+    "name": "stable",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 8315,
+    "costPerCpGain": 4157.5,
+    "name": "workshop",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4175,
+    "costPerCpGain": 4175,
+    "name": "brickyard",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4205,
+    "costPerCpGain": 4205,
+    "name": "rallypoint",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4215,
+    "costPerCpGain": 4215,
+    "name": "residence",
+    "level": 5
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 12870,
+    "costPerCpGain": 4290,
+    "name": "smithy",
+    "level": 11
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 21680,
+    "costPerCpGain": 4336,
+    "name": "palace",
+    "level": 10
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 17435,
+    "costPerCpGain": 4358.75,
+    "name": "workshop",
+    "level": 10
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 13225,
+    "costPerCpGain": 4408.333333333333,
+    "name": "palace",
+    "level": 8
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 8840,
+    "costPerCpGain": 4420,
+    "name": "residence",
+    "level": 8
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4430,
+    "costPerCpGain": 4430,
+    "name": "stonemason",
+    "level": 10
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 35515,
+    "costPerCpGain": 4439.375,
+    "name": "palace",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4530,
+    "costPerCpGain": 4530,
+    "name": "greatstable",
+    "level": 4
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9190,
+    "costPerCpGain": 4595,
+    "name": "treasury",
+    "level": 4
+  },
+  {
+    "cpGain": 25,
+    "levelCost": 115015,
+    "costPerCpGain": 4600.6,
+    "name": "academy",
+    "level": 20
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 27745,
+    "costPerCpGain": 4624.166666666667,
+    "name": "palace",
+    "level": 11
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 23165,
+    "costPerCpGain": 4633,
+    "name": "treasury",
+    "level": 8
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9290,
+    "costPerCpGain": 4645,
+    "name": "stonemason",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4670,
+    "costPerCpGain": 4670,
+    "name": "granary",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9375,
+    "costPerCpGain": 4687.5,
+    "name": "stable",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4795,
+    "costPerCpGain": 4795,
+    "name": "smithy",
+    "level": 7
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9620,
+    "costPerCpGain": 4810,
+    "name": "embassy",
+    "level": 6
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 14500,
+    "costPerCpGain": 4833.333333333333,
+    "name": "townhall",
+    "level": 6
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9675,
+    "costPerCpGain": 4837.5,
+    "name": "warehouse",
+    "level": 12
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 14590,
+    "costPerCpGain": 4863.333333333333,
+    "name": "treasury",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 4935,
+    "costPerCpGain": 4935,
+    "name": "palace",
+    "level": 4
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 9905,
+    "costPerCpGain": 4952.5,
+    "name": "rallypoint",
+    "level": 12
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 10050,
+    "costPerCpGain": 5025,
+    "name": "smithy",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5075,
+    "costPerCpGain": 5075,
+    "name": "workshop",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5150,
+    "costPerCpGain": 5150,
+    "name": "bakery",
+    "level": 1
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 58180,
+    "costPerCpGain": 5289.090909090909,
+    "name": "palace",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 10640,
+    "costPerCpGain": 5320,
+    "name": "workshop",
+    "level": 8
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 26985,
+    "costPerCpGain": 5397,
+    "name": "smithy",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5400,
+    "costPerCpGain": 5400,
+    "name": "residence",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5405,
+    "costPerCpGain": 5405,
+    "name": "townhall",
+    "level": 2
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5430,
+    "costPerCpGain": 5430,
+    "name": "embassy",
+    "level": 4
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5470,
+    "costPerCpGain": 5470,
+    "name": "warehouse",
+    "level": 10
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 16475,
+    "costPerCpGain": 5491.666666666667,
+    "name": "smithy",
+    "level": 12
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 11000,
+    "costPerCpGain": 5500,
+    "name": "granary",
+    "level": 14
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 16585,
+    "costPerCpGain": 5528.333333333333,
+    "name": "stable",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5595,
+    "costPerCpGain": 5595,
+    "name": "rallypoint",
+    "level": 10
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 22620,
+    "costPerCpGain": 5655,
+    "name": "embassy",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 11325,
+    "costPerCpGain": 5662.5,
+    "name": "townhall",
+    "level": 5
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5665,
+    "costPerCpGain": 5665,
+    "name": "stonemason",
+    "level": 11
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 17005,
+    "costPerCpGain": 5668.333333333333,
+    "name": "embassy",
+    "level": 8
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 45455,
+    "costPerCpGain": 5681.875,
+    "name": "palace",
+    "level": 13
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 28555,
+    "costPerCpGain": 5711,
+    "name": "workshop",
+    "level": 12
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 74480,
+    "costPerCpGain": 5729.2307692307695,
+    "name": "palace",
+    "level": 15
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5770,
+    "costPerCpGain": 5770,
+    "name": "tournamentsquare",
+    "level": 1
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 46340,
+    "costPerCpGain": 5792.5,
+    "name": "treasury",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 5795,
+    "costPerCpGain": 5795,
+    "name": "greatstable",
+    "level": 5
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 29195,
+    "costPerCpGain": 5839,
+    "name": "treasury",
+    "level": 9
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 29340,
+    "costPerCpGain": 5868,
+    "name": "stable",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 11890,
+    "costPerCpGain": 5945,
+    "name": "stonemason",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 12160,
+    "costPerCpGain": 6080,
+    "name": "greatstable",
+    "level": 8
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 30410,
+    "costPerCpGain": 6082,
+    "name": "townhall",
+    "level": 9
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 18380,
+    "costPerCpGain": 6126.666666666667,
+    "name": "treasury",
+    "level": 7
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 36775,
+    "costPerCpGain": 6129.166666666667,
+    "name": "treasury",
+    "level": 10
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 18530,
+    "costPerCpGain": 6176.666666666667,
+    "name": "residence",
+    "level": 11
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 18560,
+    "costPerCpGain": 6186.666666666667,
+    "name": "townhall",
+    "level": 7
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 24925,
+    "costPerCpGain": 6231.25,
+    "name": "stonemason",
+    "level": 17
+  },
+  {
+    "cpGain": 15,
+    "levelCost": 95325,
+    "costPerCpGain": 6355,
+    "name": "palace",
+    "level": 16
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 31900,
+    "costPerCpGain": 6380,
+    "name": "stonemason",
+    "level": 18
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 12790,
+    "costPerCpGain": 6395,
+    "name": "embassy",
+    "level": 7
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 122020,
+    "costPerCpGain": 6422.105263157895,
+    "name": "palace",
+    "level": 17
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 12870,
+    "costPerCpGain": 6435,
+    "name": "warehouse",
+    "level": 13
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 25880,
+    "costPerCpGain": 6470,
+    "name": "granary",
+    "level": 17
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 19455,
+    "costPerCpGain": 6485,
+    "name": "granary",
+    "level": 16
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 19475,
+    "costPerCpGain": 6491.666666666667,
+    "name": "stonemason",
+    "level": 16
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 13170,
+    "costPerCpGain": 6585,
+    "name": "rallypoint",
+    "level": 13
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 46795,
+    "costPerCpGain": 6685,
+    "name": "workshop",
+    "level": 14
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 73570,
+    "costPerCpGain": 6688.181818181818,
+    "name": "treasury",
+    "level": 13
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 13620,
+    "costPerCpGain": 6810,
+    "name": "workshop",
+    "level": 9
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 34425,
+    "costPerCpGain": 6885,
+    "name": "granary",
+    "level": 18
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 6905,
+    "costPerCpGain": 6905,
+    "name": "residence",
+    "level": 7
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 34545,
+    "costPerCpGain": 6909,
+    "name": "smithy",
+    "level": 15
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 21080,
+    "costPerCpGain": 7026.666666666667,
+    "name": "smithy",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7050,
+    "costPerCpGain": 7050,
+    "name": "stable",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7095,
+    "costPerCpGain": 7095,
+    "name": "tradeoffice",
+    "level": 3
+  },
+  {
+    "cpGain": 22,
+    "levelCost": 156185,
+    "costPerCpGain": 7099.318181818182,
+    "name": "palace",
+    "level": 18
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 92700,
+    "costPerCpGain": 7130.7692307692305,
+    "name": "treasury",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7145,
+    "costPerCpGain": 7145,
+    "name": "barracks",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 14485,
+    "costPerCpGain": 7242.5,
+    "name": "residence",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7270,
+    "costPerCpGain": 7270,
+    "name": "warehouse",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7295,
+    "costPerCpGain": 7295,
+    "name": "treasury",
+    "level": 3
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 58395,
+    "costPerCpGain": 7299.375,
+    "name": "treasury",
+    "level": 12
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 36560,
+    "costPerCpGain": 7312,
+    "name": "workshop",
+    "level": 13
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 14635,
+    "costPerCpGain": 7317.5,
+    "name": "granary",
+    "level": 15
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 22060,
+    "costPerCpGain": 7353.333333333333,
+    "name": "stable",
+    "level": 13
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 44210,
+    "costPerCpGain": 7368.333333333333,
+    "name": "smithy",
+    "level": 16
+  },
+  {
+    "cpGain": 27,
+    "levelCost": 199920,
+    "costPerCpGain": 7404.444444444444,
+    "name": "palace",
+    "level": 19
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7425,
+    "costPerCpGain": 7425,
+    "name": "greatstable",
+    "level": 6
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 22315,
+    "costPerCpGain": 7438.333333333333,
+    "name": "workshop",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 14880,
+    "costPerCpGain": 7440,
+    "name": "tradeoffice",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7445,
+    "costPerCpGain": 7445,
+    "name": "rallypoint",
+    "level": 11
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 30080,
+    "costPerCpGain": 7520,
+    "name": "embassy",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7525,
+    "costPerCpGain": 7525,
+    "name": "greatbarracks",
+    "level": 6
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 15210,
+    "costPerCpGain": 7605,
+    "name": "stonemason",
+    "level": 15
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 147180,
+    "costPerCpGain": 7746.315789473684,
+    "name": "treasury",
+    "level": 16
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 38870,
+    "costPerCpGain": 7774,
+    "name": "residence",
+    "level": 14
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 38925,
+    "costPerCpGain": 7785,
+    "name": "townhall",
+    "level": 10
+  },
+  {
+    "cpGain": 15,
+    "levelCost": 116810,
+    "costPerCpGain": 7787.333333333333,
+    "name": "treasury",
+    "level": 15
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 39015,
+    "costPerCpGain": 7803,
+    "name": "stable",
+    "level": 15
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 7855,
+    "costPerCpGain": 7855,
+    "name": "smithy",
+    "level": 9
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 23725,
+    "costPerCpGain": 7908.333333333333,
+    "name": "residence",
+    "level": 12
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 23760,
+    "costPerCpGain": 7920,
+    "name": "townhall",
+    "level": 8
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 63770,
+    "costPerCpGain": 7971.25,
+    "name": "townhall",
+    "level": 12
+  },
+  {
+    "cpGain": 32,
+    "levelCost": 255895,
+    "costPerCpGain": 7996.71875,
+    "name": "palace",
+    "level": 20
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 40010,
+    "costPerCpGain": 8002,
+    "name": "embassy",
+    "level": 11
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 72445,
+    "costPerCpGain": 8049.444444444444,
+    "name": "smithy",
+    "level": 18
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 56595,
+    "costPerCpGain": 8085,
+    "name": "smithy",
+    "level": 17
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 40835,
+    "costPerCpGain": 8167,
+    "name": "stonemason",
+    "level": 19
+  },
+  {
+    "cpGain": 12,
+    "levelCost": 98135,
+    "costPerCpGain": 8177.916666666667,
+    "name": "workshop",
+    "level": 17
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 8295,
+    "costPerCpGain": 8295,
+    "name": "grainmill",
+    "level": 3
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 49820,
+    "costPerCpGain": 8303.333333333334,
+    "name": "townhall",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 16815,
+    "costPerCpGain": 8407.5,
+    "name": "barracks",
+    "level": 12
+  },
+  {
+    "cpGain": 22,
+    "levelCost": 185440,
+    "costPerCpGain": 8429.09090909091,
+    "name": "treasury",
+    "level": 17
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 92730,
+    "costPerCpGain": 8430,
+    "name": "smithy",
+    "level": 19
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 25500,
+    "costPerCpGain": 8500,
+    "name": "greatstable",
+    "level": 11
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 76670,
+    "costPerCpGain": 8518.888888888889,
+    "name": "workshop",
+    "level": 16
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 59900,
+    "costPerCpGain": 8557.142857142857,
+    "name": "workshop",
+    "level": 15
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 17115,
+    "costPerCpGain": 8557.5,
+    "name": "warehouse",
+    "level": 14
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 51890,
+    "costPerCpGain": 8648.333333333334,
+    "name": "stable",
+    "level": 16
+  },
+  {
+    "cpGain": 27,
+    "levelCost": 233660,
+    "costPerCpGain": 8654.074074074075,
+    "name": "treasury",
+    "level": 18
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 52265,
+    "costPerCpGain": 8710.833333333334,
+    "name": "stonemason",
+    "level": 20
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 17515,
+    "costPerCpGain": 8757.5,
+    "name": "rallypoint",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 8850,
+    "costPerCpGain": 8850,
+    "name": "townhall",
+    "level": 4
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 53215,
+    "costPerCpGain": 8869.166666666666,
+    "name": "embassy",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 9080,
+    "costPerCpGain": 9080,
+    "name": "tradeoffice",
+    "level": 4
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 118690,
+    "costPerCpGain": 9130,
+    "name": "smithy",
+    "level": 20
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 45780,
+    "costPerCpGain": 9156,
+    "name": "granary",
+    "level": 19
+  },
+  {
+    "cpGain": 32,
+    "levelCost": 294415,
+    "costPerCpGain": 9200.46875,
+    "name": "treasury",
+    "level": 19
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 9450,
+    "costPerCpGain": 9450,
+    "name": "tournamentsquare",
+    "level": 3
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 104480,
+    "costPerCpGain": 9498.181818181818,
+    "name": "townhall",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 9500,
+    "costPerCpGain": 9500,
+    "name": "greatstable",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 9510,
+    "costPerCpGain": 9510,
+    "name": "barracks",
+    "level": 10
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 19045,
+    "costPerCpGain": 9522.5,
+    "name": "tradeoffice",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 9630,
+    "costPerCpGain": 9630,
+    "name": "greatbarracks",
+    "level": 7
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 125610,
+    "costPerCpGain": 9662.307692307691,
+    "name": "workshop",
+    "level": 18
+  },
+  {
+    "cpGain": 38,
+    "levelCost": 370960,
+    "costPerCpGain": 9762.105263157895,
+    "name": "treasury",
+    "level": 20
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 69020,
+    "costPerCpGain": 9860,
+    "name": "stable",
+    "level": 17
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 49755,
+    "costPerCpGain": 9951,
+    "name": "residence",
+    "level": 15
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 19920,
+    "costPerCpGain": 9960,
+    "name": "greatstable",
+    "level": 10
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 39940,
+    "costPerCpGain": 9985,
+    "name": "tradeoffice",
+    "level": 10
+  },
+  {
+    "cpGain": 16,
+    "levelCost": 160780,
+    "costPerCpGain": 10048.75,
+    "name": "workshop",
+    "level": 19
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 40260,
+    "costPerCpGain": 10065,
+    "name": "warehouse",
+    "level": 17
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 30270,
+    "costPerCpGain": 10090,
+    "name": "warehouse",
+    "level": 16
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 70765,
+    "costPerCpGain": 10109.285714285714,
+    "name": "embassy",
+    "level": 13
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 30370,
+    "costPerCpGain": 10123.333333333334,
+    "name": "residence",
+    "level": 13
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 60885,
+    "costPerCpGain": 10147.5,
+    "name": "granary",
+    "level": 20
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 91800,
+    "costPerCpGain": 10200,
+    "name": "stable",
+    "level": 18
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 81625,
+    "costPerCpGain": 10203.125,
+    "name": "townhall",
+    "level": 13
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 133735,
+    "costPerCpGain": 10287.307692307691,
+    "name": "townhall",
+    "level": 15
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 41215,
+    "costPerCpGain": 10303.75,
+    "name": "rallypoint",
+    "level": 17
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 30990,
+    "costPerCpGain": 10330,
+    "name": "rallypoint",
+    "level": 16
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 63690,
+    "costPerCpGain": 10615,
+    "name": "residence",
+    "level": 16
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 53480,
+    "costPerCpGain": 10696,
+    "name": "greatstable",
+    "level": 14
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 53550,
+    "costPerCpGain": 10710,
+    "name": "warehouse",
+    "level": 18
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 205805,
+    "costPerCpGain": 10831.842105263158,
+    "name": "workshop",
+    "level": 20
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 32640,
+    "costPerCpGain": 10880,
+    "name": "greatstable",
+    "level": 12
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 54825,
+    "costPerCpGain": 10965,
+    "name": "rallypoint",
+    "level": 18
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 122085,
+    "costPerCpGain": 11098.636363636364,
+    "name": "stable",
+    "level": 19
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 22365,
+    "costPerCpGain": 11182.5,
+    "name": "barracks",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 11310,
+    "costPerCpGain": 11310,
+    "name": "residence",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 22760,
+    "costPerCpGain": 11380,
+    "name": "warehouse",
+    "level": 15
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 125185,
+    "costPerCpGain": 11380.454545454546,
+    "name": "embassy",
+    "level": 15
+  },
+  {
+    "cpGain": 15,
+    "levelCost": 171180,
+    "costPerCpGain": 11412,
+    "name": "townhall",
+    "level": 16
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 219120,
+    "costPerCpGain": 11532.631578947368,
+    "name": "townhall",
+    "level": 17
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 104345,
+    "costPerCpGain": 11593.888888888889,
+    "name": "residence",
+    "level": 18
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 11625,
+    "costPerCpGain": 11625,
+    "name": "tradeoffice",
+    "level": 5
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 81520,
+    "costPerCpGain": 11645.714285714286,
+    "name": "residence",
+    "level": 17
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 23300,
+    "costPerCpGain": 11650,
+    "name": "rallypoint",
+    "level": 15
+  },
+  {
+    "cpGain": 8,
+    "levelCost": 94120,
+    "costPerCpGain": 11765,
+    "name": "embassy",
+    "level": 14
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 133560,
+    "costPerCpGain": 12141.818181818182,
+    "name": "residence",
+    "level": 19
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 24370,
+    "costPerCpGain": 12185,
+    "name": "tradeoffice",
+    "level": 8
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 162375,
+    "costPerCpGain": 12490.384615384615,
+    "name": "stable",
+    "level": 20
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 12645,
+    "costPerCpGain": 12645,
+    "name": "barracks",
+    "level": 11
+  },
+  {
+    "cpGain": 22,
+    "levelCost": 280460,
+    "costPerCpGain": 12748.181818181818,
+    "name": "townhall",
+    "level": 18
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 65435,
+    "costPerCpGain": 13087,
+    "name": "tradeoffice",
+    "level": 12
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 170955,
+    "costPerCpGain": 13150.384615384615,
+    "name": "residence",
+    "level": 20
+  },
+  {
+    "cpGain": 27,
+    "levelCost": 359000,
+    "costPerCpGain": 13296.296296296296,
+    "name": "townhall",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 68450,
+    "costPerCpGain": 13690,
+    "name": "greatstable",
+    "level": 15
+  },
+  {
+    "cpGain": 12,
+    "levelCost": 166490,
+    "costPerCpGain": 13874.166666666666,
+    "name": "embassy",
+    "level": 16
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 41780,
+    "costPerCpGain": 13926.666666666666,
+    "name": "greatstable",
+    "level": 13
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 71215,
+    "costPerCpGain": 14243,
+    "name": "warehouse",
+    "level": 19
+  },
+  {
+    "cpGain": 32,
+    "levelCost": 459520,
+    "costPerCpGain": 14360,
+    "name": "townhall",
+    "level": 20
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 72910,
+    "costPerCpGain": 14582,
+    "name": "rallypoint",
+    "level": 19
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 87620,
+    "costPerCpGain": 14603.333333333334,
+    "name": "greatstable",
+    "level": 16
+  },
+  {
+    "cpGain": 15,
+    "levelCost": 221430,
+    "costPerCpGain": 14762,
+    "name": "embassy",
+    "level": 17
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 29745,
+    "costPerCpGain": 14872.5,
+    "name": "barracks",
+    "level": 14
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 107205,
+    "costPerCpGain": 15315,
+    "name": "tradeoffice",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 15560,
+    "costPerCpGain": 15560,
+    "name": "greatstable",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 31200,
+    "costPerCpGain": 15600,
+    "name": "tradeoffice",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 15780,
+    "costPerCpGain": 15780,
+    "name": "greatbarracks",
+    "level": 9
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 94720,
+    "costPerCpGain": 15786.666666666666,
+    "name": "warehouse",
+    "level": 20
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 143560,
+    "costPerCpGain": 15951.111111111111,
+    "name": "greatstable",
+    "level": 18
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 112155,
+    "costPerCpGain": 16022.142857142857,
+    "name": "greatstable",
+    "level": 17
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 96970,
+    "costPerCpGain": 16161.666666666666,
+    "name": "rallypoint",
+    "level": 20
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 33090,
+    "costPerCpGain": 16545,
+    "name": "greatbarracks",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 16690,
+    "costPerCpGain": 16690,
+    "name": "bakery",
+    "level": 3
+  },
+  {
+    "cpGain": 11,
+    "levelCost": 183750,
+    "costPerCpGain": 16704.545454545456,
+    "name": "greatstable",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 83750,
+    "costPerCpGain": 16750,
+    "name": "tradeoffice",
+    "level": 13
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 51115,
+    "costPerCpGain": 17038.333333333332,
+    "name": "tradeoffice",
+    "level": 11
+  },
+  {
+    "cpGain": 17,
+    "levelCost": 294510,
+    "costPerCpGain": 17324.117647058825,
+    "name": "embassy",
+    "level": 18
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 69980,
+    "costPerCpGain": 17495,
+    "name": "barracks",
+    "level": 17
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 52615,
+    "costPerCpGain": 17538.333333333332,
+    "name": "barracks",
+    "level": 16
+  },
+  {
+    "cpGain": 22,
+    "levelCost": 391690,
+    "costPerCpGain": 17804.090909090908,
+    "name": "embassy",
+    "level": 19
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 235205,
+    "costPerCpGain": 18092.69230769231,
+    "name": "greatstable",
+    "level": 20
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 93075,
+    "costPerCpGain": 18615,
+    "name": "barracks",
+    "level": 18
+  },
+  {
+    "cpGain": 12,
+    "levelCost": 224830,
+    "costPerCpGain": 18735.833333333332,
+    "name": "tradeoffice",
+    "level": 17
+  },
+  {
+    "cpGain": 9,
+    "levelCost": 175645,
+    "costPerCpGain": 19516.11111111111,
+    "name": "tradeoffice",
+    "level": 16
+  },
+  {
+    "cpGain": 7,
+    "levelCost": 137225,
+    "costPerCpGain": 19603.571428571428,
+    "name": "tradeoffice",
+    "level": 15
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 39560,
+    "costPerCpGain": 19780,
+    "name": "barracks",
+    "level": 15
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 19825,
+    "costPerCpGain": 19825,
+    "name": "tournamentsquare",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 20200,
+    "costPerCpGain": 20200,
+    "name": "greatbarracks",
+    "level": 10
+  },
+  {
+    "cpGain": 25,
+    "levelCost": 520950,
+    "costPerCpGain": 20838,
+    "name": "embassy",
+    "level": 20
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 42360,
+    "costPerCpGain": 21180,
+    "name": "greatbarracks",
+    "level": 13
+  },
+  {
+    "cpGain": 13,
+    "levelCost": 287780,
+    "costPerCpGain": 22136.923076923078,
+    "name": "tradeoffice",
+    "level": 18
+  },
+  {
+    "cpGain": 16,
+    "levelCost": 368360,
+    "costPerCpGain": 23022.5,
+    "name": "tradeoffice",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 123780,
+    "costPerCpGain": 24756,
+    "name": "barracks",
+    "level": 19
+  },
+  {
+    "cpGain": 19,
+    "levelCost": 471495,
+    "costPerCpGain": 24815.526315789473,
+    "name": "tradeoffice",
+    "level": 20
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 25375,
+    "costPerCpGain": 25375,
+    "name": "tournamentsquare",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 25860,
+    "costPerCpGain": 25860,
+    "name": "greatbarracks",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 54225,
+    "costPerCpGain": 27112.5,
+    "name": "greatbarracks",
+    "level": 14
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 164630,
+    "costPerCpGain": 27438.333333333332,
+    "name": "barracks",
+    "level": 20
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 113710,
+    "costPerCpGain": 28427.5,
+    "name": "greatbarracks",
+    "level": 17
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 145550,
+    "costPerCpGain": 29110,
+    "name": "greatbarracks",
+    "level": 18
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 88835,
+    "costPerCpGain": 29611.666666666668,
+    "name": "greatbarracks",
+    "level": 16
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 69405,
+    "costPerCpGain": 34702.5,
+    "name": "greatbarracks",
+    "level": 15
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 186305,
+    "costPerCpGain": 37261,
+    "name": "greatbarracks",
+    "level": 19
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 238470,
+    "costPerCpGain": 39745,
+    "name": "greatbarracks",
+    "level": 20
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 41580,
+    "costPerCpGain": 41580,
+    "name": "tournamentsquare",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 87190,
+    "costPerCpGain": 43595,
+    "name": "tournamentsquare",
+    "level": 12
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 53220,
+    "costPerCpGain": 53220,
+    "name": "tournamentsquare",
+    "level": 10
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 111605,
+    "costPerCpGain": 55802.5,
+    "name": "tournamentsquare",
+    "level": 13
+  },
+  {
+    "cpGain": 1,
+    "levelCost": 68125,
+    "costPerCpGain": 68125,
+    "name": "tournamentsquare",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 142855,
+    "costPerCpGain": 71427.5,
+    "name": "tournamentsquare",
+    "level": 14
+  },
+  {
+    "cpGain": 4,
+    "levelCost": 299590,
+    "costPerCpGain": 74897.5,
+    "name": "tournamentsquare",
+    "level": 17
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 383480,
+    "costPerCpGain": 76696,
+    "name": "tournamentsquare",
+    "level": 18
+  },
+  {
+    "cpGain": 3,
+    "levelCost": 234060,
+    "costPerCpGain": 78020,
+    "name": "tournamentsquare",
+    "level": 16
+  },
+  {
+    "cpGain": 2,
+    "levelCost": 182860,
+    "costPerCpGain": 91430,
+    "name": "tournamentsquare",
+    "level": 15
+  },
+  {
+    "cpGain": 5,
+    "levelCost": 490860,
+    "costPerCpGain": 98172,
+    "name": "tournamentsquare",
+    "level": 19
+  },
+  {
+    "cpGain": 6,
+    "levelCost": 628300,
+    "costPerCpGain": 104716.66666666667,
+    "name": "tournamentsquare",
+    "level": 20
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 9270,
+    "costPerCpGain": 9999999999999,
+    "name": "bakery",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 30035,
+    "costPerCpGain": 9999999999999,
+    "name": "bakery",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 54060,
+    "costPerCpGain": 9999999999999,
+    "name": "bakery",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 970,
+    "costPerCpGain": 9999999999999,
+    "name": "barracks",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1715,
+    "costPerCpGain": 9999999999999,
+    "name": "barracks",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2285,
+    "costPerCpGain": 9999999999999,
+    "name": "barracks",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 5375,
+    "costPerCpGain": 9999999999999,
+    "name": "barracks",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2320,
+    "costPerCpGain": 9999999999999,
+    "name": "brickyard",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 7520,
+    "costPerCpGain": 9999999999999,
+    "name": "brickyard",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 13545,
+    "costPerCpGain": 9999999999999,
+    "name": "brickyard",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 170,
+    "costPerCpGain": 9999999999999,
+    "name": "cranny",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 275,
+    "costPerCpGain": 9999999999999,
+    "name": "cranny",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 345,
+    "costPerCpGain": 9999999999999,
+    "name": "cranny",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 730,
+    "costPerCpGain": 9999999999999,
+    "name": "cranny",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 4605,
+    "costPerCpGain": 9999999999999,
+    "name": "grainmill",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 14925,
+    "costPerCpGain": 9999999999999,
+    "name": "grainmill",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 26875,
+    "costPerCpGain": 9999999999999,
+    "name": "grainmill",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 360,
+    "costPerCpGain": 9999999999999,
+    "name": "granary",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 635,
+    "costPerCpGain": 9999999999999,
+    "name": "granary",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 850,
+    "costPerCpGain": 9999999999999,
+    "name": "granary",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1985,
+    "costPerCpGain": 9999999999999,
+    "name": "granary",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2805,
+    "costPerCpGain": 9999999999999,
+    "name": "greatbarracks",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 4590,
+    "costPerCpGain": 9999999999999,
+    "name": "greatbarracks",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 5875,
+    "costPerCpGain": 9999999999999,
+    "name": "greatbarracks",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 12325,
+    "costPerCpGain": 9999999999999,
+    "name": "greatbarracks",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 3540,
+    "costPerCpGain": 9999999999999,
+    "name": "greatstable",
+    "level": 3
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2305,
+    "costPerCpGain": 9999999999999,
+    "name": "ironfoundry",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 7465,
+    "costPerCpGain": 9999999999999,
+    "name": "ironfoundry",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 13440,
+    "costPerCpGain": 9999999999999,
+    "name": "ironfoundry",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 335,
+    "costPerCpGain": 9999999999999,
+    "name": "mainbuilding",
+    "level": 3
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 435,
+    "costPerCpGain": 9999999999999,
+    "name": "marketplace",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 575,
+    "costPerCpGain": 9999999999999,
+    "name": "rallypoint",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1010,
+    "costPerCpGain": 9999999999999,
+    "name": "rallypoint",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1345,
+    "costPerCpGain": 9999999999999,
+    "name": "rallypoint",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 3170,
+    "costPerCpGain": 9999999999999,
+    "name": "rallypoint",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2575,
+    "costPerCpGain": 9999999999999,
+    "name": "residence",
+    "level": 3
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2300,
+    "costPerCpGain": 9999999999999,
+    "name": "sawmill",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 7465,
+    "costPerCpGain": 9999999999999,
+    "name": "sawmill",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 13440,
+    "costPerCpGain": 9999999999999,
+    "name": "sawmill",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1785,
+    "costPerCpGain": 9999999999999,
+    "name": "smithy",
+    "level": 3
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1275,
+    "costPerCpGain": 9999999999999,
+    "name": "stable",
+    "level": 3
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 615,
+    "costPerCpGain": 9999999999999,
+    "name": "stonemason",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1005,
+    "costPerCpGain": 9999999999999,
+    "name": "stonemason",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1290,
+    "costPerCpGain": 9999999999999,
+    "name": "stonemason",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2705,
+    "costPerCpGain": 9999999999999,
+    "name": "stonemason",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 7385,
+    "costPerCpGain": 9999999999999,
+    "name": "tournamentsquare",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 12105,
+    "costPerCpGain": 9999999999999,
+    "name": "tournamentsquare",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 15490,
+    "costPerCpGain": 9999999999999,
+    "name": "tournamentsquare",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 32480,
+    "costPerCpGain": 9999999999999,
+    "name": "tournamentsquare",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 5535,
+    "costPerCpGain": 9999999999999,
+    "name": "tradeoffice",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 560,
+    "costPerCpGain": 9999999999999,
+    "name": "warehouse",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 990,
+    "costPerCpGain": 9999999999999,
+    "name": "warehouse",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 1320,
+    "costPerCpGain": 9999999999999,
+    "name": "warehouse",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 3090,
+    "costPerCpGain": 9999999999999,
+    "name": "warehouse",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "levelCost": 2425,
+    "costPerCpGain": 9999999999999,
+    "name": "workshop",
+    "level": 2
+  }
+]
