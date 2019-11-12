@@ -11,6 +11,10 @@ function getLevelDetails(buildingDetails, name) {
 
     return {
       cpGain,
+      wood: levelDetail.wood,
+      clay: levelDetail.clay,
+      iron: levelDetail.iron,
+      crop: levelDetail.crop,
       levelCost,
       costPerCpGain,
       name,

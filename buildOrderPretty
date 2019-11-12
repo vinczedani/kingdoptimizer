@@ -1,1141 +1,1952 @@
 mainbuilding lvl1: You gain 2cp for 190 res. Res/cp: 95
+Total cp: 2
+Total cost: 190
 
 embassy lvl1: You gain 5cp for 540 res. Res/cp: 108
+Total cp: 7
+Total cost: 730
 
 cranny lvl1: You gain 1cp for 130 res. Res/cp: 130
+Total cp: 8
+Total cost: 860
 
 granary lvl1: You gain 1cp for 270 res. Res/cp: 270
 Required for marketplace:1
+Total cp: 9
+Total cost: 1130
 
 warehouse lvl1: You gain 1cp for 420 res. Res/cp: 420
 Required for marketplace:1
+Total cp: 10
+Total cost: 1550
 
 marketplace lvl1: You gain 4cp for 340 res. Res/cp: 85
 It has 2 required building levels (listed above) granary:1, warehouse:1.
 Combined cost: 1030 adding 6 cp overall (avg: 171.66666666666666)
+Total cp: 14
+Total cost: 1890
 
 mainbuilding lvl2: You gain 1cp for 255 res. Res/cp: 255
+Total cp: 15
+Total cost: 2145
 
 treasury lvl1: You gain 7cp for 2300 res. Res/cp: 328.57142857142856
+Total cp: 22
+Total cost: 4445
 
 cranny lvl2: You gain 0cp for 170 res. Res/cp: 9999999999999
 Required for cranny:3
+Total cp: 22
+Total cost: 4615
 
 cranny lvl3: You gain 1cp for 210 res. Res/cp: 210
 It has 1 required building levels (listed above) cranny:2.
 Combined cost: 380 adding 1 cp overall (avg: 380)
+Total cp: 23
+Total cost: 4825
 
 rallypoint lvl1: You gain 1cp for 430 res. Res/cp: 430
+Total cp: 24
+Total cost: 5255
 
 mainbuilding lvl3: You gain 0cp for 335 res. Res/cp: 9999999999999
 Required for smithy:1
+Total cp: 24
+Total cost: 5590
 
 barracks lvl1: You gain 1cp for 730 res. Res/cp: 730
 Required for smithy:1
+Total cp: 25
+Total cost: 6320
 
 barracks lvl2: You gain 0cp for 970 res. Res/cp: 9999999999999
 Required for smithy:1
+Total cp: 25
+Total cost: 7290
 
 barracks lvl3: You gain 1cp for 1290 res. Res/cp: 1290
 Required for smithy:1
+Total cp: 26
+Total cost: 8580
 
 academy lvl1: You gain 5cp for 510 res. Res/cp: 102
 Required for smithy:1
+Total cp: 31
+Total cost: 9090
 
 smithy lvl1: You gain 2cp for 1090 res. Res/cp: 545
 It has 5 required building levels (listed above) mainbuilding:3, academy:1, barracks:3, barracks:2, barracks:1.
 Combined cost: 4925 adding 9 cp overall (avg: 547.2222222222222)
+Total cp: 33
+Total cost: 10180
 
 mainbuilding lvl4: You gain 1cp for 445 res. Res/cp: 445
+Total cp: 34
+Total cost: 10625
 
 mainbuilding lvl5: You gain 1cp for 600 res. Res/cp: 600
+Total cp: 35
+Total cost: 11225
 
 academy lvl2: You gain 1cp for 685 res. Res/cp: 685
+Total cp: 36
+Total cost: 11910
 
 marketplace lvl2: You gain 0cp for 435 res. Res/cp: 9999999999999
 Required for marketplace:7
+Total cp: 36
+Total cost: 12345
 
 marketplace lvl3: You gain 1cp for 555 res. Res/cp: 555
 Required for marketplace:7
+Total cp: 37
+Total cost: 12900
 
 marketplace lvl4: You gain 1cp for 710 res. Res/cp: 710
 Required for marketplace:7
+Total cp: 38
+Total cost: 13610
 
 marketplace lvl5: You gain 1cp for 915 res. Res/cp: 915
 Required for marketplace:7
+Total cp: 39
+Total cost: 14525
 
 marketplace lvl6: You gain 2cp for 1165 res. Res/cp: 582.5
 Required for marketplace:7
+Total cp: 41
+Total cost: 15690
 
 marketplace lvl7: You gain 2cp for 1500 res. Res/cp: 750
 It has 5 required building levels (listed above) marketplace:6, marketplace:5, marketplace:4, marketplace:3, marketplace:2.
 Combined cost: 5280 adding 7 cp overall (avg: 754.2857142857143)
+Total cp: 43
+Total cost: 17190
 
 residence lvl1: You gain 2cp for 1570 res. Res/cp: 785
+Total cp: 45
+Total cost: 18760
 
 mainbuilding lvl6: You gain 1cp for 790 res. Res/cp: 790
+Total cp: 46
+Total cost: 19550
 
 mainbuilding lvl7: You gain 1cp for 1045 res. Res/cp: 1045
 Required for mainbuilding:8
+Total cp: 47
+Total cost: 20595
 
 mainbuilding lvl8: You gain 2cp for 1395 res. Res/cp: 697.5
 It has 1 required building levels (listed above) mainbuilding:7.
 Combined cost: 2440 adding 3 cp overall (avg: 813.3333333333334)
+Total cp: 49
+Total cost: 21990
 
 cranny lvl4: You gain 0cp for 275 res. Res/cp: 9999999999999
 Required for cranny:7
+Total cp: 49
+Total cost: 22265
 
 cranny lvl5: You gain 0cp for 345 res. Res/cp: 9999999999999
 Required for cranny:7
+Total cp: 49
+Total cost: 22610
 
 cranny lvl6: You gain 1cp for 445 res. Res/cp: 445
 Required for cranny:7
+Total cp: 50
+Total cost: 23055
 
 cranny lvl7: You gain 1cp for 570 res. Res/cp: 570
 It has 3 required building levels (listed above) cranny:6, cranny:5, cranny:4.
 Combined cost: 1635 adding 2 cp overall (avg: 817.5)
+Total cp: 51
+Total cost: 23625
 
 granary lvl2: You gain 0cp for 360 res. Res/cp: 9999999999999
 Required for granary:3
+Total cp: 51
+Total cost: 23985
 
 granary lvl3: You gain 1cp for 475 res. Res/cp: 475
 It has 1 required building levels (listed above) granary:2.
 Combined cost: 835 adding 1 cp overall (avg: 835)
+Total cp: 52
+Total cost: 24460
 
 academy lvl3: You gain 1cp for 905 res. Res/cp: 905
+Total cp: 53
+Total cost: 25365
 
 academy lvl4: You gain 1cp for 1200 res. Res/cp: 1200
 Required for academy:5
+Total cp: 54
+Total cost: 26565
 
 academy lvl5: You gain 2cp for 1595 res. Res/cp: 797.5
 It has 1 required building levels (listed above) academy:4.
 Combined cost: 2795 adding 3 cp overall (avg: 931.6666666666666)
+Total cp: 56
+Total cost: 28160
 
 marketplace lvl8: You gain 2cp for 1915 res. Res/cp: 957.5
 Required for marketplace:10
+Total cp: 58
+Total cost: 30075
 
 marketplace lvl9: You gain 2cp for 2450 res. Res/cp: 1225
 Required for marketplace:10
+Total cp: 60
+Total cost: 32525
 
 marketplace lvl10: You gain 4cp for 3135 res. Res/cp: 783.75
 It has 2 required building levels (listed above) marketplace:9, marketplace:8.
 Combined cost: 7500 adding 8 cp overall (avg: 937.5)
+Total cp: 64
+Total cost: 35660
 
 academy lvl6: You gain 2cp for 2120 res. Res/cp: 1060
-
-marketplace lvl11: You gain 3cp for 4010 res. Res/cp: 1336.6666666666667
-Required for marketplace:12
-
-marketplace lvl12: You gain 5cp for 5145 res. Res/cp: 1029
-It has 1 required building levels (listed above) marketplace:11.
-Combined cost: 9155 adding 8 cp overall (avg: 1144.375)
+Total cp: 66
+Total cost: 37780
 
 academy lvl7: You gain 2cp for 2825 res. Res/cp: 1412.5
 Required for workshop:1
+Total cp: 68
+Total cost: 40605
+
+warehouse lvl2: You gain 0cp for 560 res. Res/cp: 9999999999999
+Required for workshop:1
+Total cp: 68
+Total cost: 41165
 
 academy lvl8: You gain 3cp for 3760 res. Res/cp: 1253.3333333333333
 Required for workshop:1
+Total cp: 71
+Total cost: 44925
+
+warehouse lvl3: You gain 1cp for 745 res. Res/cp: 745
+Required for workshop:1
+Total cp: 72
+Total cost: 45670
 
 academy lvl9: You gain 4cp for 4990 res. Res/cp: 1247.5
 Required for workshop:1
+Total cp: 76
+Total cost: 50660
 
 academy lvl10: You gain 4cp for 6640 res. Res/cp: 1660
 Required for workshop:1
+Total cp: 80
+Total cost: 57300
 
 workshop lvl1: You gain 4cp for 1890 res. Res/cp: 472.5
-It has 4 required building levels (listed above) academy:10, academy:9, academy:8, academy:7.
-Combined cost: 20105 adding 17 cp overall (avg: 1182.6470588235295)
+It has 6 required building levels (listed above) academy:10, academy:9, academy:8, academy:7, warehouse:2, warehouse:3.
+Combined cost: 21410 adding 18 cp overall (avg: 1189.4444444444443)
+Total cp: 84
+Total cost: 59190
 
 mainbuilding lvl9: You gain 1cp for 1855 res. Res/cp: 1855
 Required for townhall:1
+Total cp: 85
+Total cost: 61045
 
 mainbuilding lvl10: You gain 2cp for 2470 res. Res/cp: 1235
 Required for townhall:1
+Total cp: 87
+Total cost: 63515
 
 townhall lvl1: You gain 6cp for 4220 res. Res/cp: 703.3333333333334
 It has 2 required building levels (listed above) mainbuilding:10, mainbuilding:9.
 Combined cost: 8545 adding 9 cp overall (avg: 949.4444444444445)
+Total cp: 93
+Total cost: 67735
 
 mainbuilding lvl11: You gain 3cp for 3290 res. Res/cp: 1096.6666666666667
+Total cp: 96
+Total cost: 71025
+
+marketplace lvl11: You gain 3cp for 4010 res. Res/cp: 1336.6666666666667
+Required for marketplace:12
+Total cp: 99
+Total cost: 75035
+
+marketplace lvl12: You gain 5cp for 5145 res. Res/cp: 1029
+It has 1 required building levels (listed above) marketplace:11.
+Combined cost: 9155 adding 8 cp overall (avg: 1144.375)
+Total cp: 104
+Total cost: 80180
 
 smithy lvl2: You gain 1cp for 1395 res. Res/cp: 1395
 Required for stable:2
+Total cp: 105
+Total cost: 81575
 
 smithy lvl3: You gain 0cp for 1785 res. Res/cp: 9999999999999
 Required for stable:2
+Total cp: 105
+Total cost: 83360
 
 stable lvl1: You gain 2cp for 720 res. Res/cp: 360
 Required for stable:2
+Total cp: 107
+Total cost: 84080
 
 stable lvl2: You gain 1cp for 960 res. Res/cp: 960
 It has 3 required building levels (listed above) smithy:3, smithy:2, stable:1.
 Combined cost: 4860 adding 4 cp overall (avg: 1215)
-
-marketplace lvl13: You gain 5cp for 6575 res. Res/cp: 1315
-Required for marketplace:14
-
-marketplace lvl14: You gain 7cp for 8420 res. Res/cp: 1202.857142857143
-It has 1 required building levels (listed above) marketplace:13.
-Combined cost: 14995 adding 12 cp overall (avg: 1249.5833333333333)
+Total cp: 108
+Total cost: 85040
 
 ironfoundry lvl1: You gain 1cp for 1280 res. Res/cp: 1280
+Total cp: 109
+Total cost: 86320
 
 sawmill lvl1: You gain 1cp for 1280 res. Res/cp: 1280
+Total cp: 110
+Total cost: 87600
 
 brickyard lvl1: You gain 1cp for 1290 res. Res/cp: 1290
+Total cp: 111
+Total cost: 88890
 
-warehouse lvl2: You gain 0cp for 560 res. Res/cp: 9999999999999
-Required for warehouse:3
-
-warehouse lvl3: You gain 1cp for 745 res. Res/cp: 745
-It has 1 required building levels (listed above) warehouse:2.
-Combined cost: 1305 adding 1 cp overall (avg: 1305)
+marketplace lvl13: You gain 5cp for 6575 res. Res/cp: 1315
+Total cp: 116
+Total cost: 95465
 
 rallypoint lvl2: You gain 0cp for 575 res. Res/cp: 9999999999999
 Required for rallypoint:3
+Total cp: 116
+Total cost: 96040
 
 rallypoint lvl3: You gain 1cp for 765 res. Res/cp: 765
 It has 1 required building levels (listed above) rallypoint:2.
 Combined cost: 1340 adding 1 cp overall (avg: 1340)
+Total cp: 117
+Total cost: 96805
+
+warehouse lvl4: You gain 0cp for 990 res. Res/cp: 9999999999999
+Required for marketplace:14
+Total cp: 117
+Total cost: 97795
+
+marketplace lvl14: You gain 7cp for 8420 res. Res/cp: 1202.857142857143
+It has 1 required building levels (listed above) warehouse:4.
+Combined cost: 9410 adding 7 cp overall (avg: 1344.2857142857142)
+Total cp: 124
+Total cost: 106215
 
 cranny lvl8: You gain 0cp for 730 res. Res/cp: 9999999999999
 Required for cranny:10
+Total cp: 124
+Total cost: 106945
 
 cranny lvl9: You gain 1cp for 935 res. Res/cp: 935
 Required for cranny:10
+Total cp: 125
+Total cost: 107880
 
 cranny lvl10: You gain 1cp for 1195 res. Res/cp: 1195
 It has 2 required building levels (listed above) cranny:9, cranny:8.
 Combined cost: 2860 adding 2 cp overall (avg: 1430)
+Total cp: 126
+Total cost: 109075
 
 mainbuilding lvl12: You gain 3cp for 4370 res. Res/cp: 1456.6666666666667
+Total cp: 129
+Total cost: 113445
 
 marketplace lvl15: You gain 7cp for 10780 res. Res/cp: 1540
+Total cp: 136
+Total cost: 124225
+
+warehouse lvl5: You gain 0cp for 1320 res. Res/cp: 9999999999999
 Required for marketplace:17
+Total cp: 136
+Total cost: 125545
 
 marketplace lvl16: You gain 9cp for 13795 res. Res/cp: 1532.7777777777778
 Required for marketplace:17
+Total cp: 145
+Total cost: 139340
+
+granary lvl4: You gain 0cp for 635 res. Res/cp: 9999999999999
+Required for marketplace:17
+Total cp: 145
+Total cost: 139975
+
+warehouse lvl6: You gain 1cp for 1750 res. Res/cp: 1750
+Required for marketplace:17
+Total cp: 146
+Total cost: 141725
 
 marketplace lvl17: You gain 12cp for 17655 res. Res/cp: 1471.25
-It has 2 required building levels (listed above) marketplace:16, marketplace:15.
-Combined cost: 42230 adding 28 cp overall (avg: 1508.2142857142858)
+It has 4 required building levels (listed above) marketplace:16, warehouse:5, granary:4, warehouse:6.
+Combined cost: 35155 adding 22 cp overall (avg: 1597.9545454545455)
+Total cp: 158
+Total cost: 159380
 
 mainbuilding lvl13: You gain 3cp for 5825 res. Res/cp: 1941.6666666666667
 Required for mainbuilding:14
+Total cp: 161
+Total cost: 165205
 
 mainbuilding lvl14: You gain 5cp for 7740 res. Res/cp: 1548
 It has 1 required building levels (listed above) mainbuilding:13.
 Combined cost: 13565 adding 8 cp overall (avg: 1695.625)
-
-marketplace lvl18: You gain 13cp for 22590 res. Res/cp: 1737.6923076923076
-
-academy lvl11: You gain 5cp for 8835 res. Res/cp: 1767
-
-marketplace lvl19: You gain 16cp for 28925 res. Res/cp: 1807.8125
-
-marketplace lvl20: You gain 19cp for 37015 res. Res/cp: 1948.157894736842
-
-academy lvl12: You gain 6cp for 11745 res. Res/cp: 1957.5
-
-residence lvl2: You gain 1cp for 2010 res. Res/cp: 2010
-
-granary lvl4: You gain 0cp for 635 res. Res/cp: 9999999999999
-Required for granary:7
+Total cp: 166
+Total cost: 172945
 
 granary lvl5: You gain 0cp for 850 res. Res/cp: 9999999999999
 Required for granary:7
+Total cp: 166
+Total cost: 173795
 
 granary lvl6: You gain 1cp for 1125 res. Res/cp: 1125
 Required for granary:7
+Total cp: 167
+Total cost: 174920
 
 granary lvl7: You gain 1cp for 1495 res. Res/cp: 1495
-It has 3 required building levels (listed above) granary:6, granary:5, granary:4.
-Combined cost: 4105 adding 2 cp overall (avg: 2052.5)
+It has 2 required building levels (listed above) granary:6, granary:5.
+Combined cost: 3470 adding 2 cp overall (avg: 1735)
+Total cp: 168
+Total cost: 176415
+
+academy lvl11: You gain 5cp for 8835 res. Res/cp: 1767
+Total cp: 173
+Total cost: 185250
+
+academy lvl12: You gain 6cp for 11745 res. Res/cp: 1957.5
+Total cp: 179
+Total cost: 196995
+
+warehouse lvl7: You gain 1cp for 2325 res. Res/cp: 2325
+Required for marketplace:19
+Total cp: 180
+Total cost: 199320
+
+warehouse lvl8: You gain 0cp for 3090 res. Res/cp: 9999999999999
+Required for marketplace:19
+Total cp: 180
+Total cost: 202410
+
+marketplace lvl18: You gain 13cp for 22590 res. Res/cp: 1737.6923076923076
+Required for marketplace:19
+Total cp: 193
+Total cost: 225000
+
+warehouse lvl9: You gain 1cp for 4110 res. Res/cp: 4110
+Required for marketplace:19
+Total cp: 194
+Total cost: 229110
+
+marketplace lvl19: You gain 16cp for 28925 res. Res/cp: 1807.8125
+It has 4 required building levels (listed above) marketplace:18, warehouse:8, warehouse:7, warehouse:9.
+Combined cost: 61040 adding 31 cp overall (avg: 1969.032258064516)
+Total cp: 210
+Total cost: 258035
+
+residence lvl2: You gain 1cp for 2010 res. Res/cp: 2010
+Total cp: 211
+Total cost: 260045
 
 mainbuilding lvl15: You gain 5cp for 10300 res. Res/cp: 2060
+Total cp: 216
+Total cost: 270345
+
+warehouse lvl10: You gain 1cp for 5470 res. Res/cp: 5470
+Required for marketplace:20
+Total cp: 217
+Total cost: 275815
+
+marketplace lvl20: You gain 19cp for 37015 res. Res/cp: 1948.157894736842
+It has 1 required building levels (listed above) warehouse:10.
+Combined cost: 42485 adding 20 cp overall (avg: 2124.25)
+Total cp: 236
+Total cost: 312830
 
 academy lvl13: You gain 7cp for 15620 res. Res/cp: 2231.4285714285716
+Total cp: 243
+Total cost: 328450
 
 mainbuilding lvl16: You gain 6cp for 13695 res. Res/cp: 2282.5
+Total cp: 249
+Total cost: 342145
 
 smithy lvl4: You gain 1cp for 2285 res. Res/cp: 2285
+Total cp: 250
+Total cost: 344430
 
 academy lvl14: You gain 8cp for 20780 res. Res/cp: 2597.5
 Required for academy:15
+Total cp: 258
+Total cost: 365210
 
 academy lvl15: You gain 11cp for 27635 res. Res/cp: 2512.2727272727275
 It has 1 required building levels (listed above) academy:14.
 Combined cost: 48415 adding 19 cp overall (avg: 2548.157894736842)
+Total cp: 269
+Total cost: 392845
 
 grainmill lvl1: You gain 1cp for 2560 res. Res/cp: 2560
+Total cp: 270
+Total cost: 395405
 
 mainbuilding lvl17: You gain 7cp for 18210 res. Res/cp: 2601.4285714285716
+Total cp: 277
+Total cost: 413615
 
 stable lvl3: You gain 0cp for 1275 res. Res/cp: 9999999999999
 Required for stable:5
+Total cp: 277
+Total cost: 414890
 
 stable lvl4: You gain 1cp for 1695 res. Res/cp: 1695
 Required for stable:5
+Total cp: 278
+Total cost: 416585
 
 stable lvl5: You gain 1cp for 2260 res. Res/cp: 2260
 It has 2 required building levels (listed above) stable:4, stable:3.
 Combined cost: 5230 adding 2 cp overall (avg: 2615)
+Total cp: 279
+Total cost: 418845
 
 mainbuilding lvl18: You gain 9cp for 24225 res. Res/cp: 2691.6666666666665
+Total cp: 288
+Total cost: 443070
 
 treasury lvl2: You gain 2cp for 5790 res. Res/cp: 2895
+Total cp: 290
+Total cost: 448860
 
 smithy lvl5: You gain 1cp for 2925 res. Res/cp: 2925
+Total cp: 291
+Total cost: 451785
 
 mainbuilding lvl19: You gain 11cp for 32215 res. Res/cp: 2928.6363636363635
+Total cp: 302
+Total cost: 484000
 
 stable lvl6: You gain 1cp for 2995 res. Res/cp: 2995
+Total cp: 303
+Total cost: 486995
 
 stable lvl7: You gain 1cp for 3990 res. Res/cp: 3990
 Required for tradeoffice:1
+Total cp: 304
+Total cost: 490985
 
 stable lvl8: You gain 2cp for 5300 res. Res/cp: 2650
 Required for tradeoffice:1
+Total cp: 306
+Total cost: 496285
 
 stable lvl9: You gain 1cp for 7050 res. Res/cp: 7050
 Required for tradeoffice:1
+Total cp: 307
+Total cost: 503335
 
 stable lvl10: You gain 2cp for 9375 res. Res/cp: 4687.5
 Required for tradeoffice:1
+Total cp: 309
+Total cost: 512710
 
 tradeoffice lvl1: You gain 4cp for 4330 res. Res/cp: 1082.5
 It has 4 required building levels (listed above) stable:10, stable:9, stable:8, stable:7.
 Combined cost: 30045 adding 10 cp overall (avg: 3004.5)
-
-academy lvl16: You gain 12cp for 36755 res. Res/cp: 3062.9166666666665
+Total cp: 313
+Total cost: 517040
 
 embassy lvl2: You gain 1cp for 3070 res. Res/cp: 3070
-
-warehouse lvl4: You gain 0cp for 990 res. Res/cp: 9999999999999
-Required for warehouse:7
-
-warehouse lvl5: You gain 0cp for 1320 res. Res/cp: 9999999999999
-Required for warehouse:7
-
-warehouse lvl6: You gain 1cp for 1750 res. Res/cp: 1750
-Required for warehouse:7
-
-warehouse lvl7: You gain 1cp for 2325 res. Res/cp: 2325
-It has 3 required building levels (listed above) warehouse:6, warehouse:5, warehouse:4.
-Combined cost: 6385 adding 2 cp overall (avg: 3192.5)
-
-academy lvl17: You gain 15cp for 48885 res. Res/cp: 3259
+Total cp: 314
+Total cost: 520110
 
 rallypoint lvl4: You gain 0cp for 1010 res. Res/cp: 9999999999999
 Required for rallypoint:7
+Total cp: 314
+Total cost: 521120
 
 rallypoint lvl5: You gain 0cp for 1345 res. Res/cp: 9999999999999
 Required for rallypoint:7
+Total cp: 314
+Total cost: 522465
 
 rallypoint lvl6: You gain 1cp for 1790 res. Res/cp: 1790
 Required for rallypoint:7
+Total cp: 315
+Total cost: 524255
 
 rallypoint lvl7: You gain 1cp for 2380 res. Res/cp: 2380
 It has 3 required building levels (listed above) rallypoint:6, rallypoint:5, rallypoint:4.
 Combined cost: 6525 adding 2 cp overall (avg: 3262.5)
+Total cp: 316
+Total cost: 526635
+
+warehouse lvl11: You gain 1cp for 7270 res. Res/cp: 7270
+Required for academy:16
+Total cp: 317
+Total cost: 533905
+
+academy lvl16: You gain 12cp for 36755 res. Res/cp: 3062.9166666666665
+It has 1 required building levels (listed above) warehouse:11.
+Combined cost: 44025 adding 13 cp overall (avg: 3386.5384615384614)
+Total cp: 329
+Total cost: 570660
 
 mainbuilding lvl20: You gain 13cp for 42845 res. Res/cp: 3295.769230769231
+Total cp: 342
+Total cost: 613505
+
+warehouse lvl12: You gain 2cp for 9675 res. Res/cp: 4837.5
+Required for academy:17
+Total cp: 344
+Total cost: 623180
+
+academy lvl17: You gain 15cp for 48885 res. Res/cp: 3259
+It has 1 required building levels (listed above) warehouse:12.
+Combined cost: 58560 adding 17 cp overall (avg: 3444.705882352941)
+Total cp: 359
+Total cost: 672065
 
 smithy lvl6: You gain 1cp for 3750 res. Res/cp: 3750
 Required for smithy:8
+Total cp: 360
+Total cost: 675815
 
 smithy lvl7: You gain 1cp for 4795 res. Res/cp: 4795
 Required for smithy:8
+Total cp: 361
+Total cost: 680610
 
 smithy lvl8: You gain 2cp for 6135 res. Res/cp: 3067.5
 It has 2 required building levels (listed above) smithy:7, smithy:6.
 Combined cost: 14680 adding 4 cp overall (avg: 3670)
+Total cp: 363
+Total cost: 686745
 
 granary lvl8: You gain 0cp for 1985 res. Res/cp: 9999999999999
 Required for granary:12
+Total cp: 363
+Total cost: 688730
 
 granary lvl9: You gain 1cp for 2645 res. Res/cp: 2645
 Required for granary:12
+Total cp: 364
+Total cost: 691375
 
 granary lvl10: You gain 1cp for 3510 res. Res/cp: 3510
 Required for granary:12
+Total cp: 365
+Total cost: 694885
 
 granary lvl11: You gain 1cp for 4670 res. Res/cp: 4670
 Required for granary:12
+Total cp: 366
+Total cost: 699555
 
 granary lvl12: You gain 2cp for 6220 res. Res/cp: 3110
 It has 4 required building levels (listed above) granary:11, granary:10, granary:9, granary:8.
 Combined cost: 19030 adding 5 cp overall (avg: 3806)
-
-academy lvl18: You gain 17cp for 65025 res. Res/cp: 3825
-
-academy lvl19: You gain 22cp for 86475 res. Res/cp: 3930.681818181818
+Total cp: 368
+Total cost: 705775
 
 embassy lvl3: You gain 1cp for 4090 res. Res/cp: 4090
+Total cp: 369
+Total cost: 709865
 
 townhall lvl2: You gain 1cp for 5405 res. Res/cp: 5405
 Required for townhall:3
+Total cp: 370
+Total cost: 715270
 
 townhall lvl3: You gain 2cp for 6920 res. Res/cp: 3460
 It has 1 required building levels (listed above) townhall:2.
 Combined cost: 12325 adding 3 cp overall (avg: 4108.333333333333)
+Total cp: 372
+Total cost: 722190
 
 granary lvl13: You gain 2cp for 8275 res. Res/cp: 4137.5
+Total cp: 374
+Total cost: 730465
 
 stable lvl11: You gain 3cp for 12470 res. Res/cp: 4156.666666666667
+Total cp: 377
+Total cost: 742935
 
 workshop lvl2: You gain 0cp for 2425 res. Res/cp: 9999999999999
 Required for workshop:7
+Total cp: 377
+Total cost: 745360
 
 workshop lvl3: You gain 1cp for 3100 res. Res/cp: 3100
 Required for workshop:7
+Total cp: 378
+Total cost: 748460
 
 workshop lvl4: You gain 1cp for 3965 res. Res/cp: 3965
 Required for workshop:7
+Total cp: 379
+Total cost: 752425
 
 workshop lvl5: You gain 1cp for 5075 res. Res/cp: 5075
 Required for workshop:7
+Total cp: 380
+Total cost: 757500
 
 workshop lvl6: You gain 2cp for 6490 res. Res/cp: 3245
 Required for workshop:7
+Total cp: 382
+Total cost: 763990
 
 workshop lvl7: You gain 2cp for 8315 res. Res/cp: 4157.5
 It has 5 required building levels (listed above) workshop:6, workshop:5, workshop:4, workshop:3, workshop:2.
 Combined cost: 29370 adding 7 cp overall (avg: 4195.714285714285)
+Total cp: 384
+Total cost: 772305
 
 embassy lvl4: You gain 1cp for 5430 res. Res/cp: 5430
 Required for embassy:5
+Total cp: 385
+Total cost: 777735
 
 embassy lvl5: You gain 2cp for 7225 res. Res/cp: 3612.5
 It has 1 required building levels (listed above) embassy:4.
 Combined cost: 12655 adding 3 cp overall (avg: 4218.333333333333)
+Total cp: 387
+Total cost: 784960
 
-academy lvl20: You gain 25cp for 115015 res. Res/cp: 4600.6
+warehouse lvl13: You gain 2cp for 12870 res. Res/cp: 6435
+Required for academy:18
+Total cp: 389
+Total cost: 797830
+
+warehouse lvl14: You gain 2cp for 17115 res. Res/cp: 8557.5
+Required for academy:18
+Total cp: 391
+Total cost: 814945
+
+academy lvl18: You gain 17cp for 65025 res. Res/cp: 3825
+It has 2 required building levels (listed above) warehouse:14, warehouse:13.
+Combined cost: 95010 adding 21 cp overall (avg: 4524.285714285715)
+Total cp: 408
+Total cost: 879970
+
+warehouse lvl15: You gain 2cp for 22760 res. Res/cp: 11380
+Required for academy:19
+Total cp: 410
+Total cost: 902730
+
+academy lvl19: You gain 22cp for 86475 res. Res/cp: 3930.681818181818
+It has 1 required building levels (listed above) warehouse:15.
+Combined cost: 109235 adding 24 cp overall (avg: 4551.458333333333)
+Total cp: 432
+Total cost: 989205
 
 treasury lvl3: You gain 1cp for 7295 res. Res/cp: 7295
 Required for treasury:5
+Total cp: 433
+Total cost: 996500
 
 treasury lvl4: You gain 2cp for 9190 res. Res/cp: 4595
 Required for treasury:5
+Total cp: 435
+Total cost: 1005690
 
 treasury lvl5: You gain 3cp for 11585 res. Res/cp: 3861.6666666666665
 It has 2 required building levels (listed above) treasury:4, treasury:3.
 Combined cost: 28070 adding 6 cp overall (avg: 4678.333333333333)
+Total cp: 438
+Total cost: 1017275
 
 embassy lvl6: You gain 2cp for 9620 res. Res/cp: 4810
+Total cp: 440
+Total cost: 1026895
 
 treasury lvl6: You gain 3cp for 14590 res. Res/cp: 4863.333333333333
+Total cp: 443
+Total cost: 1041485
 
 residence lvl3: You gain 0cp for 2575 res. Res/cp: 9999999999999
 Required for residence:5
+Total cp: 443
+Total cost: 1044060
 
 residence lvl4: You gain 1cp for 3290 res. Res/cp: 3290
 Required for residence:5
+Total cp: 444
+Total cost: 1047350
 
 residence lvl5: You gain 1cp for 4215 res. Res/cp: 4215
 It has 2 required building levels (listed above) residence:4, residence:3.
 Combined cost: 10080 adding 2 cp overall (avg: 5040)
+Total cp: 445
+Total cost: 1051565
 
 smithy lvl9: You gain 1cp for 7855 res. Res/cp: 7855
 Required for smithy:11
+Total cp: 446
+Total cost: 1059420
 
 smithy lvl10: You gain 2cp for 10050 res. Res/cp: 5025
 Required for smithy:11
+Total cp: 448
+Total cost: 1069470
 
 smithy lvl11: You gain 3cp for 12870 res. Res/cp: 4290
 It has 2 required building levels (listed above) smithy:10, smithy:9.
 Combined cost: 30775 adding 6 cp overall (avg: 5129.166666666667)
+Total cp: 451
+Total cost: 1082340
 
 treasury lvl7: You gain 3cp for 18380 res. Res/cp: 6126.666666666667
 Required for treasury:8
+Total cp: 454
+Total cost: 1100720
 
 treasury lvl8: You gain 5cp for 23165 res. Res/cp: 4633
 It has 1 required building levels (listed above) treasury:7.
 Combined cost: 41545 adding 8 cp overall (avg: 5193.125)
+Total cp: 459
+Total cost: 1123885
 
 workshop lvl8: You gain 2cp for 10640 res. Res/cp: 5320
 Required for workshop:10
+Total cp: 461
+Total cost: 1134525
 
 workshop lvl9: You gain 2cp for 13620 res. Res/cp: 6810
 Required for workshop:10
+Total cp: 463
+Total cost: 1148145
 
 workshop lvl10: You gain 4cp for 17435 res. Res/cp: 4358.75
 It has 2 required building levels (listed above) workshop:9, workshop:8.
 Combined cost: 41695 adding 8 cp overall (avg: 5211.875)
+Total cp: 467
+Total cost: 1165580
 
 residence lvl6: You gain 1cp for 5400 res. Res/cp: 5400
 Required for residence:8
+Total cp: 468
+Total cost: 1170980
 
 residence lvl7: You gain 1cp for 6905 res. Res/cp: 6905
 Required for residence:8
+Total cp: 469
+Total cost: 1177885
 
 residence lvl8: You gain 2cp for 8840 res. Res/cp: 4420
 It has 2 required building levels (listed above) residence:7, residence:6.
 Combined cost: 21145 adding 4 cp overall (avg: 5286.25)
+Total cp: 471
+Total cost: 1186725
 
 smithy lvl12: You gain 3cp for 16475 res. Res/cp: 5491.666666666667
+Total cp: 474
+Total cost: 1203200
 
 granary lvl14: You gain 2cp for 11000 res. Res/cp: 5500
+Total cp: 476
+Total cost: 1214200
 
 stable lvl12: You gain 3cp for 16585 res. Res/cp: 5528.333333333333
+Total cp: 479
+Total cost: 1230785
 
 barracks lvl4: You gain 0cp for 1715 res. Res/cp: 9999999999999
 Required for barracks:7
+Total cp: 479
+Total cost: 1232500
 
 barracks lvl5: You gain 0cp for 2285 res. Res/cp: 9999999999999
 Required for barracks:7
+Total cp: 479
+Total cost: 1234785
 
 barracks lvl6: You gain 1cp for 3040 res. Res/cp: 3040
 Required for barracks:7
+Total cp: 480
+Total cost: 1237825
 
 barracks lvl7: You gain 1cp for 4040 res. Res/cp: 4040
 It has 3 required building levels (listed above) barracks:6, barracks:5, barracks:4.
 Combined cost: 11080 adding 2 cp overall (avg: 5540)
+Total cp: 481
+Total cost: 1241865
 
 townhall lvl4: You gain 1cp for 8850 res. Res/cp: 8850
 Required for townhall:6
+Total cp: 482
+Total cost: 1250715
 
 townhall lvl5: You gain 2cp for 11325 res. Res/cp: 5662.5
 Required for townhall:6
+Total cp: 484
+Total cost: 1262040
 
 townhall lvl6: You gain 3cp for 14500 res. Res/cp: 4833.333333333333
 It has 2 required building levels (listed above) townhall:5, townhall:4.
 Combined cost: 34675 adding 6 cp overall (avg: 5779.166666666667)
+Total cp: 487
+Total cost: 1276540
+
+warehouse lvl16: You gain 3cp for 30270 res. Res/cp: 10090
+Required for academy:20
+Total cp: 490
+Total cost: 1306810
+
+warehouse lvl17: You gain 4cp for 40260 res. Res/cp: 10065
+Required for academy:20
+Total cp: 494
+Total cost: 1347070
+
+academy lvl20: You gain 25cp for 115015 res. Res/cp: 4600.6
+It has 2 required building levels (listed above) warehouse:17, warehouse:16.
+Combined cost: 185545 adding 32 cp overall (avg: 5798.28125)
+Total cp: 519
+Total cost: 1462085
 
 embassy lvl7: You gain 2cp for 12790 res. Res/cp: 6395
 Required for embassy:9
+Total cp: 521
+Total cost: 1474875
 
 embassy lvl8: You gain 3cp for 17005 res. Res/cp: 5668.333333333333
 Required for embassy:9
+Total cp: 524
+Total cost: 1491880
 
 embassy lvl9: You gain 4cp for 22620 res. Res/cp: 5655
 It has 2 required building levels (listed above) embassy:8, embassy:7.
 Combined cost: 52415 adding 9 cp overall (avg: 5823.888888888889)
+Total cp: 528
+Total cost: 1514500
 
 treasury lvl9: You gain 5cp for 29195 res. Res/cp: 5839
-
-warehouse lvl8: You gain 0cp for 3090 res. Res/cp: 9999999999999
-Required for warehouse:12
-
-warehouse lvl9: You gain 1cp for 4110 res. Res/cp: 4110
-Required for warehouse:12
-
-warehouse lvl10: You gain 1cp for 5470 res. Res/cp: 5470
-Required for warehouse:12
-
-warehouse lvl11: You gain 1cp for 7270 res. Res/cp: 7270
-Required for warehouse:12
-
-warehouse lvl12: You gain 2cp for 9675 res. Res/cp: 4837.5
-It has 4 required building levels (listed above) warehouse:11, warehouse:10, warehouse:9, warehouse:8.
-Combined cost: 29615 adding 5 cp overall (avg: 5923)
+Total cp: 533
+Total cost: 1543695
 
 treasury lvl10: You gain 6cp for 36775 res. Res/cp: 6129.166666666667
 Required for treasury:11
+Total cp: 539
+Total cost: 1580470
 
 treasury lvl11: You gain 8cp for 46340 res. Res/cp: 5792.5
 It has 1 required building levels (listed above) treasury:10.
 Combined cost: 83115 adding 14 cp overall (avg: 5936.785714285715)
+Total cp: 547
+Total cost: 1626810
 
 smithy lvl13: You gain 3cp for 21080 res. Res/cp: 7026.666666666667
 Required for smithy:14
+Total cp: 550
+Total cost: 1647890
 
 smithy lvl14: You gain 5cp for 26985 res. Res/cp: 5397
 It has 1 required building levels (listed above) smithy:13.
 Combined cost: 48065 adding 8 cp overall (avg: 6008.125)
+Total cp: 555
+Total cost: 1674875
 
 rallypoint lvl8: You gain 0cp for 3170 res. Res/cp: 9999999999999
 Required for rallypoint:12
+Total cp: 555
+Total cost: 1678045
 
 rallypoint lvl9: You gain 1cp for 4205 res. Res/cp: 4205
 Required for rallypoint:12
+Total cp: 556
+Total cost: 1682250
 
 rallypoint lvl10: You gain 1cp for 5595 res. Res/cp: 5595
 Required for rallypoint:12
+Total cp: 557
+Total cost: 1687845
 
 rallypoint lvl11: You gain 1cp for 7445 res. Res/cp: 7445
 Required for rallypoint:12
+Total cp: 558
+Total cost: 1695290
 
 rallypoint lvl12: You gain 2cp for 9905 res. Res/cp: 4952.5
 It has 4 required building levels (listed above) rallypoint:11, rallypoint:10, rallypoint:9, rallypoint:8.
 Combined cost: 30320 adding 5 cp overall (avg: 6064)
+Total cp: 560
+Total cost: 1705195
 
 townhall lvl7: You gain 3cp for 18560 res. Res/cp: 6186.666666666667
+Total cp: 563
+Total cost: 1723755
 
 workshop lvl11: You gain 3cp for 22315 res. Res/cp: 7438.333333333333
 Required for workshop:12
+Total cp: 566
+Total cost: 1746070
 
 workshop lvl12: You gain 5cp for 28555 res. Res/cp: 5711
 It has 1 required building levels (listed above) workshop:11.
 Combined cost: 50870 adding 8 cp overall (avg: 6358.75)
+Total cp: 571
+Total cost: 1774625
 
 stable lvl13: You gain 3cp for 22060 res. Res/cp: 7353.333333333333
 Required for stable:14
+Total cp: 574
+Total cost: 1796685
 
 stable lvl14: You gain 5cp for 29340 res. Res/cp: 5868
 It has 1 required building levels (listed above) stable:13.
 Combined cost: 51400 adding 8 cp overall (avg: 6425)
-
-warehouse lvl13: You gain 2cp for 12870 res. Res/cp: 6435
+Total cp: 579
+Total cost: 1826025
 
 sawmill lvl2: You gain 0cp for 2300 res. Res/cp: 9999999999999
 Required for sawmill:3
+Total cp: 579
+Total cost: 1828325
 
 sawmill lvl3: You gain 1cp for 4145 res. Res/cp: 4145
 It has 1 required building levels (listed above) sawmill:2.
 Combined cost: 6445 adding 1 cp overall (avg: 6445)
+Total cp: 580
+Total cost: 1832470
 
 ironfoundry lvl2: You gain 0cp for 2305 res. Res/cp: 9999999999999
 Required for ironfoundry:3
+Total cp: 580
+Total cost: 1834775
 
 ironfoundry lvl3: You gain 1cp for 4150 res. Res/cp: 4150
 It has 1 required building levels (listed above) ironfoundry:2.
 Combined cost: 6455 adding 1 cp overall (avg: 6455)
+Total cp: 581
+Total cost: 1838925
 
 brickyard lvl2: You gain 0cp for 2320 res. Res/cp: 9999999999999
 Required for brickyard:3
+Total cp: 581
+Total cost: 1841245
 
 brickyard lvl3: You gain 1cp for 4175 res. Res/cp: 4175
 It has 1 required building levels (listed above) brickyard:2.
 Combined cost: 6495 adding 1 cp overall (avg: 6495)
+Total cp: 582
+Total cost: 1845420
 
 rallypoint lvl13: You gain 2cp for 13170 res. Res/cp: 6585
+Total cp: 584
+Total cost: 1858590
 
 granary lvl15: You gain 2cp for 14635 res. Res/cp: 7317.5
 Required for granary:17
+Total cp: 586
+Total cost: 1873225
 
 granary lvl16: You gain 3cp for 19455 res. Res/cp: 6485
 Required for granary:17
+Total cp: 589
+Total cost: 1892680
 
 granary lvl17: You gain 4cp for 25880 res. Res/cp: 6470
 It has 2 required building levels (listed above) granary:16, granary:15.
 Combined cost: 59970 adding 9 cp overall (avg: 6663.333333333333)
+Total cp: 593
+Total cost: 1918560
 
 townhall lvl8: You gain 3cp for 23760 res. Res/cp: 7920
 Required for townhall:9
+Total cp: 596
+Total cost: 1942320
 
 townhall lvl9: You gain 5cp for 30410 res. Res/cp: 6082
 It has 1 required building levels (listed above) townhall:8.
 Combined cost: 54170 adding 8 cp overall (avg: 6771.25)
+Total cp: 601
+Total cost: 1972730
 
 granary lvl18: You gain 5cp for 34425 res. Res/cp: 6885
+Total cp: 606
+Total cost: 2007155
 
 smithy lvl15: You gain 5cp for 34545 res. Res/cp: 6909
+Total cp: 611
+Total cost: 2041700
 
 treasury lvl12: You gain 8cp for 58395 res. Res/cp: 7299.375
 Required for treasury:13
+Total cp: 619
+Total cost: 2100095
 
 treasury lvl13: You gain 11cp for 73570 res. Res/cp: 6688.181818181818
 It has 1 required building levels (listed above) treasury:12.
 Combined cost: 131965 adding 19 cp overall (avg: 6945.526315789473)
+Total cp: 630
+Total cost: 2173665
 
 workshop lvl13: You gain 5cp for 36560 res. Res/cp: 7312
 Required for workshop:14
+Total cp: 635
+Total cost: 2210225
 
 workshop lvl14: You gain 7cp for 46795 res. Res/cp: 6685
 It has 1 required building levels (listed above) workshop:13.
 Combined cost: 83355 adding 12 cp overall (avg: 6946.25)
+Total cp: 642
+Total cost: 2257020
 
 treasury lvl14: You gain 13cp for 92700 res. Res/cp: 7130.7692307692305
+Total cp: 655
+Total cost: 2349720
 
 smithy lvl16: You gain 6cp for 44210 res. Res/cp: 7368.333333333333
+Total cp: 661
+Total cost: 2393930
 
 residence lvl9: You gain 1cp for 11310 res. Res/cp: 11310
 Required for residence:11
+Total cp: 662
+Total cost: 2405240
 
 residence lvl10: You gain 2cp for 14485 res. Res/cp: 7242.5
 Required for residence:11
+Total cp: 664
+Total cost: 2419725
 
 residence lvl11: You gain 3cp for 18530 res. Res/cp: 6176.666666666667
 It has 2 required building levels (listed above) residence:10, residence:9.
 Combined cost: 44325 adding 6 cp overall (avg: 7387.5)
+Total cp: 667
+Total cost: 2438255
 
 embassy lvl10: You gain 4cp for 30080 res. Res/cp: 7520
+Total cp: 671
+Total cost: 2468335
 
 treasury lvl15: You gain 15cp for 116810 res. Res/cp: 7787.333333333333
 Required for treasury:16
+Total cp: 686
+Total cost: 2585145
 
 treasury lvl16: You gain 19cp for 147180 res. Res/cp: 7746.315789473684
 It has 1 required building levels (listed above) treasury:15.
 Combined cost: 263990 adding 34 cp overall (avg: 7764.411764705882)
+Total cp: 705
+Total cost: 2732325
 
 townhall lvl10: You gain 5cp for 38925 res. Res/cp: 7785
+Total cp: 710
+Total cost: 2771250
 
 stable lvl15: You gain 5cp for 39015 res. Res/cp: 7803
+Total cp: 715
+Total cost: 2810265
 
 residence lvl12: You gain 3cp for 23725 res. Res/cp: 7908.333333333333
+Total cp: 718
+Total cost: 2833990
 
 embassy lvl11: You gain 5cp for 40010 res. Res/cp: 8002
+Total cp: 723
+Total cost: 2874000
 
 smithy lvl17: You gain 7cp for 56595 res. Res/cp: 8085
 Required for smithy:18
+Total cp: 730
+Total cost: 2930595
 
 smithy lvl18: You gain 9cp for 72445 res. Res/cp: 8049.444444444444
 It has 1 required building levels (listed above) smithy:17.
 Combined cost: 129040 adding 16 cp overall (avg: 8065)
+Total cp: 739
+Total cost: 3003040
 
 townhall lvl11: You gain 6cp for 49820 res. Res/cp: 8303.333333333334
 Required for townhall:12
+Total cp: 745
+Total cost: 3052860
 
 townhall lvl12: You gain 8cp for 63770 res. Res/cp: 7971.25
 It has 1 required building levels (listed above) townhall:11.
 Combined cost: 113590 adding 14 cp overall (avg: 8113.571428571428)
+Total cp: 753
+Total cost: 3116630
 
 workshop lvl15: You gain 7cp for 59900 res. Res/cp: 8557.142857142857
 Required for workshop:17
+Total cp: 760
+Total cost: 3176530
 
 workshop lvl16: You gain 9cp for 76670 res. Res/cp: 8518.888888888889
 Required for workshop:17
+Total cp: 769
+Total cost: 3253200
 
 workshop lvl17: You gain 12cp for 98135 res. Res/cp: 8177.916666666667
 It has 2 required building levels (listed above) workshop:16, workshop:15.
 Combined cost: 234705 adding 28 cp overall (avg: 8382.32142857143)
-
-treasury lvl17: You gain 22cp for 185440 res. Res/cp: 8429.09090909091
+Total cp: 781
+Total cost: 3351335
 
 smithy lvl19: You gain 11cp for 92730 res. Res/cp: 8430
-
-warehouse lvl14: You gain 2cp for 17115 res. Res/cp: 8557.5
+Total cp: 792
+Total cost: 3444065
 
 stable lvl16: You gain 6cp for 51890 res. Res/cp: 8648.333333333334
-
-treasury lvl18: You gain 27cp for 233660 res. Res/cp: 8654.074074074075
+Total cp: 798
+Total cost: 3495955
 
 residence lvl13: You gain 3cp for 30370 res. Res/cp: 10123.333333333334
 Required for residence:14
+Total cp: 801
+Total cost: 3526325
 
 residence lvl14: You gain 5cp for 38870 res. Res/cp: 7774
 It has 1 required building levels (listed above) residence:13.
 Combined cost: 69240 adding 8 cp overall (avg: 8655)
+Total cp: 806
+Total cost: 3565195
 
 rallypoint lvl14: You gain 2cp for 17515 res. Res/cp: 8757.5
+Total cp: 808
+Total cost: 3582710
+
+warehouse lvl18: You gain 5cp for 53550 res. Res/cp: 10710
+Required for treasury:17
+Total cp: 813
+Total cost: 3636260
+
+treasury lvl17: You gain 22cp for 185440 res. Res/cp: 8429.09090909091
+It has 1 required building levels (listed above) warehouse:18.
+Combined cost: 238990 adding 27 cp overall (avg: 8851.481481481482)
+Total cp: 835
+Total cost: 3821700
 
 embassy lvl12: You gain 6cp for 53215 res. Res/cp: 8869.166666666666
+Total cp: 841
+Total cost: 3874915
 
 smithy lvl20: You gain 13cp for 118690 res. Res/cp: 9130
+Total cp: 854
+Total cost: 3993605
 
 granary lvl19: You gain 5cp for 45780 res. Res/cp: 9156
+Total cp: 859
+Total cost: 4039385
 
-treasury lvl19: You gain 32cp for 294415 res. Res/cp: 9200.46875
+warehouse lvl19: You gain 5cp for 71215 res. Res/cp: 14243
+Required for treasury:18
+Total cp: 864
+Total cost: 4110600
+
+treasury lvl18: You gain 27cp for 233660 res. Res/cp: 8654.074074074075
+It has 1 required building levels (listed above) warehouse:19.
+Combined cost: 304875 adding 32 cp overall (avg: 9527.34375)
+Total cp: 891
+Total cost: 4344260
 
 tradeoffice lvl2: You gain 0cp for 5535 res. Res/cp: 9999999999999
 Required for tradeoffice:7
+Total cp: 891
+Total cost: 4349795
 
 tradeoffice lvl3: You gain 1cp for 7095 res. Res/cp: 7095
 Required for tradeoffice:7
+Total cp: 892
+Total cost: 4356890
 
 tradeoffice lvl4: You gain 1cp for 9080 res. Res/cp: 9080
 Required for tradeoffice:7
+Total cp: 893
+Total cost: 4365970
 
 tradeoffice lvl5: You gain 1cp for 11625 res. Res/cp: 11625
 Required for tradeoffice:7
+Total cp: 894
+Total cost: 4377595
 
 tradeoffice lvl6: You gain 2cp for 14880 res. Res/cp: 7440
 Required for tradeoffice:7
+Total cp: 896
+Total cost: 4392475
 
 tradeoffice lvl7: You gain 2cp for 19045 res. Res/cp: 9522.5
 It has 5 required building levels (listed above) tradeoffice:6, tradeoffice:5, tradeoffice:4, tradeoffice:3, tradeoffice:2.
 Combined cost: 67260 adding 7 cp overall (avg: 9608.57142857143)
+Total cp: 898
+Total cost: 4411520
 
 workshop lvl18: You gain 13cp for 125610 res. Res/cp: 9662.307692307691
+Total cp: 911
+Total cost: 4537130
 
 rallypoint lvl15: You gain 2cp for 23300 res. Res/cp: 11650
 Required for tournamentsquare:1
+Total cp: 913
+Total cost: 4560430
 
 tournamentsquare lvl1: You gain 1cp for 5770 res. Res/cp: 5770
 It has 1 required building levels (listed above) rallypoint:15.
 Combined cost: 29070 adding 3 cp overall (avg: 9690)
-
-treasury lvl20: You gain 38cp for 370960 res. Res/cp: 9762.105263157895
+Total cp: 914
+Total cost: 4566200
 
 townhall lvl13: You gain 8cp for 81625 res. Res/cp: 10203.125
 Required for townhall:14
+Total cp: 922
+Total cost: 4647825
 
 townhall lvl14: You gain 11cp for 104480 res. Res/cp: 9498.181818181818
 It has 1 required building levels (listed above) townhall:13.
 Combined cost: 186105 adding 19 cp overall (avg: 9795)
+Total cp: 933
+Total cost: 4752305
 
 stable lvl17: You gain 7cp for 69020 res. Res/cp: 9860
+Total cp: 940
+Total cost: 4821325
 
 residence lvl15: You gain 5cp for 49755 res. Res/cp: 9951
+Total cp: 945
+Total cost: 4871080
+
+warehouse lvl20: You gain 6cp for 94720 res. Res/cp: 15786.666666666666
+Required for treasury:20
+Total cp: 951
+Total cost: 4965800
+
+treasury lvl19: You gain 32cp for 294415 res. Res/cp: 9200.46875
+Required for treasury:20
+Total cp: 983
+Total cost: 5260215
+
+treasury lvl20: You gain 38cp for 370960 res. Res/cp: 9762.105263157895
+It has 2 required building levels (listed above) treasury:19, warehouse:20.
+Combined cost: 760095 adding 76 cp overall (avg: 10001.25)
+Total cp: 1021
+Total cost: 5631175
 
 workshop lvl19: You gain 16cp for 160780 res. Res/cp: 10048.75
+Total cp: 1037
+Total cost: 5791955
 
 stable lvl18: You gain 9cp for 91800 res. Res/cp: 10200
 Required for greatstable:8
+Total cp: 1046
+Total cost: 5883755
 
 stable lvl19: You gain 11cp for 122085 res. Res/cp: 11098.636363636364
 Required for greatstable:8
+Total cp: 1057
+Total cost: 6005840
 
 stable lvl20: You gain 13cp for 162375 res. Res/cp: 12490.384615384615
 Required for greatstable:8
+Total cp: 1070
+Total cost: 6168215
 
 greatstable lvl1: You gain 2cp for 2160 res. Res/cp: 1080
 Required for greatstable:8
+Total cp: 1072
+Total cost: 6170375
 
 greatstable lvl2: You gain 1cp for 2770 res. Res/cp: 2770
 Required for greatstable:8
+Total cp: 1073
+Total cost: 6173145
 
 greatstable lvl3: You gain 0cp for 3540 res. Res/cp: 9999999999999
 Required for greatstable:8
+Total cp: 1073
+Total cost: 6176685
 
 greatstable lvl4: You gain 1cp for 4530 res. Res/cp: 4530
 Required for greatstable:8
+Total cp: 1074
+Total cost: 6181215
 
 greatstable lvl5: You gain 1cp for 5795 res. Res/cp: 5795
 Required for greatstable:8
+Total cp: 1075
+Total cost: 6187010
 
 greatstable lvl6: You gain 1cp for 7425 res. Res/cp: 7425
 Required for greatstable:8
+Total cp: 1076
+Total cost: 6194435
 
 greatstable lvl7: You gain 1cp for 9500 res. Res/cp: 9500
 Required for greatstable:8
+Total cp: 1077
+Total cost: 6203935
 
 greatstable lvl8: You gain 2cp for 12160 res. Res/cp: 6080
 It has 10 required building levels (listed above) stable:20, stable:19, stable:18, greatstable:7, greatstable:6, greatstable:5, greatstable:4, greatstable:3, greatstable:2, greatstable:1.
 Combined cost: 424140 adding 42 cp overall (avg: 10098.57142857143)
+Total cp: 1079
+Total cost: 6216095
 
 embassy lvl13: You gain 7cp for 70765 res. Res/cp: 10109.285714285714
+Total cp: 1086
+Total cost: 6286860
 
 granary lvl20: You gain 6cp for 60885 res. Res/cp: 10147.5
+Total cp: 1092
+Total cost: 6347745
 
 greatstable lvl9: You gain 1cp for 15560 res. Res/cp: 15560
 Required for greatstable:11
+Total cp: 1093
+Total cost: 6363305
 
 greatstable lvl10: You gain 2cp for 19920 res. Res/cp: 9960
 Required for greatstable:11
+Total cp: 1095
+Total cost: 6383225
 
 greatstable lvl11: You gain 3cp for 25500 res. Res/cp: 8500
 It has 2 required building levels (listed above) greatstable:10, greatstable:9.
 Combined cost: 60980 adding 6 cp overall (avg: 10163.333333333334)
+Total cp: 1098
+Total cost: 6408725
 
 townhall lvl15: You gain 13cp for 133735 res. Res/cp: 10287.307692307691
+Total cp: 1111
+Total cost: 6542460
 
 barracks lvl8: You gain 0cp for 5375 res. Res/cp: 9999999999999
 Required for barracks:12
+Total cp: 1111
+Total cost: 6547835
 
 barracks lvl9: You gain 1cp for 7145 res. Res/cp: 7145
 Required for barracks:12
+Total cp: 1112
+Total cost: 6554980
 
 barracks lvl10: You gain 1cp for 9510 res. Res/cp: 9510
 Required for barracks:12
+Total cp: 1113
+Total cost: 6564490
 
 barracks lvl11: You gain 1cp for 12645 res. Res/cp: 12645
 Required for barracks:12
+Total cp: 1114
+Total cost: 6577135
 
 barracks lvl12: You gain 2cp for 16815 res. Res/cp: 8407.5
 It has 4 required building levels (listed above) barracks:11, barracks:10, barracks:9, barracks:8.
 Combined cost: 51490 adding 5 cp overall (avg: 10298)
+Total cp: 1116
+Total cost: 6593950
 
 rallypoint lvl16: You gain 3cp for 30990 res. Res/cp: 10330
 Required for rallypoint:17
+Total cp: 1119
+Total cost: 6624940
 
 rallypoint lvl17: You gain 4cp for 41215 res. Res/cp: 10303.75
 It has 1 required building levels (listed above) rallypoint:16.
 Combined cost: 72205 adding 7 cp overall (avg: 10315)
-
-warehouse lvl15: You gain 2cp for 22760 res. Res/cp: 11380
-Required for warehouse:17
-
-warehouse lvl16: You gain 3cp for 30270 res. Res/cp: 10090
-Required for warehouse:17
-
-warehouse lvl17: You gain 4cp for 40260 res. Res/cp: 10065
-It has 2 required building levels (listed above) warehouse:16, warehouse:15.
-Combined cost: 93290 adding 9 cp overall (avg: 10365.555555555555)
+Total cp: 1123
+Total cost: 6666155
 
 residence lvl16: You gain 6cp for 63690 res. Res/cp: 10615
-
-warehouse lvl18: You gain 5cp for 53550 res. Res/cp: 10710
+Total cp: 1129
+Total cost: 6729845
 
 workshop lvl20: You gain 19cp for 205805 res. Res/cp: 10831.842105263158
+Total cp: 1148
+Total cost: 6935650
 
 greatstable lvl12: You gain 3cp for 32640 res. Res/cp: 10880
+Total cp: 1151
+Total cost: 6968290
 
 rallypoint lvl18: You gain 5cp for 54825 res. Res/cp: 10965
+Total cp: 1156
+Total cost: 7023115
 
 barracks lvl13: You gain 2cp for 22365 res. Res/cp: 11182.5
+Total cp: 1158
+Total cost: 7045480
 
 townhall lvl16: You gain 15cp for 171180 res. Res/cp: 11412
+Total cp: 1173
+Total cost: 7216660
 
 townhall lvl17: You gain 19cp for 219120 res. Res/cp: 11532.631578947368
+Total cp: 1192
+Total cost: 7435780
 
 embassy lvl14: You gain 8cp for 94120 res. Res/cp: 11765
 Required for embassy:15
+Total cp: 1200
+Total cost: 7529900
 
 embassy lvl15: You gain 11cp for 125185 res. Res/cp: 11380.454545454546
 It has 1 required building levels (listed above) embassy:14.
 Combined cost: 219305 adding 19 cp overall (avg: 11542.368421052632)
+Total cp: 1211
+Total cost: 7655085
 
 residence lvl17: You gain 7cp for 81520 res. Res/cp: 11645.714285714286
 Required for residence:18
+Total cp: 1218
+Total cost: 7736605
 
 residence lvl18: You gain 9cp for 104345 res. Res/cp: 11593.888888888889
 It has 1 required building levels (listed above) residence:17.
 Combined cost: 185865 adding 16 cp overall (avg: 11616.5625)
+Total cp: 1227
+Total cost: 7840950
 
 greatstable lvl13: You gain 3cp for 41780 res. Res/cp: 13926.666666666666
 Required for greatstable:14
+Total cp: 1230
+Total cost: 7882730
 
 greatstable lvl14: You gain 5cp for 53480 res. Res/cp: 10696
 It has 1 required building levels (listed above) greatstable:13.
 Combined cost: 95260 adding 8 cp overall (avg: 11907.5)
+Total cp: 1235
+Total cost: 7936210
 
 tradeoffice lvl8: You gain 2cp for 24370 res. Res/cp: 12185
 Required for tradeoffice:10
+Total cp: 1237
+Total cost: 7960580
 
 tradeoffice lvl9: You gain 2cp for 31200 res. Res/cp: 15600
 Required for tradeoffice:10
+Total cp: 1239
+Total cost: 7991780
 
 tradeoffice lvl10: You gain 4cp for 39940 res. Res/cp: 9985
 It has 2 required building levels (listed above) tradeoffice:9, tradeoffice:8.
 Combined cost: 95510 adding 8 cp overall (avg: 11938.75)
+Total cp: 1243
+Total cost: 8031720
 
 residence lvl19: You gain 11cp for 133560 res. Res/cp: 12141.818181818182
+Total cp: 1254
+Total cost: 8165280
 
 townhall lvl18: You gain 22cp for 280460 res. Res/cp: 12748.181818181818
+Total cp: 1276
+Total cost: 8445740
 
 grainmill lvl2: You gain 0cp for 4605 res. Res/cp: 9999999999999
 Required for grainmill:3
+Total cp: 1276
+Total cost: 8450345
 
 grainmill lvl3: You gain 1cp for 8295 res. Res/cp: 8295
 It has 1 required building levels (listed above) grainmill:2.
 Combined cost: 12900 adding 1 cp overall (avg: 12900)
+Total cp: 1277
+Total cost: 8458640
 
 residence lvl20: You gain 13cp for 170955 res. Res/cp: 13150.384615384615
+Total cp: 1290
+Total cost: 8629595
 
 townhall lvl19: You gain 27cp for 359000 res. Res/cp: 13296.296296296296
+Total cp: 1317
+Total cost: 8988595
 
 greatstable lvl15: You gain 5cp for 68450 res. Res/cp: 13690
+Total cp: 1322
+Total cost: 9057045
 
 embassy lvl16: You gain 12cp for 166490 res. Res/cp: 13874.166666666666
-
-warehouse lvl19: You gain 5cp for 71215 res. Res/cp: 14243
+Total cp: 1334
+Total cost: 9223535
 
 townhall lvl20: You gain 32cp for 459520 res. Res/cp: 14360
+Total cp: 1366
+Total cost: 9683055
 
 tradeoffice lvl11: You gain 3cp for 51115 res. Res/cp: 17038.333333333332
 Required for tradeoffice:12
+Total cp: 1369
+Total cost: 9734170
 
 tradeoffice lvl12: You gain 5cp for 65435 res. Res/cp: 13087
 It has 1 required building levels (listed above) tradeoffice:11.
 Combined cost: 116550 adding 8 cp overall (avg: 14568.75)
+Total cp: 1374
+Total cost: 9799605
 
 rallypoint lvl19: You gain 5cp for 72910 res. Res/cp: 14582
+Total cp: 1379
+Total cost: 9872515
 
 greatstable lvl16: You gain 6cp for 87620 res. Res/cp: 14603.333333333334
+Total cp: 1385
+Total cost: 9960135
 
 embassy lvl17: You gain 15cp for 221430 res. Res/cp: 14762
+Total cp: 1400
+Total cost: 10181565
 
 barracks lvl14: You gain 2cp for 29745 res. Res/cp: 14872.5
-
-warehouse lvl20: You gain 6cp for 94720 res. Res/cp: 15786.666666666666
+Total cp: 1402
+Total cost: 10211310
 
 tradeoffice lvl13: You gain 5cp for 83750 res. Res/cp: 16750
 Required for tradeoffice:14
+Total cp: 1407
+Total cost: 10295060
 
 tradeoffice lvl14: You gain 7cp for 107205 res. Res/cp: 15315
 It has 1 required building levels (listed above) tradeoffice:13.
 Combined cost: 190955 adding 12 cp overall (avg: 15912.916666666666)
+Total cp: 1414
+Total cost: 10402265
 
 greatstable lvl17: You gain 7cp for 112155 res. Res/cp: 16022.142857142857
 Required for greatstable:18
+Total cp: 1421
+Total cost: 10514420
 
 greatstable lvl18: You gain 9cp for 143560 res. Res/cp: 15951.111111111111
 It has 1 required building levels (listed above) greatstable:17.
 Combined cost: 255715 adding 16 cp overall (avg: 15982.1875)
+Total cp: 1430
+Total cost: 10657980
 
 rallypoint lvl20: You gain 6cp for 96970 res. Res/cp: 16161.666666666666
+Total cp: 1436
+Total cost: 10754950
 
 greatstable lvl19: You gain 11cp for 183750 res. Res/cp: 16704.545454545456
+Total cp: 1447
+Total cost: 10938700
 
 tournamentsquare lvl2: You gain 0cp for 7385 res. Res/cp: 9999999999999
 Required for tournamentsquare:3
+Total cp: 1447
+Total cost: 10946085
 
 tournamentsquare lvl3: You gain 1cp for 9450 res. Res/cp: 9450
 It has 1 required building levels (listed above) tournamentsquare:2.
 Combined cost: 16835 adding 1 cp overall (avg: 16835)
+Total cp: 1448
+Total cost: 10955535
 
 embassy lvl18: You gain 17cp for 294510 res. Res/cp: 17324.117647058825
+Total cp: 1465
+Total cost: 11250045
 
 embassy lvl19: You gain 22cp for 391690 res. Res/cp: 17804.090909090908
+Total cp: 1487
+Total cost: 11641735
 
 barracks lvl15: You gain 2cp for 39560 res. Res/cp: 19780
 Required for barracks:17
+Total cp: 1489
+Total cost: 11681295
 
 barracks lvl16: You gain 3cp for 52615 res. Res/cp: 17538.333333333332
 Required for barracks:17
+Total cp: 1492
+Total cost: 11733910
 
 barracks lvl17: You gain 4cp for 69980 res. Res/cp: 17495
 It has 2 required building levels (listed above) barracks:16, barracks:15.
 Combined cost: 162155 adding 9 cp overall (avg: 18017.222222222223)
+Total cp: 1496
+Total cost: 11803890
 
 greatstable lvl20: You gain 13cp for 235205 res. Res/cp: 18092.69230769231
+Total cp: 1509
+Total cost: 12039095
 
 barracks lvl18: You gain 5cp for 93075 res. Res/cp: 18615
+Total cp: 1514
+Total cost: 12132170
 
 tradeoffice lvl15: You gain 7cp for 137225 res. Res/cp: 19603.571428571428
 Required for tradeoffice:17
+Total cp: 1521
+Total cost: 12269395
 
 tradeoffice lvl16: You gain 9cp for 175645 res. Res/cp: 19516.11111111111
 Required for tradeoffice:17
+Total cp: 1530
+Total cost: 12445040
 
 tradeoffice lvl17: You gain 12cp for 224830 res. Res/cp: 18735.833333333332
 It has 2 required building levels (listed above) tradeoffice:16, tradeoffice:15.
 Combined cost: 537700 adding 28 cp overall (avg: 19203.571428571428)
+Total cp: 1542
+Total cost: 12669870
 
 embassy lvl20: You gain 25cp for 520950 res. Res/cp: 20838
+Total cp: 1567
+Total cost: 13190820
 
 barracks lvl19: You gain 5cp for 123780 res. Res/cp: 24756
 Required for greatbarracks:13
+Total cp: 1572
+Total cost: 13314600
 
 barracks lvl20: You gain 6cp for 164630 res. Res/cp: 27438.333333333332
 Required for greatbarracks:13
+Total cp: 1578
+Total cost: 13479230
 
 greatbarracks lvl1: You gain 1cp for 2190 res. Res/cp: 2190
 Required for greatbarracks:13
+Total cp: 1579
+Total cost: 13481420
 
 greatbarracks lvl2: You gain 0cp for 2805 res. Res/cp: 9999999999999
 Required for greatbarracks:13
+Total cp: 1579
+Total cost: 13484225
 
 greatbarracks lvl3: You gain 1cp for 3590 res. Res/cp: 3590
 Required for greatbarracks:13
+Total cp: 1580
+Total cost: 13487815
 
 greatbarracks lvl4: You gain 0cp for 4590 res. Res/cp: 9999999999999
 Required for greatbarracks:13
+Total cp: 1580
+Total cost: 13492405
 
 greatbarracks lvl5: You gain 0cp for 5875 res. Res/cp: 9999999999999
 Required for greatbarracks:13
+Total cp: 1580
+Total cost: 13498280
 
 greatbarracks lvl6: You gain 1cp for 7525 res. Res/cp: 7525
 Required for greatbarracks:13
+Total cp: 1581
+Total cost: 13505805
 
 greatbarracks lvl7: You gain 1cp for 9630 res. Res/cp: 9630
 Required for greatbarracks:13
+Total cp: 1582
+Total cost: 13515435
 
 greatbarracks lvl8: You gain 0cp for 12325 res. Res/cp: 9999999999999
 Required for greatbarracks:13
+Total cp: 1582
+Total cost: 13527760
 
 greatbarracks lvl9: You gain 1cp for 15780 res. Res/cp: 15780
 Required for greatbarracks:13
+Total cp: 1583
+Total cost: 13543540
 
 greatbarracks lvl10: You gain 1cp for 20200 res. Res/cp: 20200
 Required for greatbarracks:13
+Total cp: 1584
+Total cost: 13563740
 
 greatbarracks lvl11: You gain 1cp for 25860 res. Res/cp: 25860
 Required for greatbarracks:13
+Total cp: 1585
+Total cost: 13589600
 
 greatbarracks lvl12: You gain 2cp for 33090 res. Res/cp: 16545
 Required for greatbarracks:13
+Total cp: 1587
+Total cost: 13622690
 
 greatbarracks lvl13: You gain 2cp for 42360 res. Res/cp: 21180
 It has 14 required building levels (listed above) barracks:20, barracks:19, greatbarracks:12, greatbarracks:11, greatbarracks:10, greatbarracks:9, greatbarracks:8, greatbarracks:7, greatbarracks:6, greatbarracks:5, greatbarracks:4, greatbarracks:3, greatbarracks:2, greatbarracks:1.
 Combined cost: 474230 adding 22 cp overall (avg: 21555.909090909092)
+Total cp: 1589
+Total cost: 13665050
 
 tradeoffice lvl18: You gain 13cp for 287780 res. Res/cp: 22136.923076923078
+Total cp: 1602
+Total cost: 13952830
 
 tradeoffice lvl19: You gain 16cp for 368360 res. Res/cp: 23022.5
+Total cp: 1618
+Total cost: 14321190
 
 tradeoffice lvl20: You gain 19cp for 471495 res. Res/cp: 24815.526315789473
+Total cp: 1637
+Total cost: 14792685
 
 greatbarracks lvl14: You gain 2cp for 54225 res. Res/cp: 27112.5
+Total cp: 1639
+Total cost: 14846910
 
 greatbarracks lvl15: You gain 2cp for 69405 res. Res/cp: 34702.5
 Required for greatbarracks:18
+Total cp: 1641
+Total cost: 14916315
 
 greatbarracks lvl16: You gain 3cp for 88835 res. Res/cp: 29611.666666666668
 Required for greatbarracks:18
+Total cp: 1644
+Total cost: 15005150
 
 greatbarracks lvl17: You gain 4cp for 113710 res. Res/cp: 28427.5
 Required for greatbarracks:18
+Total cp: 1648
+Total cost: 15118860
 
 greatbarracks lvl18: You gain 5cp for 145550 res. Res/cp: 29110
 It has 3 required building levels (listed above) greatbarracks:17, greatbarracks:16, greatbarracks:15.
 Combined cost: 417500 adding 14 cp overall (avg: 29821.428571428572)
+Total cp: 1653
+Total cost: 15264410
 
 tournamentsquare lvl4: You gain 0cp for 12105 res. Res/cp: 9999999999999
 Required for tournamentsquare:7
+Total cp: 1653
+Total cost: 15276515
 
 tournamentsquare lvl5: You gain 0cp for 15490 res. Res/cp: 9999999999999
 Required for tournamentsquare:7
+Total cp: 1653
+Total cost: 15292005
 
 tournamentsquare lvl6: You gain 1cp for 19825 res. Res/cp: 19825
 Required for tournamentsquare:7
+Total cp: 1654
+Total cost: 15311830
 
 tournamentsquare lvl7: You gain 1cp for 25375 res. Res/cp: 25375
 It has 3 required building levels (listed above) tournamentsquare:6, tournamentsquare:5, tournamentsquare:4.
 Combined cost: 72795 adding 2 cp overall (avg: 36397.5)
+Total cp: 1655
+Total cost: 15337205
 
 grainmill lvl4: You gain 0cp for 14925 res. Res/cp: 9999999999999
 Required for bakery:3
+Total cp: 1655
+Total cost: 15352130
 
 grainmill lvl5: You gain 0cp for 26875 res. Res/cp: 9999999999999
 Required for bakery:3
+Total cp: 1655
+Total cost: 15379005
 
 bakery lvl1: You gain 1cp for 5150 res. Res/cp: 5150
 Required for bakery:3
+Total cp: 1656
+Total cost: 15384155
 
 bakery lvl2: You gain 0cp for 9270 res. Res/cp: 9999999999999
 Required for bakery:3
+Total cp: 1656
+Total cost: 15393425
 
 bakery lvl3: You gain 1cp for 16690 res. Res/cp: 16690
 It has 4 required building levels (listed above) grainmill:5, grainmill:4, bakery:2, bakery:1.
 Combined cost: 72910 adding 2 cp overall (avg: 36455)
+Total cp: 1657
+Total cost: 15410115
 
 greatbarracks lvl19: You gain 5cp for 186305 res. Res/cp: 37261
+Total cp: 1662
+Total cost: 15596420
 
 greatbarracks lvl20: You gain 6cp for 238470 res. Res/cp: 39745
+Total cp: 1668
+Total cost: 15834890
 
 tournamentsquare lvl8: You gain 0cp for 32480 res. Res/cp: 9999999999999
 Required for tournamentsquare:13
+Total cp: 1668
+Total cost: 15867370
 
 tournamentsquare lvl9: You gain 1cp for 41580 res. Res/cp: 41580
 Required for tournamentsquare:13
+Total cp: 1669
+Total cost: 15908950
 
 tournamentsquare lvl10: You gain 1cp for 53220 res. Res/cp: 53220
 Required for tournamentsquare:13
+Total cp: 1670
+Total cost: 15962170
 
 tournamentsquare lvl11: You gain 1cp for 68125 res. Res/cp: 68125
 Required for tournamentsquare:13
+Total cp: 1671
+Total cost: 16030295
 
 tournamentsquare lvl12: You gain 2cp for 87190 res. Res/cp: 43595
 Required for tournamentsquare:13
+Total cp: 1673
+Total cost: 16117485
 
 tournamentsquare lvl13: You gain 2cp for 111605 res. Res/cp: 55802.5
 It has 5 required building levels (listed above) tournamentsquare:12, tournamentsquare:11, tournamentsquare:10, tournamentsquare:9, tournamentsquare:8.
 Combined cost: 394200 adding 7 cp overall (avg: 56314.28571428572)
+Total cp: 1675
+Total cost: 16229090
 
 tournamentsquare lvl14: You gain 2cp for 142855 res. Res/cp: 71427.5
+Total cp: 1677
+Total cost: 16371945
 
 tournamentsquare lvl15: You gain 2cp for 182860 res. Res/cp: 91430
 Required for tournamentsquare:18
+Total cp: 1679
+Total cost: 16554805
 
 tournamentsquare lvl16: You gain 3cp for 234060 res. Res/cp: 78020
 Required for tournamentsquare:18
+Total cp: 1682
+Total cost: 16788865
 
 tournamentsquare lvl17: You gain 4cp for 299590 res. Res/cp: 74897.5
 Required for tournamentsquare:18
+Total cp: 1686
+Total cost: 17088455
 
 tournamentsquare lvl18: You gain 5cp for 383480 res. Res/cp: 76696
 It has 3 required building levels (listed above) tournamentsquare:17, tournamentsquare:16, tournamentsquare:15.
 Combined cost: 1099990 adding 14 cp overall (avg: 78570.71428571429)
+Total cp: 1691
+Total cost: 17471935
 
 tournamentsquare lvl19: You gain 5cp for 490860 res. Res/cp: 98172
+Total cp: 1696
+Total cost: 17962795
 
 tournamentsquare lvl20: You gain 6cp for 628300 res. Res/cp: 104716.66666666667
+Total cp: 1702
+Total cost: 18591095
 
 bakery lvl4: You gain 0cp for 30035 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18621130
 
 bakery lvl5: You gain 0cp for 54060 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18675190
 
 brickyard lvl4: You gain 0cp for 7520 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18682710
 
 brickyard lvl5: You gain 0cp for 13545 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18696255
 
 ironfoundry lvl4: You gain 0cp for 7465 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18703720
 
 ironfoundry lvl5: You gain 0cp for 13440 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18717160
 
 sawmill lvl4: You gain 0cp for 7465 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18724625
 
 sawmill lvl5: You gain 0cp for 13440 res. Res/cp: 9999999999999
+Total cp: 1702
+Total cost: 18738065

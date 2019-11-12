@@ -1,18 +1,18 @@
 const fs = require('fs');
 const costData = require('../sortedCostData');
-const requirements = require('../requirements');
+const requirements = require('../raw/requirements');
+const storage = require('../raw/storage');
 
 const IS_CAPITAL = false;
+const PLUS = true;
 
 const capitalBuildings = ['palace', 'stonemason'];
 
 const built = [];
 const buildOrder = [];
 
-function debugWait(ms) {
-  return new Promise(resolve => {
-    setTimeout(resolve, ms);
-  });
+function getStorageLevel(ammount) {
+  return storage.findIndex((e) => ammount < (PLUS ? e * 1.25 : e ));
 }
 
 function getCode(building, offset = 0) {
@@ -36,6 +36,19 @@ function findMissingRequirements(building) {
   if (building.level > 1) {
     required.push(getCode(building, 1));
   }
+  const cropCost = building.crop;
+  const maxResCost = Math.max(building.wood, building.clay, building.iron);
+
+  const requiredGranary = getStorageLevel(cropCost);
+  const requiredWarehouse = getStorageLevel(maxResCost);
+
+  if (requiredGranary > 0) {
+    required.push(`granary:${requiredGranary}`);
+  }
+  if (requiredWarehouse > 0) {
+    required.push(`warehouse:${requiredWarehouse}`);
+  }
+
   const missingCodes = required.filter((requiredBuilding) => !built.includes(requiredBuilding));
   const missingBuildings = missingCodes.reduce((acc, missingBuildingCode) => {
     const [buildingName, level] = missingBuildingCode.split(':');
@@ -147,7 +160,7 @@ function buildBuilding(building, isCapital) {
 }
 
 function saveBuildOrder() {
-  const buildOrderPretty = buildOrder.map(b => {
+  const buildOrderPretty = buildOrder.map((b, i) => {
     let string = `${b.name} lvl${b.level}: You gain ${b.cpGain}cp for ${b.levelCost} res. Res/cp: ${b.costPerCpGain}\n`;
     if (b.target) {
       string += `Required for ${b.target}\n`;
@@ -156,6 +169,15 @@ function saveBuildOrder() {
       string += `It has ${b.requirementCount} required building levels (listed above) ${b.missing.map(m => getCode(m)).join(', ')}.
 Combined cost: ${b.levelCostWithRequirements} adding ${b.cpGainWithRequirements} cp overall (avg: ${b.costPerCpGainWithRequirements})\n`;
     }
+    if (i === 0) {
+      b.totalCp = b.cpGain;
+      b.totalCost = b.levelCost;
+    } else {
+      b.totalCp = b.cpGain + buildOrder[i - 1].totalCp;
+      b.totalCost = b.levelCost + buildOrder[i - 1].totalCost;
+    }
+    string += `Total cp: ${b.totalCp}\n`;
+    string += `Total cost: ${b.totalCost}\n`;
     return string;
   });
   const buildOrderShort = buildOrder.map(b => {

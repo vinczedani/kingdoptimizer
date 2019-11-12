@@ -6,7 +6,7 @@
   "cranny": [],
   "embassy": ["mainbuilding:1"],
   "grainmill": [],
-  "granary": [],
+  "granary": ["mainbuilding:1"],
   "greatbarracks": ["barracks:20"],
   "greatstable": ["stable:20"],
   "ironfoundry": [],
@@ -23,6 +23,6 @@
   "townhall": ["academy:10", "mainbuilding:10"],
   "tradeoffice": ["stable:10", "marketplace:20"],
   "treasury": [],
-  "warehouse": [],
+  "warehouse": ["mainbuilding:1"],
   "workshop": ["mainbuilding:5", "academy:10"]
 }
