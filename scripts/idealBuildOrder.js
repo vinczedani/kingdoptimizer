@@ -158,6 +158,10 @@ Combined cost: ${b.levelCostWithRequirements} adding ${b.cpGainWithRequirements}
     }
     return string;
   });
+  const buildOrderShort = buildOrder.map(b => {
+    return `${b.name} lvl${b.level}`;
+  })
+  fs.writeFileSync('buildOrderShort', buildOrderShort.join('\n'));
   fs.writeFileSync('buildOrderPretty', buildOrderPretty.join('\n'));
   fs.writeFileSync('buildOrder.json', JSON.stringify(buildOrder, null, 2));
 }
