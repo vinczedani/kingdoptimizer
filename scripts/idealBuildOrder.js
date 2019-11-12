@@ -47,7 +47,7 @@ function buildBuilding(building, isCapital) {
 
 function saveBuildOrder() {
   const buildOrderPretty = buildOrder.map(b => {
-    return `${b.name} lvl${b.level}: You gain ${b.cpGain} for ${b.levelCost}. Rate: ${b.costPerCpGain}`;
+    return `${b.name} lvl${b.level}: You gain ${b.cpGain} for ${b.levelCost} res. Res/cp: ${b.costPerCpGain}`;
   });
   fs.writeFileSync('buildOrderPretty', buildOrderPretty.join('\n'));
   fs.writeFileSync('buildOrder.json', JSON.stringify(buildOrder, null, 2));
