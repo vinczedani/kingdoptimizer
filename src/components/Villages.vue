@@ -1,6 +1,6 @@
 <template>
   <div class="villages">
-    Villages
+    <h2>Villages</h2>
     <div
       class="villageItem"
       v-for="village in villages"
@@ -41,10 +41,5 @@ export default {
 <style lang="scss">
 .villages {
   width: 20%;
-
-  .villageItem .clickable:hover {
-    font-weight: bold;
-    cursor: pointer;
-  }
 }
 </style>

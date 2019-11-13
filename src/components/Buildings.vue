@@ -1,6 +1,6 @@
 <template>
   <div class="buildings">
-    Buildings
+    <h2>Buildings</h2>
     <div
       v-for="building in village.buildings"
       :key="building.id">
@@ -10,7 +10,7 @@
       <select v-model="building.level" @change="buildingLevelChanged(building)">
         <option v-for="n in 20" :value="n" :key="n">{{ n }}</option>
       </select>
-      <span class="clickable" @click="deleteBuilding(building.id)"></span>
+      <span class="clickable" @click="deleteBuilding(building.id)">delete</span>
     </div>
     <button @click="addBuilding">Add new building</button>
   </div>

@@ -23,4 +23,9 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+
+.clickable:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
 </style>

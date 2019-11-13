@@ -1,7 +1,6 @@
 <template>
   <div class="recommendations">
-    Recommendations
-
+    <h2>Recommendations</h2>
     <div
       v-for="recommendedBuilding in recommendations"
       :key="recommendedBuilding.name + recommendedBuilding.level"
@@ -62,7 +61,7 @@ export default {
     position: absolute;
     z-index: 1;
     bottom: 125%;
-    left: 30%;
+    left: 40%;
     margin-left: -60px;
     opacity: 0;
     transition: opacity 0.3s;

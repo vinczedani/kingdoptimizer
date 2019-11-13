@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const state = {
   villages: [{ id: 1, name: 'Demo village', buildings: [{ id: 1, name: 'mainbuilding', level: 1 }] }],
   activeVillageId: 1,
@@ -71,10 +72,10 @@ const mutations = {
   },
   deleteBuilding(state, buildingId) {
     const activeVillage = state.villages.find(v => v.id === state.activeVillageId);
-    const index = activeVillage.buildings.find(b => b.id === buildingId);
+    const index = activeVillage.buildings.findIndex(b => b.id === buildingId);
 
     if (index > -1) {
-      state.villages.splice(index, 1);
+      activeVillage.buildings.splice(index, 1);
     }
   }
 }
