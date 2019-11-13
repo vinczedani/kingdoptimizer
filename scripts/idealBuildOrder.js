@@ -91,6 +91,7 @@ function forceBuild(building, target) {
   if (built.includes(getCode(building))) {
     return;
   }
+  let newTarget;
   // target is not defined at root building, but defined later when force building required levels
   if (!target) {
     newTarget = getCode(building);

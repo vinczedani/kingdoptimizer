@@ -1,21 +1,27 @@
 <template>
   <div class="container">
-    <div>Buildings</div>
-    <div>Recommendations</div>
+    <Villages/>
+    <Buildings/>
+    <Recommendations/>
   </div>
 </template>
 
 <script>
-export default {
+import Villages from './Villages';
+import Buildings from './Buildings';
+import Recommendations from './Recommendations';
 
-}
+export default {
+  components: {
+    Villages,
+    Buildings,
+    Recommendations,
+  },
+};
 </script>
 
 <style lang="scss">
 .container {
   display: flex;
-  & > * {
-    width: 50%;
-  }
 }
 </style>
