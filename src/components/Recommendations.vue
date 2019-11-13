@@ -5,6 +5,7 @@
       v-for="recommendedBuilding in recommendations"
       :key="recommendedBuilding.name + recommendedBuilding.level"
       class="tooltip"
+      style="margin: 0 35%;"
       @click="buildRecommendedBuilding(recommendedBuilding)">
       <span>{{ recommendedBuilding.name }}</span>
       <span>{{ recommendedBuilding.level }}</span>
