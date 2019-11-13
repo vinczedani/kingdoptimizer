@@ -1,9 +1,10 @@
 <template>
   <div class="buildings">
-    <h2>Buildings</h2>
+    <h2 class="clickable" @click="sortBuildings">Buildings</h2>
     <div
-      v-for="building in village.buildings"
+      v-for="(building, i) in village.buildings"
       :key="building.id">
+      <span>{{ i + 1 }}. &nbsp;</span>
       <select v-model="building.name" @change="buildingChanged(building)">
         <option :value="ab.name" v-for="ab in availableBuildings" :key="ab.name">{{ ab.name }}</option>
       </select>
@@ -35,6 +36,7 @@ export default {
       buildingChanged: 'setBuildingLevel',
       addBuilding: 'createNewBuilding',
       deleteBuilding: 'deleteBuilding',
+      sortBuildings: 'sortBuildings'
     })
   }
 }

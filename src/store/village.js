@@ -77,6 +77,10 @@ const mutations = {
     if (index > -1) {
       activeVillage.buildings.splice(index, 1);
     }
+  },
+  sortBuildings(state) {
+    const activeVillage = state.villages.find(v => v.id === state.activeVillageId);
+    activeVillage.buildings.sort((a, b) => (a.name > b.name) ? 1 : -1);
   }
 }
 
