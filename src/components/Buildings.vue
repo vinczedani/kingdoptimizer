@@ -7,7 +7,7 @@
       <select v-model="building.name" @change="buildingChanged(building)">
         <option :value="ab.name" v-for="ab in availableBuildings" :key="ab.name">{{ ab.name }}</option>
       </select>
-      <select v-model="building.level" @change="buildingLevelChanged(building)">
+      <select v-model="building.level" @change="buildingChanged(building)">
         <option v-for="n in 20" :value="n" :key="n">{{ n }}</option>
       </select>
       <span class="clickable" @click="deleteBuilding(building.id)">delete</span>
