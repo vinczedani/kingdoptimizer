@@ -1,11 +1,13 @@
 # kingdoptimizer
 Scripts to get the optimal travian kingdom build orders
 
+Ui is available on https://vinczedani.github.io/kingdoptimizer/
+
 # TODO
 - [x] Factor in requirement cost when building has some
 - [x] When a building level is built, missing requirement costs should be updated on buildings depending on the built one
+- [x] Create ui instead of text file
 - [ ] Factor in building time (with main building level)
-- [ ] Create ui instead of text file
 - [ ] Parse current village and suggest next buildings
 
 
