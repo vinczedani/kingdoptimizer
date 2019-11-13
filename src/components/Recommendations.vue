@@ -11,6 +11,8 @@
       <span>{{ recommendedBuilding.level }}</span>
       <span class="tooltiptext">
         cpGain: {{ recommendedBuilding.cpGain }} <br/>
+        totalCost: {{ recommendedBuilding.levelCost }} <br/>
+        Res/cp: {{ Math.round(recommendedBuilding.costPerCpGain) }} <br/>
         wood: {{ recommendedBuilding.wood }}
         clay: {{ recommendedBuilding.clay }}
         iron: {{ recommendedBuilding.iron }}
@@ -62,11 +64,12 @@ export default {
     position: absolute;
     z-index: 1;
     bottom: 125%;
-    left: 40%;
+    left: 0%;
     margin-left: -60px;
     opacity: 0;
     transition: opacity 0.3s;
     padding: 1rem;
+    width: max-content;
   }
 
   .tooltip .tooltiptext::after {
