@@ -500,6 +500,228 @@
       "buildingTimeSec": 73500
     }
   ],
+  "brewery": [
+    {
+      "level": 1,
+      "wood": 1460,
+      "clay": 930,
+      "iron": 1250,
+      "crop": 1740,
+      "cp": 5,
+      "pop": 6,
+      "totalPop": 6,
+      "buildingTimeSec": 690
+    },
+    {
+      "level": 2,
+      "wood": 1870,
+      "clay": 1190,
+      "iron": 1600,
+      "crop": 2225,
+      "cp": 6,
+      "pop": 3,
+      "totalPop": 9,
+      "buildingTimeSec": 1170
+    },
+    {
+      "level": 3,
+      "wood": 2390,
+      "clay": 1525,
+      "iron": 2050,
+      "crop": 2850,
+      "cp": 7,
+      "pop": 3,
+      "totalPop": 12,
+      "buildingTimeSec": 1800
+    },
+    {
+      "level": 4,
+      "wood": 3060,
+      "clay": 1950,
+      "iron": 2620,
+      "crop": 3650,
+      "cp": 8,
+      "pop": 3,
+      "totalPop": 15,
+      "buildingTimeSec": 2880
+    },
+    {
+      "level": 5,
+      "wood": 3920,
+      "clay": 2495,
+      "iron": 3355,
+      "crop": 4670,
+      "cp": 10,
+      "pop": 3,
+      "totalPop": 18,
+      "buildingTimeSec": 5880
+    },
+    {
+      "level": 6,
+      "wood": 5015,
+      "clay": 3195,
+      "iron": 4295,
+      "crop": 5980,
+      "cp": 12,
+      "pop": 4,
+      "totalPop": 22,
+      "buildingTimeSec": 12600
+    },
+    {
+      "level": 7,
+      "wood": 6420,
+      "clay": 4090,
+      "iron": 5500,
+      "crop": 7655,
+      "cp": 14,
+      "pop": 4,
+      "totalPop": 26,
+      "buildingTimeSec": 18600
+    },
+    {
+      "level": 8,
+      "wood": 8220,
+      "clay": 5235,
+      "iron": 7035,
+      "crop": 9795,
+      "cp": 17,
+      "pop": 4,
+      "totalPop": 30,
+      "buildingTimeSec": 25500
+    },
+    {
+      "level": 9,
+      "wood": 10520,
+      "clay": 6700,
+      "iron": 9005,
+      "crop": 12540,
+      "cp": 21,
+      "pop": 4,
+      "totalPop": 34,
+      "buildingTimeSec": 30600
+    },
+    {
+      "level": 10,
+      "wood": 13465,
+      "clay": 8580,
+      "iron": 11530,
+      "crop": 16050,
+      "cp": 25,
+      "pop": 4,
+      "totalPop": 38,
+      "buildingTimeSec": 35100
+    },
+    {
+      "level": 11,
+      "wood": 17235,
+      "clay": 10980,
+      "iron": 14755,
+      "crop": 20540,
+      "cp": 30,
+      "pop": 4,
+      "totalPop": 42,
+      "buildingTimeSec": 42600
+    },
+    {
+      "level": 12,
+      "wood": 22065,
+      "clay": 14055,
+      "iron": 18890,
+      "crop": 26295,
+      "cp": 36,
+      "pop": 4,
+      "totalPop": 46,
+      "buildingTimeSec": 50100
+    },
+    {
+      "level": 13,
+      "wood": 28240,
+      "clay": 17990,
+      "iron": 24180,
+      "crop": 33655,
+      "cp": 43,
+      "pop": 4,
+      "totalPop": 50,
+      "buildingTimeSec": 59100
+    },
+    {
+      "level": 14,
+      "wood": 36150,
+      "clay": 23025,
+      "iron": 30950,
+      "crop": 43080,
+      "cp": 51,
+      "pop": 4,
+      "totalPop": 54,
+      "buildingTimeSec": 66600
+    },
+    {
+      "level": 15,
+      "wood": 46270,
+      "clay": 29475,
+      "iron": 39615,
+      "crop": 55145,
+      "cp": 62,
+      "pop": 4,
+      "totalPop": 58,
+      "buildingTimeSec": 77100
+    },
+    {
+      "level": 16,
+      "wood": 59225,
+      "clay": 37725,
+      "iron": 50705,
+      "crop": 70585,
+      "cp": 74,
+      "pop": 5,
+      "totalPop": 63,
+      "buildingTimeSec": 86100
+    },
+    {
+      "level": 17,
+      "wood": 75810,
+      "clay": 48290,
+      "iron": 64905,
+      "crop": 90345,
+      "cp": 89,
+      "pop": 5,
+      "totalPop": 68,
+      "buildingTimeSec": 99600
+    },
+    {
+      "level": 18,
+      "wood": 97035,
+      "clay": 61810,
+      "iron": 83075,
+      "crop": 115645,
+      "cp": 106,
+      "pop": 5,
+      "totalPop": 73,
+      "buildingTimeSec": 117600
+    },
+    {
+      "level": 19,
+      "wood": 124205,
+      "clay": 79115,
+      "iron": 106340,
+      "crop": 148025,
+      "cp": 128,
+      "pop": 5,
+      "totalPop": 78,
+      "buildingTimeSec": 135600
+    },
+    {
+      "level": 20,
+      "wood": 158980,
+      "clay": 101270,
+      "iron": 136115,
+      "crop": 189470,
+      "cp": 153,
+      "pop": 5,
+      "totalPop": 83,
+      "buildingTimeSec": 153600
+    }
+  ],
   "brickyard": [
     {
       "level": 1,
@@ -555,6 +777,228 @@
       "pop": 2,
       "totalPop": 11,
       "buildingTimeSec": 14400
+    }
+  ],
+  "citywall": [
+    {
+      "level": 1,
+      "wood": 70,
+      "clay": 90,
+      "iron": 170,
+      "crop": 70,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 35
+    },
+    {
+      "level": 2,
+      "wood": 90,
+      "clay": 115,
+      "iron": 220,
+      "crop": 90,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 255
+    },
+    {
+      "level": 3,
+      "wood": 115,
+      "clay": 145,
+      "iron": 280,
+      "crop": 115,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 545
+    },
+    {
+      "level": 4,
+      "wood": 145,
+      "clay": 190,
+      "iron": 355,
+      "crop": 145,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 1020
+    },
+    {
+      "level": 5,
+      "wood": 190,
+      "clay": 240,
+      "iron": 455,
+      "crop": 190,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 2400
+    },
+    {
+      "level": 6,
+      "wood": 240,
+      "clay": 310,
+      "iron": 585,
+      "crop": 240,
+      "cp": 3,
+      "pop": 1,
+      "totalPop": 1,
+      "buildingTimeSec": 5460
+    },
+    {
+      "level": 7,
+      "wood": 310,
+      "clay": 395,
+      "iron": 750,
+      "crop": 310,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 2,
+      "buildingTimeSec": 8100
+    },
+    {
+      "level": 8,
+      "wood": 395,
+      "clay": 505,
+      "iron": 955,
+      "crop": 395,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 3,
+      "buildingTimeSec": 11400
+    },
+    {
+      "level": 9,
+      "wood": 505,
+      "clay": 650,
+      "iron": 1225,
+      "crop": 505,
+      "cp": 5,
+      "pop": 1,
+      "totalPop": 4,
+      "buildingTimeSec": 13800
+    },
+    {
+      "level": 10,
+      "wood": 645,
+      "clay": 830,
+      "iron": 1570,
+      "crop": 645,
+      "cp": 6,
+      "pop": 1,
+      "totalPop": 5,
+      "buildingTimeSec": 15600
+    },
+    {
+      "level": 11,
+      "wood": 825,
+      "clay": 1065,
+      "iron": 2005,
+      "crop": 825,
+      "cp": 7,
+      "pop": 1,
+      "totalPop": 6,
+      "buildingTimeSec": 19200
+    },
+    {
+      "level": 12,
+      "wood": 1060,
+      "clay": 1360,
+      "iron": 2570,
+      "crop": 1060,
+      "cp": 9,
+      "pop": 1,
+      "totalPop": 7,
+      "buildingTimeSec": 22500
+    },
+    {
+      "level": 13,
+      "wood": 1355,
+      "clay": 1740,
+      "iron": 3290,
+      "crop": 1355,
+      "cp": 11,
+      "pop": 1,
+      "totalPop": 8,
+      "buildingTimeSec": 26700
+    },
+    {
+      "level": 14,
+      "wood": 1735,
+      "clay": 2230,
+      "iron": 4210,
+      "crop": 1735,
+      "cp": 13,
+      "pop": 1,
+      "totalPop": 9,
+      "buildingTimeSec": 30000
+    },
+    {
+      "level": 15,
+      "wood": 2220,
+      "clay": 2850,
+      "iron": 5390,
+      "crop": 2220,
+      "cp": 15,
+      "pop": 1,
+      "totalPop": 10,
+      "buildingTimeSec": 34800
+    },
+    {
+      "level": 16,
+      "wood": 2840,
+      "clay": 3650,
+      "iron": 6895,
+      "crop": 2840,
+      "cp": 18,
+      "pop": 2,
+      "totalPop": 12,
+      "buildingTimeSec": 39000
+    },
+    {
+      "level": 17,
+      "wood": 3635,
+      "clay": 4675,
+      "iron": 8825,
+      "crop": 3635,
+      "cp": 22,
+      "pop": 2,
+      "totalPop": 14,
+      "buildingTimeSec": 45000
+    },
+    {
+      "level": 18,
+      "wood": 4650,
+      "clay": 5980,
+      "iron": 11300,
+      "crop": 4650,
+      "cp": 27,
+      "pop": 2,
+      "totalPop": 16,
+      "buildingTimeSec": 53400
+    },
+    {
+      "level": 19,
+      "wood": 5955,
+      "clay": 7655,
+      "iron": 14460,
+      "crop": 5955,
+      "cp": 32,
+      "pop": 2,
+      "totalPop": 18,
+      "buildingTimeSec": 61500
+    },
+    {
+      "level": 20,
+      "wood": 7620,
+      "clay": 9800,
+      "iron": 18510,
+      "crop": 7620,
+      "cp": 38,
+      "pop": 2,
+      "totalPop": 20,
+      "buildingTimeSec": 69900
     }
   ],
   "cranny": [
@@ -667,6 +1111,228 @@
       "pop": 1,
       "totalPop": 5,
       "buildingTimeSec": 4560
+    }
+  ],
+  "earthwall": [
+    {
+      "level": 1,
+      "wood": 120,
+      "clay": 200,
+      "iron": 0,
+      "crop": 80,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 35
+    },
+    {
+      "level": 2,
+      "wood": 155,
+      "clay": 255,
+      "iron": 0,
+      "crop": 100,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 255
+    },
+    {
+      "level": 3,
+      "wood": 195,
+      "clay": 330,
+      "iron": 0,
+      "crop": 130,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 545
+    },
+    {
+      "level": 4,
+      "wood": 250,
+      "clay": 420,
+      "iron": 0,
+      "crop": 170,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 1020
+    },
+    {
+      "level": 5,
+      "wood": 320,
+      "clay": 535,
+      "iron": 0,
+      "crop": 215,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 2400
+    },
+    {
+      "level": 6,
+      "wood": 410,
+      "clay": 685,
+      "iron": 0,
+      "crop": 275,
+      "cp": 3,
+      "pop": 1,
+      "totalPop": 1,
+      "buildingTimeSec": 5460
+    },
+    {
+      "level": 7,
+      "wood": 530,
+      "clay": 880,
+      "iron": 0,
+      "crop": 350,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 2,
+      "buildingTimeSec": 8100
+    },
+    {
+      "level": 8,
+      "wood": 675,
+      "clay": 1125,
+      "iron": 0,
+      "crop": 450,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 3,
+      "buildingTimeSec": 11400
+    },
+    {
+      "level": 9,
+      "wood": 865,
+      "clay": 1440,
+      "iron": 0,
+      "crop": 575,
+      "cp": 5,
+      "pop": 1,
+      "totalPop": 4,
+      "buildingTimeSec": 13800
+    },
+    {
+      "level": 10,
+      "wood": 1105,
+      "clay": 1845,
+      "iron": 0,
+      "crop": 740,
+      "cp": 6,
+      "pop": 1,
+      "totalPop": 5,
+      "buildingTimeSec": 15600
+    },
+    {
+      "level": 11,
+      "wood": 1415,
+      "clay": 2360,
+      "iron": 0,
+      "crop": 945,
+      "cp": 7,
+      "pop": 1,
+      "totalPop": 6,
+      "buildingTimeSec": 19200
+    },
+    {
+      "level": 12,
+      "wood": 1815,
+      "clay": 3020,
+      "iron": 0,
+      "crop": 1210,
+      "cp": 9,
+      "pop": 1,
+      "totalPop": 7,
+      "buildingTimeSec": 22500
+    },
+    {
+      "level": 13,
+      "wood": 2320,
+      "clay": 3870,
+      "iron": 0,
+      "crop": 1545,
+      "cp": 11,
+      "pop": 1,
+      "totalPop": 8,
+      "buildingTimeSec": 26700
+    },
+    {
+      "level": 14,
+      "wood": 2970,
+      "clay": 4950,
+      "iron": 0,
+      "crop": 1980,
+      "cp": 13,
+      "pop": 1,
+      "totalPop": 9,
+      "buildingTimeSec": 30000
+    },
+    {
+      "level": 15,
+      "wood": 3805,
+      "clay": 6340,
+      "iron": 0,
+      "crop": 2535,
+      "cp": 15,
+      "pop": 1,
+      "totalPop": 10,
+      "buildingTimeSec": 34800
+    },
+    {
+      "level": 16,
+      "wood": 4870,
+      "clay": 8115,
+      "iron": 0,
+      "crop": 3245,
+      "cp": 18,
+      "pop": 2,
+      "totalPop": 12,
+      "buildingTimeSec": 39000
+    },
+    {
+      "level": 17,
+      "wood": 6230,
+      "clay": 10385,
+      "iron": 0,
+      "crop": 4155,
+      "cp": 22,
+      "pop": 2,
+      "totalPop": 14,
+      "buildingTimeSec": 45000
+    },
+    {
+      "level": 18,
+      "wood": 7975,
+      "clay": 13290,
+      "iron": 0,
+      "crop": 5315,
+      "cp": 27,
+      "pop": 2,
+      "totalPop": 16,
+      "buildingTimeSec": 53400
+    },
+    {
+      "level": 19,
+      "wood": 10210,
+      "clay": 17015,
+      "iron": 0,
+      "crop": 6805,
+      "cp": 32,
+      "pop": 2,
+      "totalPop": 18,
+      "buildingTimeSec": 61500
+    },
+    {
+      "level": 20,
+      "wood": 13065,
+      "clay": 21780,
+      "iron": 0,
+      "crop": 8710,
+      "cp": 38,
+      "pop": 2,
+      "totalPop": 20,
+      "buildingTimeSec": 69900
     }
   ],
   "embassy": [
@@ -1614,6 +2280,228 @@
       "buildingTimeSec": 99600
     }
   ],
+  "horsedrinkingthrough": [
+    {
+      "level": 1,
+      "wood": 780,
+      "clay": 420,
+      "iron": 660,
+      "crop": 540,
+      "cp": 4,
+      "pop": 5,
+      "totalPop": 5,
+      "buildingTimeSec": 660
+    },
+    {
+      "level": 2,
+      "wood": 1000,
+      "clay": 540,
+      "iron": 845,
+      "crop": 690,
+      "cp": 4,
+      "pop": 3,
+      "totalPop": 8,
+      "buildingTimeSec": 990
+    },
+    {
+      "level": 3,
+      "wood": 1280,
+      "clay": 690,
+      "iron": 1080,
+      "crop": 885,
+      "cp": 5,
+      "pop": 3,
+      "totalPop": 11,
+      "buildingTimeSec": 1410
+    },
+    {
+      "level": 4,
+      "wood": 1635,
+      "clay": 880,
+      "iron": 1385,
+      "crop": 1130,
+      "cp": 6,
+      "pop": 3,
+      "totalPop": 14,
+      "buildingTimeSec": 2100
+    },
+    {
+      "level": 5,
+      "wood": 2095,
+      "clay": 1125,
+      "iron": 1770,
+      "crop": 1450,
+      "cp": 7,
+      "pop": 3,
+      "totalPop": 17,
+      "buildingTimeSec": 4140
+    },
+    {
+      "level": 6,
+      "wood": 2680,
+      "clay": 1445,
+      "iron": 2270,
+      "crop": 1855,
+      "cp": 9,
+      "pop": 3,
+      "totalPop": 20,
+      "buildingTimeSec": 8700
+    },
+    {
+      "level": 7,
+      "wood": 3430,
+      "clay": 1845,
+      "iron": 2905,
+      "crop": 2375,
+      "cp": 11,
+      "pop": 3,
+      "totalPop": 23,
+      "buildingTimeSec": 12900
+    },
+    {
+      "level": 8,
+      "wood": 4390,
+      "clay": 2365,
+      "iron": 3715,
+      "crop": 3040,
+      "cp": 13,
+      "pop": 3,
+      "totalPop": 26,
+      "buildingTimeSec": 17400
+    },
+    {
+      "level": 9,
+      "wood": 5620,
+      "clay": 3025,
+      "iron": 4755,
+      "crop": 3890,
+      "cp": 15,
+      "pop": 3,
+      "totalPop": 29,
+      "buildingTimeSec": 21000
+    },
+    {
+      "level": 10,
+      "wood": 7195,
+      "clay": 3875,
+      "iron": 6085,
+      "crop": 4980,
+      "cp": 19,
+      "pop": 3,
+      "totalPop": 32,
+      "buildingTimeSec": 24000
+    },
+    {
+      "level": 11,
+      "wood": 9210,
+      "clay": 4960,
+      "iron": 7790,
+      "crop": 6375,
+      "cp": 22,
+      "pop": 4,
+      "totalPop": 36,
+      "buildingTimeSec": 29100
+    },
+    {
+      "level": 12,
+      "wood": 11785,
+      "clay": 6345,
+      "iron": 9975,
+      "crop": 8160,
+      "cp": 27,
+      "pop": 4,
+      "totalPop": 40,
+      "buildingTimeSec": 34200
+    },
+    {
+      "level": 13,
+      "wood": 15085,
+      "clay": 8125,
+      "iron": 12765,
+      "crop": 10445,
+      "cp": 32,
+      "pop": 4,
+      "totalPop": 44,
+      "buildingTimeSec": 40200
+    },
+    {
+      "level": 14,
+      "wood": 19310,
+      "clay": 10400,
+      "iron": 16340,
+      "crop": 13370,
+      "cp": 39,
+      "pop": 4,
+      "totalPop": 48,
+      "buildingTimeSec": 45300
+    },
+    {
+      "level": 15,
+      "wood": 24720,
+      "clay": 13310,
+      "iron": 20915,
+      "crop": 17115,
+      "cp": 46,
+      "pop": 4,
+      "totalPop": 52,
+      "buildingTimeSec": 52200
+    },
+    {
+      "level": 16,
+      "wood": 31640,
+      "clay": 17035,
+      "iron": 26775,
+      "crop": 21905,
+      "cp": 55,
+      "pop": 4,
+      "totalPop": 56,
+      "buildingTimeSec": 58500
+    },
+    {
+      "level": 17,
+      "wood": 40500,
+      "clay": 21810,
+      "iron": 34270,
+      "crop": 28040,
+      "cp": 67,
+      "pop": 4,
+      "totalPop": 60,
+      "buildingTimeSec": 67500
+    },
+    {
+      "level": 18,
+      "wood": 51840,
+      "clay": 27915,
+      "iron": 43865,
+      "crop": 35890,
+      "cp": 80,
+      "pop": 4,
+      "totalPop": 64,
+      "buildingTimeSec": 79800
+    },
+    {
+      "level": 19,
+      "wood": 66355,
+      "clay": 35730,
+      "iron": 56145,
+      "crop": 45940,
+      "cp": 96,
+      "pop": 4,
+      "totalPop": 68,
+      "buildingTimeSec": 91800
+    },
+    {
+      "level": 20,
+      "wood": 84935,
+      "clay": 45735,
+      "iron": 71870,
+      "crop": 58800,
+      "cp": 115,
+      "pop": 4,
+      "totalPop": 72,
+      "buildingTimeSec": 104100
+    }
+  ],
   "ironfoundry": [
     {
       "level": 1,
@@ -2335,6 +3223,228 @@
       "pop": 2,
       "totalPop": 30,
       "buildingTimeSec": 105900
+    }
+  ],
+  "palisade": [
+    {
+      "level": 1,
+      "wood": 160,
+      "clay": 100,
+      "iron": 80,
+      "crop": 60,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 35
+    },
+    {
+      "level": 2,
+      "wood": 205,
+      "clay": 130,
+      "iron": 100,
+      "crop": 75,
+      "cp": 1,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 255
+    },
+    {
+      "level": 3,
+      "wood": 260,
+      "clay": 165,
+      "iron": 130,
+      "crop": 100,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 545
+    },
+    {
+      "level": 4,
+      "wood": 335,
+      "clay": 210,
+      "iron": 170,
+      "crop": 125,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 1020
+    },
+    {
+      "level": 5,
+      "wood": 430,
+      "clay": 270,
+      "iron": 215,
+      "crop": 160,
+      "cp": 2,
+      "pop": 0,
+      "totalPop": 0,
+      "buildingTimeSec": 2400
+    },
+    {
+      "level": 6,
+      "wood": 550,
+      "clay": 345,
+      "iron": 275,
+      "crop": 205,
+      "cp": 3,
+      "pop": 1,
+      "totalPop": 1,
+      "buildingTimeSec": 5460
+    },
+    {
+      "level": 7,
+      "wood": 705,
+      "clay": 440,
+      "iron": 350,
+      "crop": 265,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 2,
+      "buildingTimeSec": 8100
+    },
+    {
+      "level": 8,
+      "wood": 900,
+      "clay": 565,
+      "iron": 450,
+      "crop": 340,
+      "cp": 4,
+      "pop": 1,
+      "totalPop": 3,
+      "buildingTimeSec": 11400
+    },
+    {
+      "level": 9,
+      "wood": 1155,
+      "clay": 720,
+      "iron": 575,
+      "crop": 430,
+      "cp": 5,
+      "pop": 1,
+      "totalPop": 4,
+      "buildingTimeSec": 13800
+    },
+    {
+      "level": 10,
+      "wood": 1475,
+      "clay": 920,
+      "iron": 740,
+      "crop": 555,
+      "cp": 6,
+      "pop": 1,
+      "totalPop": 5,
+      "buildingTimeSec": 15600
+    },
+    {
+      "level": 11,
+      "wood": 1890,
+      "clay": 1180,
+      "iron": 945,
+      "crop": 710,
+      "cp": 7,
+      "pop": 1,
+      "totalPop": 6,
+      "buildingTimeSec": 19200
+    },
+    {
+      "level": 12,
+      "wood": 2420,
+      "clay": 1510,
+      "iron": 1210,
+      "crop": 905,
+      "cp": 9,
+      "pop": 1,
+      "totalPop": 7,
+      "buildingTimeSec": 22500
+    },
+    {
+      "level": 13,
+      "wood": 3095,
+      "clay": 1935,
+      "iron": 1545,
+      "crop": 1160,
+      "cp": 11,
+      "pop": 1,
+      "totalPop": 8,
+      "buildingTimeSec": 26700
+    },
+    {
+      "level": 14,
+      "wood": 3960,
+      "clay": 2475,
+      "iron": 1980,
+      "crop": 1485,
+      "cp": 13,
+      "pop": 1,
+      "totalPop": 9,
+      "buildingTimeSec": 30000
+    },
+    {
+      "level": 15,
+      "wood": 5070,
+      "clay": 3170,
+      "iron": 2535,
+      "crop": 1900,
+      "cp": 15,
+      "pop": 1,
+      "totalPop": 10,
+      "buildingTimeSec": 34800
+    },
+    {
+      "level": 16,
+      "wood": 6490,
+      "clay": 4055,
+      "iron": 3245,
+      "crop": 2435,
+      "cp": 18,
+      "pop": 2,
+      "totalPop": 12,
+      "buildingTimeSec": 39000
+    },
+    {
+      "level": 17,
+      "wood": 8310,
+      "clay": 5190,
+      "iron": 4155,
+      "crop": 3115,
+      "cp": 22,
+      "pop": 2,
+      "totalPop": 14,
+      "buildingTimeSec": 45000
+    },
+    {
+      "level": 18,
+      "wood": 10635,
+      "clay": 6645,
+      "iron": 5315,
+      "crop": 3990,
+      "cp": 27,
+      "pop": 2,
+      "totalPop": 16,
+      "buildingTimeSec": 53400
+    },
+    {
+      "level": 19,
+      "wood": 13610,
+      "clay": 8505,
+      "iron": 6805,
+      "crop": 5105,
+      "cp": 32,
+      "pop": 2,
+      "totalPop": 18,
+      "buildingTimeSec": 61500
+    },
+    {
+      "level": 20,
+      "wood": 17420,
+      "clay": 10890,
+      "iron": 8710,
+      "crop": 6535,
+      "cp": 38,
+      "pop": 2,
+      "totalPop": 20,
+      "buildingTimeSec": 69900
     }
   ],
   "rallypoint": [
@@ -4170,6 +5280,228 @@
       "buildingTimeSec": 136200
     }
   ],
+  "trapper": [
+    {
+      "level": 1,
+      "wood": 80,
+      "clay": 120,
+      "iron": 70,
+      "crop": 90,
+      "cp": 1,
+      "pop": 4,
+      "totalPop": 4,
+      "buildingTimeSec": 35
+    },
+    {
+      "level": 2,
+      "wood": 105,
+      "clay": 160,
+      "iron": 95,
+      "crop": 120,
+      "cp": 1,
+      "pop": 2,
+      "totalPop": 6,
+      "buildingTimeSec": 255
+    },
+    {
+      "level": 3,
+      "wood": 140,
+      "clay": 210,
+      "iron": 125,
+      "crop": 160,
+      "cp": 2,
+      "pop": 2,
+      "totalPop": 8,
+      "buildingTimeSec": 540
+    },
+    {
+      "level": 4,
+      "wood": 190,
+      "clay": 280,
+      "iron": 165,
+      "crop": 210,
+      "cp": 2,
+      "pop": 2,
+      "totalPop": 10,
+      "buildingTimeSec": 1020
+    },
+    {
+      "level": 5,
+      "wood": 250,
+      "clay": 375,
+      "iron": 220,
+      "crop": 280,
+      "cp": 2,
+      "pop": 2,
+      "totalPop": 12,
+      "buildingTimeSec": 2400
+    },
+    {
+      "level": 6,
+      "wood": 335,
+      "clay": 500,
+      "iron": 290,
+      "crop": 375,
+      "cp": 3,
+      "pop": 3,
+      "totalPop": 15,
+      "buildingTimeSec": 5400
+    },
+    {
+      "level": 7,
+      "wood": 445,
+      "clay": 665,
+      "iron": 385,
+      "crop": 500,
+      "cp": 4,
+      "pop": 3,
+      "totalPop": 18,
+      "buildingTimeSec": 8100
+    },
+    {
+      "level": 8,
+      "wood": 590,
+      "clay": 885,
+      "iron": 515,
+      "crop": 665,
+      "cp": 4,
+      "pop": 3,
+      "totalPop": 21,
+      "buildingTimeSec": 11100
+    },
+    {
+      "level": 9,
+      "wood": 785,
+      "clay": 1175,
+      "iron": 685,
+      "crop": 880,
+      "cp": 5,
+      "pop": 3,
+      "totalPop": 24,
+      "buildingTimeSec": 13500
+    },
+    {
+      "level": 10,
+      "wood": 1040,
+      "clay": 1565,
+      "iron": 910,
+      "crop": 1170,
+      "cp": 6,
+      "pop": 3,
+      "totalPop": 27,
+      "buildingTimeSec": 15600
+    },
+    {
+      "level": 11,
+      "wood": 1385,
+      "clay": 2080,
+      "iron": 1210,
+      "crop": 1560,
+      "cp": 7,
+      "pop": 3,
+      "totalPop": 30,
+      "buildingTimeSec": 18900
+    },
+    {
+      "level": 12,
+      "wood": 1845,
+      "clay": 2765,
+      "iron": 1610,
+      "crop": 2075,
+      "cp": 9,
+      "pop": 3,
+      "totalPop": 33,
+      "buildingTimeSec": 22500
+    },
+    {
+      "level": 13,
+      "wood": 2450,
+      "clay": 3675,
+      "iron": 2145,
+      "crop": 2755,
+      "cp": 11,
+      "pop": 3,
+      "totalPop": 36,
+      "buildingTimeSec": 26400
+    },
+    {
+      "level": 14,
+      "wood": 3260,
+      "clay": 4890,
+      "iron": 2850,
+      "crop": 3665,
+      "cp": 13,
+      "pop": 3,
+      "totalPop": 39,
+      "buildingTimeSec": 29700
+    },
+    {
+      "level": 15,
+      "wood": 4335,
+      "clay": 6505,
+      "iron": 3795,
+      "crop": 4875,
+      "cp": 15,
+      "pop": 3,
+      "totalPop": 42,
+      "buildingTimeSec": 34500
+    },
+    {
+      "level": 16,
+      "wood": 5765,
+      "clay": 8650,
+      "iron": 5045,
+      "crop": 6485,
+      "cp": 18,
+      "pop": 4,
+      "totalPop": 46,
+      "buildingTimeSec": 38700
+    },
+    {
+      "level": 17,
+      "wood": 7670,
+      "clay": 11505,
+      "iron": 6710,
+      "crop": 8625,
+      "cp": 22,
+      "pop": 4,
+      "totalPop": 50,
+      "buildingTimeSec": 44700
+    },
+    {
+      "level": 18,
+      "wood": 10200,
+      "clay": 15300,
+      "iron": 8925,
+      "crop": 11475,
+      "cp": 27,
+      "pop": 4,
+      "totalPop": 54,
+      "buildingTimeSec": 52800
+    },
+    {
+      "level": 19,
+      "wood": 13565,
+      "clay": 20345,
+      "iron": 11870,
+      "crop": 15260,
+      "cp": 32,
+      "pop": 4,
+      "totalPop": 58,
+      "buildingTimeSec": 60900
+    },
+    {
+      "level": 20,
+      "wood": 18040,
+      "clay": 27060,
+      "iron": 15785,
+      "crop": 20295,
+      "cp": 38,
+      "pop": 4,
+      "totalPop": 62,
+      "buildingTimeSec": 69300
+    }
+  ],
   "treasury": [
     {
       "level": 1,
@@ -4612,6 +5944,228 @@
       "pop": 2,
       "totalPop": 30,
       "buildingTimeSec": 70500
+    }
+  ],
+  "waterditch": [
+    {
+      "level": 1,
+      "wood": 740,
+      "clay": 850,
+      "iron": 960,
+      "crop": 620,
+      "cp": 4,
+      "pop": 4,
+      "totalPop": 4,
+      "buildingTimeSec": 355
+    },
+    {
+      "level": 2,
+      "wood": 945,
+      "clay": 1090,
+      "iron": 1230,
+      "crop": 795,
+      "cp": 4,
+      "pop": 2,
+      "totalPop": 6,
+      "buildingTimeSec": 720
+    },
+    {
+      "level": 3,
+      "wood": 1210,
+      "clay": 1395,
+      "iron": 1575,
+      "crop": 1015,
+      "cp": 5,
+      "pop": 2,
+      "totalPop": 8,
+      "buildingTimeSec": 1200
+    },
+    {
+      "level": 4,
+      "wood": 1550,
+      "clay": 1785,
+      "iron": 2015,
+      "crop": 1300,
+      "cp": 6,
+      "pop": 2,
+      "totalPop": 10,
+      "buildingTimeSec": 2040
+    },
+    {
+      "level": 5,
+      "wood": 1985,
+      "clay": 2280,
+      "iron": 2575,
+      "crop": 1665,
+      "cp": 7,
+      "pop": 2,
+      "totalPop": 12,
+      "buildingTimeSec": 4320
+    },
+    {
+      "level": 6,
+      "wood": 2545,
+      "clay": 2920,
+      "iron": 3300,
+      "crop": 2130,
+      "cp": 9,
+      "pop": 3,
+      "totalPop": 15,
+      "buildingTimeSec": 9300
+    },
+    {
+      "level": 7,
+      "wood": 3255,
+      "clay": 3740,
+      "iron": 4220,
+      "crop": 2725,
+      "cp": 11,
+      "pop": 3,
+      "totalPop": 18,
+      "buildingTimeSec": 14100
+    },
+    {
+      "level": 8,
+      "wood": 4165,
+      "clay": 4785,
+      "iron": 5405,
+      "crop": 3490,
+      "cp": 13,
+      "pop": 3,
+      "totalPop": 21,
+      "buildingTimeSec": 19200
+    },
+    {
+      "level": 9,
+      "wood": 5330,
+      "clay": 6125,
+      "iron": 6920,
+      "crop": 4470,
+      "cp": 15,
+      "pop": 3,
+      "totalPop": 24,
+      "buildingTimeSec": 23100
+    },
+    {
+      "level": 10,
+      "wood": 6825,
+      "clay": 7840,
+      "iron": 8855,
+      "crop": 5720,
+      "cp": 19,
+      "pop": 3,
+      "totalPop": 27,
+      "buildingTimeSec": 26400
+    },
+    {
+      "level": 11,
+      "wood": 8735,
+      "clay": 10035,
+      "iron": 11335,
+      "crop": 7320,
+      "cp": 22,
+      "pop": 3,
+      "totalPop": 30,
+      "buildingTimeSec": 32100
+    },
+    {
+      "level": 12,
+      "wood": 11185,
+      "clay": 12845,
+      "iron": 14505,
+      "crop": 9370,
+      "cp": 27,
+      "pop": 3,
+      "totalPop": 33,
+      "buildingTimeSec": 37800
+    },
+    {
+      "level": 13,
+      "wood": 14315,
+      "clay": 16440,
+      "iron": 18570,
+      "crop": 11995,
+      "cp": 32,
+      "pop": 3,
+      "totalPop": 36,
+      "buildingTimeSec": 44700
+    },
+    {
+      "level": 14,
+      "wood": 18320,
+      "clay": 21045,
+      "iron": 23770,
+      "crop": 15350,
+      "cp": 39,
+      "pop": 3,
+      "totalPop": 39,
+      "buildingTimeSec": 50400
+    },
+    {
+      "level": 15,
+      "wood": 23450,
+      "clay": 26940,
+      "iron": 30425,
+      "crop": 19650,
+      "cp": 46,
+      "pop": 3,
+      "totalPop": 42,
+      "buildingTimeSec": 58500
+    },
+    {
+      "level": 16,
+      "wood": 30020,
+      "clay": 34480,
+      "iron": 38940,
+      "crop": 25150,
+      "cp": 55,
+      "pop": 4,
+      "totalPop": 46,
+      "buildingTimeSec": 65400
+    },
+    {
+      "level": 17,
+      "wood": 38425,
+      "clay": 44135,
+      "iron": 49845,
+      "crop": 32190,
+      "cp": 67,
+      "pop": 4,
+      "totalPop": 50,
+      "buildingTimeSec": 75600
+    },
+    {
+      "level": 18,
+      "wood": 49180,
+      "clay": 56490,
+      "iron": 63805,
+      "crop": 41205,
+      "cp": 80,
+      "pop": 4,
+      "totalPop": 54,
+      "buildingTimeSec": 89100
+    },
+    {
+      "level": 19,
+      "wood": 62950,
+      "clay": 72310,
+      "iron": 81670,
+      "crop": 52745,
+      "cp": 96,
+      "pop": 4,
+      "totalPop": 58,
+      "buildingTimeSec": 102900
+    },
+    {
+      "level": 20,
+      "wood": 80580,
+      "clay": 92555,
+      "iron": 104535,
+      "crop": 67510,
+      "cp": 115,
+      "pop": 4,
+      "totalPop": 62,
+      "buildingTimeSec": 116700
     }
   ],
   "workshop": [

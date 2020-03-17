@@ -17,6 +17,7 @@
   "mainbuilding": [],
   "marketplace": ["granary:1", "warehouse:1"],
   "palace": ["mainbuilding:5"],
+  "palisade": [],
   "rallypoint": [],
   "residence": ["mainbuilding:5"],
   "sawmill": [],

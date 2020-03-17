@@ -3,10 +3,7 @@ const costData = require('../sortedCostData');
 const requirements = require('../raw/requirements');
 const storage = require('../raw/storage');
 
-const IS_CAPITAL = false;
 const PLUS = true;
-
-const capitalBuildings = ['palace', 'stonemason'];
 
 const built = [];
 const buildOrder = [];
@@ -123,11 +120,7 @@ function clearBuilding(building) {
   delete building.requirementsAdded;
 }
 
-function buildBuilding(building, isCapital) {
-  // dont build capital buildings if village is not capital
-  if (!isCapital && capitalBuildings.includes(building.name)) {
-    return;
-  }
+function buildBuilding(building) {
   // building is already up as a requirement
   if (built.includes(getCode(building))) {
     return;
@@ -149,7 +142,7 @@ function buildBuilding(building, isCapital) {
     building.missing = missing;
     building.requirementsAdded = true;
 
-    if (building.costPerCpGainWithRequirements < (costData[0].costPerCpGainWithRequirements || costData[0].costPerCpGain)) {
+    if (building.costPerCpGainWithRequirements <= (costData[0].costPerCpGainWithRequirements || costData[0].costPerCpGain)) {
       forceBuild(building);
     } else {
       costData.push(building);
@@ -189,12 +182,12 @@ Combined cost: ${b.levelCostWithRequirements} adding ${b.cpGainWithRequirements}
   fs.writeFileSync('buildOrder.json', JSON.stringify(buildOrder, null, 2));
 }
 
-function computeIdealBuildOrder(isCapital) {
+function computeIdealBuildOrder() {
   while (costData.length > 0) {
     const nextBestBuilding = costData.shift();
-    buildBuilding(nextBestBuilding, isCapital);
+    buildBuilding(nextBestBuilding);
   }
   saveBuildOrder();
 }
 
-computeIdealBuildOrder(IS_CAPITAL);
+computeIdealBuildOrder();

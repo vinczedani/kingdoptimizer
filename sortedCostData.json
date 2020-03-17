@@ -110,6 +110,17 @@
     "level": 1
   },
   {
+    "cpGain": 1,
+    "wood": 80,
+    "clay": 120,
+    "iron": 70,
+    "crop": 90,
+    "levelCost": 360,
+    "costPerCpGain": 360,
+    "name": "trapper",
+    "level": 1
+  },
+  {
     "cpGain": 6,
     "wood": 550,
     "clay": 800,
@@ -118,6 +129,39 @@
     "levelCost": 2350,
     "costPerCpGain": 391.6666666666667,
     "name": "palace",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "wood": 70,
+    "clay": 90,
+    "iron": 170,
+    "crop": 70,
+    "levelCost": 400,
+    "costPerCpGain": 400,
+    "name": "citywall",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "wood": 120,
+    "clay": 200,
+    "iron": 0,
+    "crop": 80,
+    "levelCost": 400,
+    "costPerCpGain": 400,
+    "name": "earthwall",
+    "level": 1
+  },
+  {
+    "cpGain": 1,
+    "wood": 160,
+    "clay": 100,
+    "iron": 80,
+    "crop": 60,
+    "levelCost": 400,
+    "costPerCpGain": 400,
+    "name": "palisade",
     "level": 1
   },
   {
@@ -242,6 +286,17 @@
     "level": 6
   },
   {
+    "cpGain": 4,
+    "wood": 780,
+    "clay": 420,
+    "iron": 660,
+    "crop": 540,
+    "levelCost": 2400,
+    "costPerCpGain": 600,
+    "name": "horsedrinkingthrough",
+    "level": 1
+  },
+  {
     "cpGain": 1,
     "wood": 220,
     "clay": 125,
@@ -251,6 +306,50 @@
     "costPerCpGain": 600,
     "name": "mainbuilding",
     "level": 5
+  },
+  {
+    "cpGain": 1,
+    "wood": 140,
+    "clay": 210,
+    "iron": 125,
+    "crop": 160,
+    "levelCost": 635,
+    "costPerCpGain": 635,
+    "name": "trapper",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "wood": 115,
+    "clay": 145,
+    "iron": 280,
+    "crop": 115,
+    "levelCost": 655,
+    "costPerCpGain": 655,
+    "name": "citywall",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "wood": 195,
+    "clay": 330,
+    "iron": 0,
+    "crop": 130,
+    "levelCost": 655,
+    "costPerCpGain": 655,
+    "name": "earthwall",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
+    "wood": 260,
+    "clay": 165,
+    "iron": 130,
+    "crop": 100,
+    "levelCost": 655,
+    "costPerCpGain": 655,
+    "name": "palisade",
+    "level": 3
   },
   {
     "cpGain": 1,
@@ -385,6 +484,17 @@
     "level": 3
   },
   {
+    "cpGain": 4,
+    "wood": 740,
+    "clay": 850,
+    "iron": 960,
+    "crop": 620,
+    "levelCost": 3170,
+    "costPerCpGain": 792.5,
+    "name": "waterditch",
+    "level": 1
+  },
+  {
     "cpGain": 2,
     "wood": 690,
     "clay": 500,
@@ -482,6 +592,17 @@
     "costPerCpGain": 1060,
     "name": "academy",
     "level": 6
+  },
+  {
+    "cpGain": 5,
+    "wood": 1460,
+    "clay": 930,
+    "iron": 1250,
+    "crop": 1740,
+    "levelCost": 5380,
+    "costPerCpGain": 1076,
+    "name": "brewery",
+    "level": 1
   },
   {
     "cpGain": 2,
@@ -672,6 +793,39 @@
   },
   {
     "cpGain": 1,
+    "wood": 410,
+    "clay": 685,
+    "iron": 0,
+    "crop": 275,
+    "levelCost": 1370,
+    "costPerCpGain": 1370,
+    "name": "earthwall",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "wood": 240,
+    "clay": 310,
+    "iron": 585,
+    "crop": 240,
+    "levelCost": 1375,
+    "costPerCpGain": 1375,
+    "name": "citywall",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
+    "wood": 550,
+    "clay": 345,
+    "iron": 275,
+    "crop": 205,
+    "levelCost": 1375,
+    "costPerCpGain": 1375,
+    "name": "palisade",
+    "level": 6
+  },
+  {
+    "cpGain": 1,
     "wood": 230,
     "clay": 320,
     "iron": 640,
@@ -724,6 +878,17 @@
     "costPerCpGain": 1495,
     "name": "granary",
     "level": 7
+  },
+  {
+    "cpGain": 1,
+    "wood": 335,
+    "clay": 500,
+    "iron": 290,
+    "crop": 375,
+    "levelCost": 1500,
+    "costPerCpGain": 1500,
+    "name": "trapper",
+    "level": 6
   },
   {
     "cpGain": 9,
@@ -814,6 +979,39 @@
     "level": 6
   },
   {
+    "cpGain": 1,
+    "wood": 530,
+    "clay": 880,
+    "iron": 0,
+    "crop": 350,
+    "levelCost": 1760,
+    "costPerCpGain": 1760,
+    "name": "earthwall",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "wood": 705,
+    "clay": 440,
+    "iron": 350,
+    "crop": 265,
+    "levelCost": 1760,
+    "costPerCpGain": 1760,
+    "name": "palisade",
+    "level": 7
+  },
+  {
+    "cpGain": 1,
+    "wood": 310,
+    "clay": 395,
+    "iron": 750,
+    "crop": 310,
+    "levelCost": 1765,
+    "costPerCpGain": 1765,
+    "name": "citywall",
+    "level": 7
+  },
+  {
     "cpGain": 5,
     "wood": 3810,
     "clay": 2770,
@@ -900,6 +1098,17 @@
     "costPerCpGain": 1957.5,
     "name": "academy",
     "level": 12
+  },
+  {
+    "cpGain": 1,
+    "wood": 445,
+    "clay": 665,
+    "iron": 385,
+    "crop": 500,
+    "levelCost": 1995,
+    "costPerCpGain": 1995,
+    "name": "trapper",
+    "level": 7
   },
   {
     "cpGain": 1,
@@ -1111,6 +1320,39 @@
     "level": 2
   },
   {
+    "cpGain": 1,
+    "wood": 865,
+    "clay": 1440,
+    "iron": 0,
+    "crop": 575,
+    "levelCost": 2880,
+    "costPerCpGain": 2880,
+    "name": "earthwall",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
+    "wood": 1155,
+    "clay": 720,
+    "iron": 575,
+    "crop": 430,
+    "levelCost": 2880,
+    "costPerCpGain": 2880,
+    "name": "palisade",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
+    "wood": 505,
+    "clay": 650,
+    "iron": 1225,
+    "crop": 505,
+    "levelCost": 2885,
+    "costPerCpGain": 2885,
+    "name": "citywall",
+    "level": 9
+  },
+  {
     "cpGain": 2,
     "wood": 1815,
     "clay": 1725,
@@ -1164,6 +1406,39 @@
     "costPerCpGain": 3010,
     "name": "palace",
     "level": 2
+  },
+  {
+    "cpGain": 2,
+    "wood": 1815,
+    "clay": 3020,
+    "iron": 0,
+    "crop": 1210,
+    "levelCost": 6045,
+    "costPerCpGain": 3022.5,
+    "name": "earthwall",
+    "level": 12
+  },
+  {
+    "cpGain": 2,
+    "wood": 2420,
+    "clay": 1510,
+    "iron": 1210,
+    "crop": 905,
+    "levelCost": 6045,
+    "costPerCpGain": 3022.5,
+    "name": "palisade",
+    "level": 12
+  },
+  {
+    "cpGain": 2,
+    "wood": 1060,
+    "clay": 1360,
+    "iron": 2570,
+    "crop": 1060,
+    "levelCost": 6050,
+    "costPerCpGain": 3025,
+    "name": "citywall",
+    "level": 12
   },
   {
     "cpGain": 1,
@@ -1343,6 +1618,17 @@
   },
   {
     "cpGain": 1,
+    "wood": 785,
+    "clay": 1175,
+    "iron": 685,
+    "crop": 880,
+    "levelCost": 3525,
+    "costPerCpGain": 3525,
+    "name": "trapper",
+    "level": 9
+  },
+  {
+    "cpGain": 1,
     "wood": 1030,
     "clay": 690,
     "iron": 1280,
@@ -1373,6 +1659,39 @@
     "costPerCpGain": 3627.5,
     "name": "stonemason",
     "level": 12
+  },
+  {
+    "cpGain": 1,
+    "wood": 645,
+    "clay": 830,
+    "iron": 1570,
+    "crop": 645,
+    "levelCost": 3690,
+    "costPerCpGain": 3690,
+    "name": "citywall",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "wood": 1105,
+    "clay": 1845,
+    "iron": 0,
+    "crop": 740,
+    "levelCost": 3690,
+    "costPerCpGain": 3690,
+    "name": "earthwall",
+    "level": 10
+  },
+  {
+    "cpGain": 1,
+    "wood": 1475,
+    "clay": 920,
+    "iron": 740,
+    "crop": 555,
+    "levelCost": 3690,
+    "costPerCpGain": 3690,
+    "name": "palisade",
+    "level": 10
   },
   {
     "cpGain": 1,
@@ -1408,6 +1727,39 @@
     "level": 5
   },
   {
+    "cpGain": 2,
+    "wood": 2320,
+    "clay": 3870,
+    "iron": 0,
+    "crop": 1545,
+    "levelCost": 7735,
+    "costPerCpGain": 3867.5,
+    "name": "earthwall",
+    "level": 13
+  },
+  {
+    "cpGain": 2,
+    "wood": 3095,
+    "clay": 1935,
+    "iron": 1545,
+    "crop": 1160,
+    "levelCost": 7735,
+    "costPerCpGain": 3867.5,
+    "name": "palisade",
+    "level": 13
+  },
+  {
+    "cpGain": 2,
+    "wood": 1355,
+    "clay": 1740,
+    "iron": 3290,
+    "crop": 1355,
+    "levelCost": 7740,
+    "costPerCpGain": 3870,
+    "name": "citywall",
+    "level": 13
+  },
+  {
     "cpGain": 22,
     "wood": 37305,
     "clay": 27130,
@@ -1417,6 +1769,17 @@
     "costPerCpGain": 3930.681818181818,
     "name": "academy",
     "level": 19
+  },
+  {
+    "cpGain": 1,
+    "wood": 1280,
+    "clay": 690,
+    "iron": 1080,
+    "crop": 885,
+    "levelCost": 3935,
+    "costPerCpGain": 3935,
+    "name": "horsedrinkingthrough",
+    "level": 3
   },
   {
     "cpGain": 1,
@@ -1475,6 +1838,17 @@
   },
   {
     "cpGain": 2,
+    "wood": 2680,
+    "clay": 1445,
+    "iron": 2270,
+    "crop": 1855,
+    "levelCost": 8250,
+    "costPerCpGain": 4125,
+    "name": "horsedrinkingthrough",
+    "level": 6
+  },
+  {
+    "cpGain": 2,
     "wood": 2450,
     "clay": 3065,
     "iron": 2145,
@@ -1494,6 +1868,17 @@
     "costPerCpGain": 4145,
     "name": "sawmill",
     "level": 3
+  },
+  {
+    "cpGain": 2,
+    "wood": 1845,
+    "clay": 2765,
+    "iron": 1610,
+    "crop": 2075,
+    "levelCost": 8295,
+    "costPerCpGain": 4147.5,
+    "name": "trapper",
+    "level": 12
   },
   {
     "cpGain": 1,
@@ -1716,6 +2101,17 @@
     "level": 11
   },
   {
+    "cpGain": 1,
+    "wood": 1040,
+    "clay": 1565,
+    "iron": 910,
+    "crop": 1170,
+    "levelCost": 4685,
+    "costPerCpGain": 4685,
+    "name": "trapper",
+    "level": 10
+  },
+  {
     "cpGain": 2,
     "wood": 3385,
     "clay": 1825,
@@ -1725,6 +2121,39 @@
     "costPerCpGain": 4687.5,
     "name": "stable",
     "level": 10
+  },
+  {
+    "cpGain": 1,
+    "wood": 825,
+    "clay": 1065,
+    "iron": 2005,
+    "crop": 825,
+    "levelCost": 4720,
+    "costPerCpGain": 4720,
+    "name": "citywall",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "wood": 1415,
+    "clay": 2360,
+    "iron": 0,
+    "crop": 945,
+    "levelCost": 4720,
+    "costPerCpGain": 4720,
+    "name": "earthwall",
+    "level": 11
+  },
+  {
+    "cpGain": 1,
+    "wood": 1890,
+    "clay": 1180,
+    "iron": 945,
+    "crop": 710,
+    "levelCost": 4725,
+    "costPerCpGain": 4725,
+    "name": "palisade",
+    "level": 11
   },
   {
     "cpGain": 1,
@@ -1794,6 +2223,28 @@
   },
   {
     "cpGain": 2,
+    "wood": 2970,
+    "clay": 4950,
+    "iron": 0,
+    "crop": 1980,
+    "levelCost": 9900,
+    "costPerCpGain": 4950,
+    "name": "earthwall",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
+    "wood": 3960,
+    "clay": 2475,
+    "iron": 1980,
+    "crop": 1485,
+    "levelCost": 9900,
+    "costPerCpGain": 4950,
+    "name": "palisade",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
     "wood": 2535,
     "clay": 3685,
     "iron": 2075,
@@ -1805,6 +2256,17 @@
   },
   {
     "cpGain": 2,
+    "wood": 1735,
+    "clay": 2230,
+    "iron": 4210,
+    "crop": 1735,
+    "levelCost": 9910,
+    "costPerCpGain": 4955,
+    "name": "citywall",
+    "level": 14
+  },
+  {
+    "cpGain": 2,
     "wood": 1660,
     "clay": 2305,
     "iron": 4610,
@@ -1813,6 +2275,17 @@
     "costPerCpGain": 5025,
     "name": "smithy",
     "level": 10
+  },
+  {
+    "cpGain": 1,
+    "wood": 1635,
+    "clay": 880,
+    "iron": 1385,
+    "crop": 1130,
+    "levelCost": 5030,
+    "costPerCpGain": 5030,
+    "name": "horsedrinkingthrough",
+    "level": 4
   },
   {
     "cpGain": 1,
@@ -1837,6 +2310,61 @@
     "level": 1
   },
   {
+    "cpGain": 4,
+    "wood": 3635,
+    "clay": 4675,
+    "iron": 8825,
+    "crop": 3635,
+    "levelCost": 20770,
+    "costPerCpGain": 5192.5,
+    "name": "citywall",
+    "level": 17
+  },
+  {
+    "cpGain": 4,
+    "wood": 6230,
+    "clay": 10385,
+    "iron": 0,
+    "crop": 4155,
+    "levelCost": 20770,
+    "costPerCpGain": 5192.5,
+    "name": "earthwall",
+    "level": 17
+  },
+  {
+    "cpGain": 4,
+    "wood": 8310,
+    "clay": 5190,
+    "iron": 4155,
+    "crop": 3115,
+    "levelCost": 20770,
+    "costPerCpGain": 5192.5,
+    "name": "palisade",
+    "level": 17
+  },
+  {
+    "cpGain": 1,
+    "wood": 1210,
+    "clay": 1395,
+    "iron": 1575,
+    "crop": 1015,
+    "levelCost": 5195,
+    "costPerCpGain": 5195,
+    "name": "waterditch",
+    "level": 3
+  },
+  {
+    "cpGain": 2,
+    "wood": 3430,
+    "clay": 1845,
+    "iron": 2905,
+    "crop": 2375,
+    "levelCost": 10555,
+    "costPerCpGain": 5277.5,
+    "name": "horsedrinkingthrough",
+    "level": 7
+  },
+  {
     "cpGain": 11,
     "wood": 13615,
     "clay": 19805,
@@ -1846,6 +2374,39 @@
     "costPerCpGain": 5289.090909090909,
     "name": "palace",
     "level": 14
+  },
+  {
+    "cpGain": 5,
+    "wood": 4650,
+    "clay": 5980,
+    "iron": 11300,
+    "crop": 4650,
+    "levelCost": 26580,
+    "costPerCpGain": 5316,
+    "name": "citywall",
+    "level": 18
+  },
+  {
+    "cpGain": 5,
+    "wood": 7975,
+    "clay": 13290,
+    "iron": 0,
+    "crop": 5315,
+    "levelCost": 26580,
+    "costPerCpGain": 5316,
+    "name": "earthwall",
+    "level": 18
+  },
+  {
+    "cpGain": 5,
+    "wood": 10635,
+    "clay": 6645,
+    "iron": 5315,
+    "crop": 3990,
+    "levelCost": 26585,
+    "costPerCpGain": 5317,
+    "name": "palisade",
+    "level": 18
   },
   {
     "cpGain": 2,
@@ -1892,6 +2453,39 @@
     "level": 2
   },
   {
+    "cpGain": 3,
+    "wood": 2840,
+    "clay": 3650,
+    "iron": 6895,
+    "crop": 2840,
+    "levelCost": 16225,
+    "costPerCpGain": 5408.333333333333,
+    "name": "citywall",
+    "level": 16
+  },
+  {
+    "cpGain": 3,
+    "wood": 6490,
+    "clay": 4055,
+    "iron": 3245,
+    "crop": 2435,
+    "levelCost": 16225,
+    "costPerCpGain": 5408.333333333333,
+    "name": "palisade",
+    "level": 16
+  },
+  {
+    "cpGain": 3,
+    "wood": 4870,
+    "clay": 8115,
+    "iron": 0,
+    "crop": 3245,
+    "levelCost": 16230,
+    "costPerCpGain": 5410,
+    "name": "earthwall",
+    "level": 16
+  },
+  {
     "cpGain": 1,
     "wood": 1645,
     "clay": 1575,
@@ -1901,6 +2495,17 @@
     "costPerCpGain": 5430,
     "name": "embassy",
     "level": 4
+  },
+  {
+    "cpGain": 2,
+    "wood": 2545,
+    "clay": 2920,
+    "iron": 3300,
+    "crop": 2130,
+    "levelCost": 10895,
+    "costPerCpGain": 5447.5,
+    "name": "waterditch",
+    "level": 6
   },
   {
     "cpGain": 1,
@@ -1936,6 +2541,17 @@
     "level": 14
   },
   {
+    "cpGain": 2,
+    "wood": 2450,
+    "clay": 3675,
+    "iron": 2145,
+    "crop": 2755,
+    "levelCost": 11025,
+    "costPerCpGain": 5512.5,
+    "name": "trapper",
+    "level": 13
+  },
+  {
     "cpGain": 3,
     "wood": 5990,
     "clay": 3225,
@@ -1945,6 +2561,17 @@
     "costPerCpGain": 5528.333333333333,
     "name": "stable",
     "level": 12
+  },
+  {
+    "cpGain": 4,
+    "wood": 7195,
+    "clay": 3875,
+    "iron": 6085,
+    "crop": 4980,
+    "levelCost": 22135,
+    "costPerCpGain": 5533.75,
+    "name": "horsedrinkingthrough",
+    "level": 10
   },
   {
     "cpGain": 1,
@@ -2178,6 +2805,50 @@
     "level": 17
   },
   {
+    "cpGain": 1,
+    "wood": 1385,
+    "clay": 2080,
+    "iron": 1210,
+    "crop": 1560,
+    "levelCost": 6235,
+    "costPerCpGain": 6235,
+    "name": "trapper",
+    "level": 11
+  },
+  {
+    "cpGain": 2,
+    "wood": 5070,
+    "clay": 3170,
+    "iron": 2535,
+    "crop": 1900,
+    "levelCost": 12675,
+    "costPerCpGain": 6337.5,
+    "name": "palisade",
+    "level": 15
+  },
+  {
+    "cpGain": 2,
+    "wood": 2220,
+    "clay": 2850,
+    "iron": 5390,
+    "crop": 2220,
+    "levelCost": 12680,
+    "costPerCpGain": 6340,
+    "name": "citywall",
+    "level": 15
+  },
+  {
+    "cpGain": 2,
+    "wood": 3805,
+    "clay": 6340,
+    "iron": 0,
+    "crop": 2535,
+    "levelCost": 12680,
+    "costPerCpGain": 6340,
+    "name": "earthwall",
+    "level": 15
+  },
+  {
     "cpGain": 15,
     "wood": 22310,
     "clay": 32450,
@@ -2233,6 +2904,17 @@
     "level": 13
   },
   {
+    "cpGain": 1,
+    "wood": 2095,
+    "clay": 1125,
+    "iron": 1770,
+    "crop": 1450,
+    "levelCost": 6440,
+    "costPerCpGain": 6440,
+    "name": "horsedrinkingthrough",
+    "level": 5
+  },
+  {
     "cpGain": 4,
     "wood": 7670,
     "clay": 9585,
@@ -2277,6 +2959,17 @@
     "level": 13
   },
   {
+    "cpGain": 1,
+    "wood": 1550,
+    "clay": 1785,
+    "iron": 2015,
+    "crop": 1300,
+    "levelCost": 6650,
+    "costPerCpGain": 6650,
+    "name": "waterditch",
+    "level": 4
+  },
+  {
     "cpGain": 7,
     "wood": 11390,
     "clay": 12625,
@@ -2300,6 +2993,50 @@
   },
   {
     "cpGain": 2,
+    "wood": 4390,
+    "clay": 2365,
+    "iron": 3715,
+    "crop": 3040,
+    "levelCost": 13510,
+    "costPerCpGain": 6755,
+    "name": "horsedrinkingthrough",
+    "level": 8
+  },
+  {
+    "cpGain": 5,
+    "wood": 5955,
+    "clay": 7655,
+    "iron": 14460,
+    "crop": 5955,
+    "levelCost": 34025,
+    "costPerCpGain": 6805,
+    "name": "citywall",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "wood": 13610,
+    "clay": 8505,
+    "iron": 6805,
+    "crop": 5105,
+    "levelCost": 34025,
+    "costPerCpGain": 6805,
+    "name": "palisade",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "wood": 10210,
+    "clay": 17015,
+    "iron": 0,
+    "crop": 6805,
+    "levelCost": 34030,
+    "costPerCpGain": 6806,
+    "name": "earthwall",
+    "level": 19
+  },
+  {
+    "cpGain": 2,
     "wood": 3315,
     "clay": 3675,
     "iron": 4325,
@@ -2308,6 +3045,17 @@
     "costPerCpGain": 6810,
     "name": "workshop",
     "level": 9
+  },
+  {
+    "cpGain": 1,
+    "wood": 1870,
+    "clay": 1190,
+    "iron": 1600,
+    "crop": 2225,
+    "levelCost": 6885,
+    "costPerCpGain": 6885,
+    "name": "brewery",
+    "level": 2
   },
   {
     "cpGain": 5,
@@ -2341,6 +3089,17 @@
     "costPerCpGain": 6909,
     "name": "smithy",
     "level": 15
+  },
+  {
+    "cpGain": 2,
+    "wood": 3255,
+    "clay": 3740,
+    "iron": 4220,
+    "crop": 2725,
+    "levelCost": 13940,
+    "costPerCpGain": 6970,
+    "name": "waterditch",
+    "level": 7
   },
   {
     "cpGain": 3,
@@ -2410,6 +3169,17 @@
   },
   {
     "cpGain": 2,
+    "wood": 3920,
+    "clay": 2495,
+    "iron": 3355,
+    "crop": 4670,
+    "levelCost": 14440,
+    "costPerCpGain": 7220,
+    "name": "brewery",
+    "level": 5
+  },
+  {
+    "cpGain": 2,
     "wood": 5350,
     "clay": 4245,
     "iron": 3230,
@@ -2418,6 +3188,50 @@
     "costPerCpGain": 7242.5,
     "name": "residence",
     "level": 10
+  },
+  {
+    "cpGain": 5,
+    "wood": 11785,
+    "clay": 6345,
+    "iron": 9975,
+    "crop": 8160,
+    "levelCost": 36265,
+    "costPerCpGain": 7253,
+    "name": "horsedrinkingthrough",
+    "level": 12
+  },
+  {
+    "cpGain": 6,
+    "wood": 7620,
+    "clay": 9800,
+    "iron": 18510,
+    "crop": 7620,
+    "levelCost": 43550,
+    "costPerCpGain": 7258.333333333333,
+    "name": "citywall",
+    "level": 20
+  },
+  {
+    "cpGain": 6,
+    "wood": 13065,
+    "clay": 21780,
+    "iron": 0,
+    "crop": 8710,
+    "levelCost": 43555,
+    "costPerCpGain": 7259.166666666667,
+    "name": "earthwall",
+    "level": 20
+  },
+  {
+    "cpGain": 6,
+    "wood": 17420,
+    "clay": 10890,
+    "iron": 8710,
+    "crop": 6535,
+    "levelCost": 43555,
+    "costPerCpGain": 7259.166666666667,
+    "name": "palisade",
+    "level": 20
   },
   {
     "cpGain": 1,
@@ -2453,6 +3267,17 @@
     "level": 12
   },
   {
+    "cpGain": 4,
+    "wood": 6825,
+    "clay": 7840,
+    "iron": 8855,
+    "crop": 5720,
+    "levelCost": 29240,
+    "costPerCpGain": 7310,
+    "name": "waterditch",
+    "level": 10
+  },
+  {
     "cpGain": 5,
     "wood": 8900,
     "clay": 9865,
@@ -2473,6 +3298,17 @@
     "costPerCpGain": 7317.5,
     "name": "granary",
     "level": 15
+  },
+  {
+    "cpGain": 2,
+    "wood": 3260,
+    "clay": 4890,
+    "iron": 2850,
+    "crop": 3665,
+    "levelCost": 14665,
+    "costPerCpGain": 7332.5,
+    "name": "trapper",
+    "level": 14
   },
   {
     "cpGain": 3,
@@ -2805,6 +3641,17 @@
     "level": 19
   },
   {
+    "cpGain": 7,
+    "wood": 19310,
+    "clay": 10400,
+    "iron": 16340,
+    "crop": 13370,
+    "levelCost": 59420,
+    "costPerCpGain": 8488.57142857143,
+    "name": "horsedrinkingthrough",
+    "level": 14
+  },
+  {
     "cpGain": 3,
     "wood": 9210,
     "clay": 4960,
@@ -2814,6 +3661,17 @@
     "costPerCpGain": 8500,
     "name": "greatstable",
     "level": 11
+  },
+  {
+    "cpGain": 1,
+    "wood": 1985,
+    "clay": 2280,
+    "iron": 2575,
+    "crop": 1665,
+    "levelCost": 8505,
+    "costPerCpGain": 8505,
+    "name": "waterditch",
+    "level": 5
   },
   {
     "cpGain": 9,
@@ -2849,6 +3707,28 @@
     "level": 14
   },
   {
+    "cpGain": 4,
+    "wood": 7670,
+    "clay": 11505,
+    "iron": 6710,
+    "crop": 8625,
+    "levelCost": 34510,
+    "costPerCpGain": 8627.5,
+    "name": "trapper",
+    "level": 17
+  },
+  {
+    "cpGain": 2,
+    "wood": 5620,
+    "clay": 3025,
+    "iron": 4755,
+    "crop": 3890,
+    "levelCost": 17290,
+    "costPerCpGain": 8645,
+    "name": "horsedrinkingthrough",
+    "level": 9
+  },
+  {
     "cpGain": 6,
     "wood": 18740,
     "clay": 10090,
@@ -2857,6 +3737,17 @@
     "levelCost": 51890,
     "costPerCpGain": 8648.333333333334,
     "name": "stable",
+    "level": 16
+  },
+  {
+    "cpGain": 3,
+    "wood": 5765,
+    "clay": 8650,
+    "iron": 5045,
+    "crop": 6485,
+    "levelCost": 25945,
+    "costPerCpGain": 8648.333333333334,
+    "name": "trapper",
     "level": 16
   },
   {
@@ -2894,6 +3785,17 @@
   },
   {
     "cpGain": 1,
+    "wood": 2390,
+    "clay": 1525,
+    "iron": 2050,
+    "crop": 2850,
+    "levelCost": 8815,
+    "costPerCpGain": 8815,
+    "name": "brewery",
+    "level": 3
+  },
+  {
+    "cpGain": 1,
     "wood": 2620,
     "clay": 2330,
     "iron": 2640,
@@ -2913,6 +3815,17 @@
     "costPerCpGain": 8869.166666666666,
     "name": "embassy",
     "level": 12
+  },
+  {
+    "cpGain": 2,
+    "wood": 4165,
+    "clay": 4785,
+    "iron": 5405,
+    "crop": 3490,
+    "levelCost": 17845,
+    "costPerCpGain": 8922.5,
+    "name": "waterditch",
+    "level": 8
   },
   {
     "cpGain": 1,
@@ -2948,6 +3861,17 @@
     "level": 19
   },
   {
+    "cpGain": 5,
+    "wood": 10200,
+    "clay": 15300,
+    "iron": 8925,
+    "crop": 11475,
+    "levelCost": 45900,
+    "costPerCpGain": 9180,
+    "name": "trapper",
+    "level": 18
+  },
+  {
     "cpGain": 32,
     "wood": 92265,
     "clay": 87780,
@@ -2957,6 +3881,39 @@
     "costPerCpGain": 9200.46875,
     "name": "treasury",
     "level": 19
+  },
+  {
+    "cpGain": 2,
+    "wood": 5015,
+    "clay": 3195,
+    "iron": 4295,
+    "crop": 5980,
+    "levelCost": 18485,
+    "costPerCpGain": 9242.5,
+    "name": "brewery",
+    "level": 6
+  },
+  {
+    "cpGain": 5,
+    "wood": 15085,
+    "clay": 8125,
+    "iron": 12765,
+    "crop": 10445,
+    "levelCost": 46420,
+    "costPerCpGain": 9284,
+    "name": "horsedrinkingthrough",
+    "level": 13
+  },
+  {
+    "cpGain": 3,
+    "wood": 9210,
+    "clay": 4960,
+    "iron": 7790,
+    "crop": 6375,
+    "levelCost": 28335,
+    "costPerCpGain": 9445,
+    "name": "horsedrinkingthrough",
+    "level": 11
   },
   {
     "cpGain": 1,
@@ -3014,6 +3971,17 @@
     "level": 7
   },
   {
+    "cpGain": 5,
+    "wood": 11185,
+    "clay": 12845,
+    "iron": 14505,
+    "crop": 9370,
+    "levelCost": 47905,
+    "costPerCpGain": 9581,
+    "name": "waterditch",
+    "level": 12
+  },
+  {
     "cpGain": 1,
     "wood": 2770,
     "clay": 1845,
@@ -3034,6 +4002,28 @@
     "costPerCpGain": 9662.307692307691,
     "name": "workshop",
     "level": 18
+  },
+  {
+    "cpGain": 4,
+    "wood": 10520,
+    "clay": 6700,
+    "iron": 9005,
+    "crop": 12540,
+    "levelCost": 38765,
+    "costPerCpGain": 9691.25,
+    "name": "brewery",
+    "level": 9
+  },
+  {
+    "cpGain": 2,
+    "wood": 4335,
+    "clay": 6505,
+    "iron": 3795,
+    "crop": 4875,
+    "levelCost": 19510,
+    "costPerCpGain": 9755,
+    "name": "trapper",
+    "level": 15
   },
   {
     "cpGain": 38,
@@ -3124,6 +4114,17 @@
     "level": 16
   },
   {
+    "cpGain": 3,
+    "wood": 8220,
+    "clay": 5235,
+    "iron": 7035,
+    "crop": 9795,
+    "levelCost": 30285,
+    "costPerCpGain": 10095,
+    "name": "brewery",
+    "level": 8
+  },
+  {
     "cpGain": 7,
     "wood": 21445,
     "clay": 20525,
@@ -3212,6 +4213,17 @@
     "level": 16
   },
   {
+    "cpGain": 12,
+    "wood": 40500,
+    "clay": 21810,
+    "iron": 34270,
+    "crop": 28040,
+    "levelCost": 124620,
+    "costPerCpGain": 10385,
+    "name": "horsedrinkingthrough",
+    "level": 17
+  },
+  {
     "cpGain": 6,
     "wood": 23530,
     "clay": 18660,
@@ -3245,6 +4257,17 @@
     "level": 18
   },
   {
+    "cpGain": 9,
+    "wood": 31640,
+    "clay": 17035,
+    "iron": 26775,
+    "crop": 21905,
+    "levelCost": 97355,
+    "costPerCpGain": 10817.222222222223,
+    "name": "horsedrinkingthrough",
+    "level": 16
+  },
+  {
     "cpGain": 19,
     "wood": 50090,
     "clay": 55535,
@@ -3254,6 +4277,17 @@
     "costPerCpGain": 10831.842105263158,
     "name": "workshop",
     "level": 20
+  },
+  {
+    "cpGain": 7,
+    "wood": 24720,
+    "clay": 13310,
+    "iron": 20915,
+    "crop": 17115,
+    "levelCost": 76060,
+    "costPerCpGain": 10865.714285714286,
+    "name": "horsedrinkingthrough",
+    "level": 15
   },
   {
     "cpGain": 3,
@@ -3300,6 +4334,28 @@
     "level": 13
   },
   {
+    "cpGain": 7,
+    "wood": 18320,
+    "clay": 21045,
+    "iron": 23770,
+    "crop": 15350,
+    "levelCost": 78485,
+    "costPerCpGain": 11212.142857142857,
+    "name": "waterditch",
+    "level": 14
+  },
+  {
+    "cpGain": 1,
+    "wood": 3060,
+    "clay": 1950,
+    "iron": 2620,
+    "crop": 3650,
+    "levelCost": 11280,
+    "costPerCpGain": 11280,
+    "name": "brewery",
+    "level": 4
+  },
+  {
     "cpGain": 1,
     "wood": 4180,
     "clay": 3315,
@@ -3342,6 +4398,17 @@
     "costPerCpGain": 11412,
     "name": "townhall",
     "level": 16
+  },
+  {
+    "cpGain": 2,
+    "wood": 5330,
+    "clay": 6125,
+    "iron": 6920,
+    "crop": 4470,
+    "levelCost": 22845,
+    "costPerCpGain": 11422.5,
+    "name": "waterditch",
+    "level": 9
   },
   {
     "cpGain": 19,
@@ -3410,6 +4477,17 @@
     "level": 14
   },
   {
+    "cpGain": 2,
+    "wood": 6420,
+    "clay": 4090,
+    "iron": 5500,
+    "crop": 7655,
+    "levelCost": 23665,
+    "costPerCpGain": 11832.5,
+    "name": "brewery",
+    "level": 7
+  },
+  {
     "cpGain": 11,
     "wood": 49340,
     "clay": 39130,
@@ -3430,6 +4508,61 @@
     "costPerCpGain": 12185,
     "name": "tradeoffice",
     "level": 8
+  },
+  {
+    "cpGain": 5,
+    "wood": 13565,
+    "clay": 20345,
+    "iron": 11870,
+    "crop": 15260,
+    "levelCost": 61040,
+    "costPerCpGain": 12208,
+    "name": "trapper",
+    "level": 19
+  },
+  {
+    "cpGain": 5,
+    "wood": 14315,
+    "clay": 16440,
+    "iron": 18570,
+    "crop": 11995,
+    "levelCost": 61320,
+    "costPerCpGain": 12264,
+    "name": "waterditch",
+    "level": 13
+  },
+  {
+    "cpGain": 13,
+    "wood": 51840,
+    "clay": 27915,
+    "iron": 43865,
+    "crop": 35890,
+    "levelCost": 159510,
+    "costPerCpGain": 12270,
+    "name": "horsedrinkingthrough",
+    "level": 18
+  },
+  {
+    "cpGain": 4,
+    "wood": 13465,
+    "clay": 8580,
+    "iron": 11530,
+    "crop": 16050,
+    "levelCost": 49625,
+    "costPerCpGain": 12406.25,
+    "name": "brewery",
+    "level": 10
+  },
+  {
+    "cpGain": 3,
+    "wood": 8735,
+    "clay": 10035,
+    "iron": 11335,
+    "crop": 7320,
+    "levelCost": 37425,
+    "costPerCpGain": 12475,
+    "name": "waterditch",
+    "level": 11
   },
   {
     "cpGain": 13,
@@ -3454,6 +4587,17 @@
     "level": 11
   },
   {
+    "cpGain": 5,
+    "wood": 17235,
+    "clay": 10980,
+    "iron": 14755,
+    "crop": 20540,
+    "levelCost": 63510,
+    "costPerCpGain": 12702,
+    "name": "brewery",
+    "level": 11
+  },
+  {
     "cpGain": 22,
     "wood": 83075,
     "clay": 73770,
@@ -3463,6 +4607,17 @@
     "costPerCpGain": 12748.181818181818,
     "name": "townhall",
     "level": 18
+  },
+  {
+    "cpGain": 16,
+    "wood": 66355,
+    "clay": 35730,
+    "iron": 56145,
+    "crop": 45940,
+    "levelCost": 204170,
+    "costPerCpGain": 12760.625,
+    "name": "horsedrinkingthrough",
+    "level": 19
   },
   {
     "cpGain": 5,
@@ -3498,6 +4653,28 @@
     "level": 19
   },
   {
+    "cpGain": 6,
+    "wood": 18040,
+    "clay": 27060,
+    "iron": 15785,
+    "crop": 20295,
+    "levelCost": 81180,
+    "costPerCpGain": 13530,
+    "name": "trapper",
+    "level": 20
+  },
+  {
+    "cpGain": 6,
+    "wood": 22065,
+    "clay": 14055,
+    "iron": 18890,
+    "crop": 26295,
+    "levelCost": 81305,
+    "costPerCpGain": 13550.833333333334,
+    "name": "brewery",
+    "level": 12
+  },
+  {
     "cpGain": 5,
     "wood": 24720,
     "clay": 13310,
@@ -3507,6 +4684,28 @@
     "costPerCpGain": 13690,
     "name": "greatstable",
     "level": 15
+  },
+  {
+    "cpGain": 12,
+    "wood": 38425,
+    "clay": 44135,
+    "iron": 49845,
+    "crop": 32190,
+    "levelCost": 164595,
+    "costPerCpGain": 13716.25,
+    "name": "waterditch",
+    "level": 17
+  },
+  {
+    "cpGain": 19,
+    "wood": 84935,
+    "clay": 45735,
+    "iron": 71870,
+    "crop": 58800,
+    "levelCost": 261340,
+    "costPerCpGain": 13754.736842105263,
+    "name": "horsedrinkingthrough",
+    "level": 20
   },
   {
     "cpGain": 12,
@@ -3540,6 +4739,28 @@
     "costPerCpGain": 14243,
     "name": "warehouse",
     "level": 19
+  },
+  {
+    "cpGain": 9,
+    "wood": 30020,
+    "clay": 34480,
+    "iron": 38940,
+    "crop": 25150,
+    "levelCost": 128590,
+    "costPerCpGain": 14287.777777777777,
+    "name": "waterditch",
+    "level": 16
+  },
+  {
+    "cpGain": 7,
+    "wood": 23450,
+    "clay": 26940,
+    "iron": 30425,
+    "crop": 19650,
+    "levelCost": 100465,
+    "costPerCpGain": 14352.142857142857,
+    "name": "waterditch",
+    "level": 15
   },
   {
     "cpGain": 32,
@@ -3586,6 +4807,17 @@
     "level": 17
   },
   {
+    "cpGain": 7,
+    "wood": 28240,
+    "clay": 17990,
+    "iron": 24180,
+    "crop": 33655,
+    "levelCost": 104065,
+    "costPerCpGain": 14866.42857142857,
+    "name": "brewery",
+    "level": 13
+  },
+  {
     "cpGain": 2,
     "wood": 8555,
     "clay": 5705,
@@ -3606,6 +4838,17 @@
     "costPerCpGain": 15315,
     "name": "tradeoffice",
     "level": 14
+  },
+  {
+    "cpGain": 11,
+    "wood": 46270,
+    "clay": 29475,
+    "iron": 39615,
+    "crop": 55145,
+    "levelCost": 170505,
+    "costPerCpGain": 15500.454545454546,
+    "name": "brewery",
+    "level": 15
   },
   {
     "cpGain": 1,
@@ -3685,6 +4928,17 @@
     "level": 20
   },
   {
+    "cpGain": 13,
+    "wood": 49180,
+    "clay": 56490,
+    "iron": 63805,
+    "crop": 41205,
+    "levelCost": 210680,
+    "costPerCpGain": 16206.153846153846,
+    "name": "waterditch",
+    "level": 18
+  },
+  {
     "cpGain": 2,
     "wood": 9520,
     "clay": 6345,
@@ -3694,6 +4948,17 @@
     "costPerCpGain": 16545,
     "name": "greatbarracks",
     "level": 12
+  },
+  {
+    "cpGain": 8,
+    "wood": 36150,
+    "clay": 23025,
+    "iron": 30950,
+    "crop": 43080,
+    "levelCost": 133205,
+    "costPerCpGain": 16650.625,
+    "name": "brewery",
+    "level": 14
   },
   {
     "cpGain": 1,
@@ -3727,6 +4992,17 @@
     "costPerCpGain": 16750,
     "name": "tradeoffice",
     "level": 13
+  },
+  {
+    "cpGain": 16,
+    "wood": 62950,
+    "clay": 72310,
+    "iron": 81670,
+    "crop": 52745,
+    "levelCost": 269675,
+    "costPerCpGain": 16854.6875,
+    "name": "waterditch",
+    "level": 19
   },
   {
     "cpGain": 3,
@@ -3795,6 +5071,28 @@
     "level": 20
   },
   {
+    "cpGain": 19,
+    "wood": 80580,
+    "clay": 92555,
+    "iron": 104535,
+    "crop": 67510,
+    "levelCost": 345180,
+    "costPerCpGain": 18167.36842105263,
+    "name": "waterditch",
+    "level": 20
+  },
+  {
+    "cpGain": 12,
+    "wood": 59225,
+    "clay": 37725,
+    "iron": 50705,
+    "crop": 70585,
+    "levelCost": 218240,
+    "costPerCpGain": 18186.666666666668,
+    "name": "brewery",
+    "level": 16
+  },
+  {
     "cpGain": 5,
     "wood": 26775,
     "clay": 17850,
@@ -3804,6 +5102,17 @@
     "costPerCpGain": 18615,
     "name": "barracks",
     "level": 18
+  },
+  {
+    "cpGain": 15,
+    "wood": 75810,
+    "clay": 48290,
+    "iron": 64905,
+    "crop": 90345,
+    "levelCost": 279350,
+    "costPerCpGain": 18623.333333333332,
+    "name": "brewery",
+    "level": 17
   },
   {
     "cpGain": 12,
@@ -3872,6 +5181,17 @@
     "level": 10
   },
   {
+    "cpGain": 22,
+    "wood": 124205,
+    "clay": 79115,
+    "iron": 106340,
+    "crop": 148025,
+    "levelCost": 457685,
+    "costPerCpGain": 20803.863636363636,
+    "name": "brewery",
+    "level": 19
+  },
+  {
     "cpGain": 25,
     "wood": 157865,
     "clay": 151095,
@@ -3881,6 +5201,17 @@
     "costPerCpGain": 20838,
     "name": "embassy",
     "level": 20
+  },
+  {
+    "cpGain": 17,
+    "wood": 97035,
+    "clay": 61810,
+    "iron": 83075,
+    "crop": 115645,
+    "levelCost": 357565,
+    "costPerCpGain": 21033.235294117647,
+    "name": "brewery",
+    "level": 18
   },
   {
     "cpGain": 2,
@@ -3914,6 +5245,17 @@
     "costPerCpGain": 23022.5,
     "name": "tradeoffice",
     "level": 19
+  },
+  {
+    "cpGain": 25,
+    "wood": 158980,
+    "clay": 101270,
+    "iron": 136115,
+    "crop": 189470,
+    "levelCost": 585835,
+    "costPerCpGain": 23433.4,
+    "name": "brewery",
+    "level": 20
   },
   {
     "cpGain": 5,
@@ -4291,6 +5633,50 @@
   },
   {
     "cpGain": 0,
+    "wood": 90,
+    "clay": 115,
+    "iron": 220,
+    "crop": 90,
+    "levelCost": 515,
+    "costPerCpGain": 9999999999999,
+    "name": "citywall",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "wood": 145,
+    "clay": 190,
+    "iron": 355,
+    "crop": 145,
+    "levelCost": 835,
+    "costPerCpGain": 9999999999999,
+    "name": "citywall",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "wood": 190,
+    "clay": 240,
+    "iron": 455,
+    "crop": 190,
+    "levelCost": 1075,
+    "costPerCpGain": 9999999999999,
+    "name": "citywall",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "wood": 395,
+    "clay": 505,
+    "iron": 955,
+    "crop": 395,
+    "levelCost": 2250,
+    "costPerCpGain": 9999999999999,
+    "name": "citywall",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
     "wood": 50,
     "clay": 65,
     "iron": 40,
@@ -4331,6 +5717,50 @@
     "levelCost": 730,
     "costPerCpGain": 9999999999999,
     "name": "cranny",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
+    "wood": 155,
+    "clay": 255,
+    "iron": 0,
+    "crop": 100,
+    "levelCost": 510,
+    "costPerCpGain": 9999999999999,
+    "name": "earthwall",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "wood": 250,
+    "clay": 420,
+    "iron": 0,
+    "crop": 170,
+    "levelCost": 840,
+    "costPerCpGain": 9999999999999,
+    "name": "earthwall",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "wood": 320,
+    "clay": 535,
+    "iron": 0,
+    "crop": 215,
+    "levelCost": 1070,
+    "costPerCpGain": 9999999999999,
+    "name": "earthwall",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "wood": 675,
+    "clay": 1125,
+    "iron": 0,
+    "crop": 450,
+    "levelCost": 2250,
+    "costPerCpGain": 9999999999999,
+    "name": "earthwall",
     "level": 8
   },
   {
@@ -4467,6 +5897,17 @@
   },
   {
     "cpGain": 0,
+    "wood": 1000,
+    "clay": 540,
+    "iron": 845,
+    "crop": 690,
+    "levelCost": 3075,
+    "costPerCpGain": 9999999999999,
+    "name": "horsedrinkingthrough",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
     "wood": 360,
     "clay": 810,
     "iron": 920,
@@ -4519,6 +5960,50 @@
     "costPerCpGain": 9999999999999,
     "name": "marketplace",
     "level": 2
+  },
+  {
+    "cpGain": 0,
+    "wood": 205,
+    "clay": 130,
+    "iron": 100,
+    "crop": 75,
+    "levelCost": 510,
+    "costPerCpGain": 9999999999999,
+    "name": "palisade",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "wood": 335,
+    "clay": 210,
+    "iron": 170,
+    "crop": 125,
+    "levelCost": 840,
+    "costPerCpGain": 9999999999999,
+    "name": "palisade",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "wood": 430,
+    "clay": 270,
+    "iron": 215,
+    "crop": 160,
+    "levelCost": 1075,
+    "costPerCpGain": 9999999999999,
+    "name": "palisade",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "wood": 900,
+    "clay": 565,
+    "iron": 450,
+    "crop": 340,
+    "levelCost": 2255,
+    "costPerCpGain": 9999999999999,
+    "name": "palisade",
+    "level": 8
   },
   {
     "cpGain": 0,
@@ -4731,6 +6216,50 @@
   },
   {
     "cpGain": 0,
+    "wood": 105,
+    "clay": 160,
+    "iron": 95,
+    "crop": 120,
+    "levelCost": 480,
+    "costPerCpGain": 9999999999999,
+    "name": "trapper",
+    "level": 2
+  },
+  {
+    "cpGain": 0,
+    "wood": 190,
+    "clay": 280,
+    "iron": 165,
+    "crop": 210,
+    "levelCost": 845,
+    "costPerCpGain": 9999999999999,
+    "name": "trapper",
+    "level": 4
+  },
+  {
+    "cpGain": 0,
+    "wood": 250,
+    "clay": 375,
+    "iron": 220,
+    "crop": 280,
+    "levelCost": 1125,
+    "costPerCpGain": 9999999999999,
+    "name": "trapper",
+    "level": 5
+  },
+  {
+    "cpGain": 0,
+    "wood": 590,
+    "clay": 885,
+    "iron": 515,
+    "crop": 665,
+    "levelCost": 2655,
+    "costPerCpGain": 9999999999999,
+    "name": "trapper",
+    "level": 8
+  },
+  {
+    "cpGain": 0,
     "wood": 185,
     "clay": 240,
     "iron": 135,
@@ -4772,6 +6301,17 @@
     "costPerCpGain": 9999999999999,
     "name": "warehouse",
     "level": 8
+  },
+  {
+    "cpGain": 0,
+    "wood": 945,
+    "clay": 1090,
+    "iron": 1230,
+    "crop": 795,
+    "levelCost": 4060,
+    "costPerCpGain": 9999999999999,
+    "name": "waterditch",
+    "level": 2
   },
   {
     "cpGain": 0,

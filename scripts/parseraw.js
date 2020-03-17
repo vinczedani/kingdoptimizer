@@ -53,6 +53,8 @@ function parseCsvData(fileContent) {
 async function parseraw() {
   const fileNames = await readDir('raw');
   const fileContentContainer = await readFilesInDir('raw', fileNames);
+  delete fileContentContainer.requirements;
+  delete fileContentContainer.storage;
   const dataContainer = parseCsvData(fileContentContainer);
 
   fs.writeFileSync('parsedBuildingData.json', JSON.stringify(dataContainer, null, 2));
