@@ -15,15 +15,26 @@
     <div>
       <TribeSelector/>
     </div>
-    <div class="container">
-      <Villages/>
-      <Buildings/>
-      <Recommendations/>
+    <div class="container" style="padding: 20px">
+      <div style="width: 33%">
+        <Villages/>
+      </div>
+      <div style="width: 66%">
+        <div style="text-align: left">
+          <h1>{{ village.name }} <span v-if="village.isCapital">(capital)</span></h1>
+          <button type='button' @click="markVillageAsCapital(village.id)"> Set as capital </button>
+        </div>
+        <div class="container">
+          <Buildings/>
+          <Recommendations/>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import { mapGetters, mapMutations } from 'vuex';
 import Villages from './Villages';
 import Buildings from './Buildings';
 import TribeSelector from './TribeSelector';
@@ -36,6 +47,16 @@ export default {
     TribeSelector,
     Recommendations,
   },
+  computed: {
+    ...mapGetters({
+      village: 'getActiveVillage'
+    }),
+  },
+  methods: {
+    ...mapMutations({
+      markVillageAsCapital: 'markVillageAsCapital',
+    }),
+  }
 };
 </script>
 

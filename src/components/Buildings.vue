@@ -20,16 +20,20 @@
 <script>
 import { mapGetters, mapMutations } from 'vuex';
 
-import availableBuildings from '../consts/buildings';
+import allBuildings from '../consts/buildings';
+import { filterBuildings } from '../consts/limitations';
 
 export default {
-  data() {
-    return { availableBuildings };
-  },
   computed: {
     ...mapGetters({
       village: 'getActiveVillage'
-    })
+    }),
+    availableBuildings() {
+      const isCapital = this.village.isCapital;
+      const tribe = this.$store.state.tribe;
+      const availableBuildings = filterBuildings(allBuildings, isCapital, tribe);
+      return availableBuildings;
+    }
   },
   methods: {
     ...mapMutations({
