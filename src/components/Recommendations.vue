@@ -30,7 +30,9 @@ export default {
   computed: {
     recommendations() {
       const currentBuildings = this.village.buildings;
-      return getRecommendations(currentBuildings);
+      const isCapital = this.village.isCapital;
+      const tribe = this.$store.state.tribe;
+      return getRecommendations(currentBuildings, isCapital, tribe);
     },
     ...mapGetters({
       village: 'getActiveVillage',

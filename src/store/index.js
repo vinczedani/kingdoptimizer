@@ -12,6 +12,14 @@ const vuexLocal = new VuexPersistence({
 const debug = process.env.NODE_ENV !== 'production'
 
 export default new Vuex.Store({
+  state: {
+    tribe: "roman",
+  },
+  mutations: {
+    setTribe(state, tribe) {
+      state.tribe = tribe;
+    },
+  },
   modules: {
     village,
   },

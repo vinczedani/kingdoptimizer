@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 const state = {
-  villages: [{ id: 1, name: 'Demo village', buildings: [{ id: 1, name: 'mainbuilding', level: 1 }] }],
+  villages: [{ isCapital: true, id: 1, name: 'Demo village', buildings: [{ id: 1, name: 'mainbuilding', level: 1 }] }],
   activeVillageId: 1,
 };
 
@@ -82,6 +82,15 @@ const mutations = {
   },
   sortVillages(state) {
     state.villages.sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : -1);
+  },
+  markVillageAsCapital(state, villageId) {
+    const oldCapital = state.villages.find(v => v.isCapital);
+    if (oldCapital) {
+      oldCapital.isCapital = false;
+    }
+
+    const newCapital = state.villages.find(v => v.id === villageId);
+    newCapital.isCapital = true;
   }
 }
 

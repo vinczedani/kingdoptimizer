@@ -1,11 +1,13 @@
 <template>
   <div class="villages">
     <h2 class="clickable" @click="sortVillages">Villages</h2>
+    <div style="text-align: left; padding-left: 20%">capital</div>
+    <br/>
     <div
       class="villageItem"
       v-for="village in villages"
       :key="village.id">
-        <span v-if="village.isActive">*</span>
+        <input type='checkbox' v-model="village.isCapital" @change="markVillageAsCapital(village.id)" />
         <span class="clickable" @click="setActiveVillage(village.id)">
           <input v-if="village.isActive" type="text" v-model="village.name" @change="saveVillage(village)"/>
           <span v-else style="padding: 10px;">{{ village.name }}</span>
@@ -35,6 +37,7 @@ export default {
     ...mapMutations({
       setActiveVillage: 'setActiveVillage',
       deleteVillage: 'deleteVillage',
+      markVillageAsCapital: 'markVillageAsCapital',
       saveVillage: 'saveVillage',
       sortVillages: 'sortVillages',
     }),

@@ -1,5 +1,9 @@
 #!/usr/bin/env sh
 
+node scripts/parseraw.js
+node scripts/computeCostData.js
+node scripts/idealBuildOrder.js
+
 # abort on errors
 set -e
 

@@ -12,6 +12,9 @@
         Sometimes, it's worth it to build a building with worse res/cp to be able to build a better res/cp building. When calculating res/cp on buildings with missing requirements, the app uses averages.<br>
         Click the recommendation to build it in your active village</div>
     </div>
+    <div>
+      <TribeSelector/>
+    </div>
     <div class="container">
       <Villages/>
       <Buildings/>
@@ -23,12 +26,14 @@
 <script>
 import Villages from './Villages';
 import Buildings from './Buildings';
+import TribeSelector from './TribeSelector';
 import Recommendations from './Recommendations';
 
 export default {
   components: {
     Villages,
     Buildings,
+    TribeSelector,
     Recommendations,
   },
 };
