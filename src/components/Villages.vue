@@ -1,6 +1,6 @@
 <template>
   <div class="villages">
-    <h2>Villages</h2>
+    <h2 class="clickable" @click="sortVillages">Villages</h2>
     <div
       class="villageItem"
       v-for="village in villages"
@@ -17,13 +17,16 @@
 </template>
 
 <script>
-import { mapGetters, mapActions, mapMutations } from 'vuex';
+import { mapActions, mapMutations } from 'vuex';
 
 export default {
   computed: {
-    ...mapGetters({
-      villages: 'getVillages',
-    })
+    villages() {
+      const villages = JSON.parse(JSON.stringify(this.$store.state.village.villages));
+      const activeVillage = villages.find(v => v.id === this.$store.state.village.activeVillageId);
+      activeVillage.isActive = true;
+      return villages;
+    }
   },
   methods: {
     ...mapActions({
@@ -33,6 +36,7 @@ export default {
       setActiveVillage: 'setActiveVillage',
       deleteVillage: 'deleteVillage',
       saveVillage: 'saveVillage',
+      sortVillages: 'sortVillages',
     }),
   }
 }

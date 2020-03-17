@@ -36,8 +36,6 @@ const mutations = {
     state.villages.push(newVillage);
   },
   saveVillage(state, village) {
-    // eslint-disable-next-line no-console
-    console.log(village);
     const changedVillage = state.villages.find(v => v.id === village.id);
     changedVillage.name = village.name;
   },
@@ -81,6 +79,9 @@ const mutations = {
   sortBuildings(state) {
     const activeVillage = state.villages.find(v => v.id === state.activeVillageId);
     activeVillage.buildings.sort((a, b) => (a.name > b.name) ? 1 : -1);
+  },
+  sortVillages(state) {
+    state.villages.sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase()) ? 1 : -1);
   }
 }
 
