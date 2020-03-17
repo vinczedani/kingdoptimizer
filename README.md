@@ -7,7 +7,8 @@ Ui is available on https://vinczedani.github.io/kingdoptimizer/
 - [x] Factor in requirement cost when building has some
 - [x] When a building level is built, missing requirement costs should be updated on buildings depending on the built one
 - [x] Create ui instead of text file
-- [ ] Add tribe specific buildings, walls, fields
+- [x] Add tribe specific buildings, walls
+- [ ] Add fields
 - [ ] Create decent design/favicon, use images, icons instead of text
 - [ ] Factor in building time (with main building level)
 - [ ] Parse current village and suggest next buildings
